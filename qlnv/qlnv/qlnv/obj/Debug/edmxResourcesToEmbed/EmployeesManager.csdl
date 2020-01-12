@@ -1,0 +1,398 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="QLNVModel" Alias="Self" annotation:UseStrongSpatialTypes="false" xmlns:annotation="http://schemas.microsoft.com/ado/2009/02/edm/annotation" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm">
+  <EntityType Name="CHAMCONG">
+    <Key>
+      <PropertyRef Name="MaNV" />
+      <PropertyRef Name="HoTen" />
+      <PropertyRef Name="NgayThang" />
+    </Key>
+    <Property Name="MaNV" Type="String" MaxLength="10" FixedLength="true" Unicode="true" Nullable="false" />
+    <Property Name="HoTen" Type="String" MaxLength="50" FixedLength="false" Unicode="true" Nullable="false" />
+    <Property Name="NgayThang" Type="DateTime" Nullable="false" Precision="0" />
+    <Property Name="CheckIn" Type="Time" Precision="7" />
+    <Property Name="CheckOut" Type="Time" Precision="7" />
+    <Property Name="TG" Type="String" MaxLength="10" FixedLength="true" Unicode="true" />
+    <Property Name="Thang" Type="String" MaxLength="10" FixedLength="true" Unicode="true" />
+  </EntityType>
+  <EntityType Name="DangNhap">
+    <Key>
+      <PropertyRef Name="id" />
+    </Key>
+    <Property Name="id" Type="String" MaxLength="10" FixedLength="true" Unicode="true" Nullable="false" />
+    <Property Name="password" Type="String" MaxLength="10" FixedLength="true" Unicode="true" />
+  </EntityType>
+  <EntityType Name="DUAN">
+    <Key>
+      <PropertyRef Name="MaDA" />
+    </Key>
+    <Property Name="MaDA" Type="String" MaxLength="10" FixedLength="true" Unicode="true" Nullable="false" />
+    <Property Name="TenDA" Type="String" MaxLength="50" FixedLength="false" Unicode="true" />
+    <Property Name="Phong" Type="String" MaxLength="10" FixedLength="true" Unicode="true" />
+    <Property Name="KinhPhi" Type="String" MaxLength="10" FixedLength="true" Unicode="true" />
+    <Property Name="DangTienHanh" Type="String" MaxLength="50" FixedLength="false" Unicode="true" />
+    <NavigationProperty Name="PHANCONGs" Relationship="Self.FK_PHANCONG_DUAN" FromRole="DUAN" ToRole="PHANCONG" />
+  </EntityType>
+  <EntityType Name="PHANCONG">
+    <Key>
+      <PropertyRef Name="MaDA" />
+      <PropertyRef Name="MaNV" />
+    </Key>
+    <Property Name="MaDA" Type="String" MaxLength="10" FixedLength="true" Unicode="true" Nullable="false" />
+    <Property Name="MaNV" Type="String" MaxLength="10" FixedLength="true" Unicode="true" Nullable="false" />
+    <Property Name="TenNV" Type="String" MaxLength="50" FixedLength="false" Unicode="true" />
+    <NavigationProperty Name="DUAN" Relationship="Self.FK_PHANCONG_DUAN" FromRole="PHANCONG" ToRole="DUAN" />
+    <NavigationProperty Name="STAFF" Relationship="Self.FK_PHANCONG_STAFFS" FromRole="PHANCONG" ToRole="STAFFS" />
+  </EntityType>
+  <EntityType Name="PHONGBAN">
+    <Key>
+      <PropertyRef Name="MaPB" />
+    </Key>
+    <Property Name="MaPB" Type="String" MaxLength="10" FixedLength="true" Unicode="true" Nullable="false" />
+    <Property Name="TenPB" Type="String" MaxLength="50" FixedLength="false" Unicode="true" />
+    <Property Name="TruongPhong" Type="String" MaxLength="10" FixedLength="true" Unicode="true" Nullable="false" />
+    <Property Name="TenTrPhong" Type="String" MaxLength="50" FixedLength="false" Unicode="true" />
+    <NavigationProperty Name="STAFF" Relationship="Self.FK_PHONGBAN_STAFFS" FromRole="PHONGBAN" ToRole="STAFFS" />
+  </EntityType>
+  <EntityType Name="STAFF">
+    <Key>
+      <PropertyRef Name="MaNV" />
+    </Key>
+    <Property Name="MaNV" Type="String" MaxLength="10" FixedLength="true" Unicode="true" Nullable="false" />
+    <Property Name="HoTen" Type="String" MaxLength="50" FixedLength="false" Unicode="true" />
+    <Property Name="NgaySinh" Type="DateTime" Precision="0" />
+    <Property Name="Phai" Type="String" MaxLength="10" FixedLength="true" Unicode="true" />
+    <Property Name="SDT" Type="String" MaxLength="10" FixedLength="true" Unicode="true" />
+    <Property Name="DiaChi" Type="String" MaxLength="50" FixedLength="false" Unicode="true" />
+    <Property Name="Luong" Type="String" MaxLength="10" FixedLength="true" Unicode="true" />
+    <Property Name="PhongBan" Type="String" MaxLength="10" FixedLength="true" Unicode="true" />
+    <Property Name="NowWorking" Type="String" MaxLength="50" FixedLength="false" Unicode="true" />
+    <NavigationProperty Name="PHANCONGs" Relationship="Self.FK_PHANCONG_STAFFS" FromRole="STAFFS" ToRole="PHANCONG" />
+    <NavigationProperty Name="PHONGBANs" Relationship="Self.FK_PHONGBAN_STAFFS" FromRole="STAFFS" ToRole="PHONGBAN" />
+  </EntityType>
+  <EntityType Name="TaiKhoan">
+    <Key>
+      <PropertyRef Name="MaNV" />
+    </Key>
+    <Property Name="MaNV" Type="String" MaxLength="10" FixedLength="true" Unicode="true" Nullable="false" />
+    <Property Name="Pass" Type="String" MaxLength="50" FixedLength="false" Unicode="true" Nullable="false" />
+    <Property Name="ChucVu" Type="String" FixedLength="true" Unicode="true" MaxLength="10" />
+  </EntityType>
+  <EntityType Name="TinhLuong">
+    <Key>
+      <PropertyRef Name="ThangNam" />
+      <PropertyRef Name="MaNV" />
+    </Key>
+    <Property Name="ThangNam" Type="String" MaxLength="10" FixedLength="true" Unicode="true" Nullable="false" />
+    <Property Name="MaNV" Type="String" MaxLength="10" FixedLength="true" Unicode="true" Nullable="false" />
+    <Property Name="SoNgayDiLam" Type="String" MaxLength="10" FixedLength="true" Unicode="true" />
+    <Property Name="SoNgayNghi" Type="String" MaxLength="10" FixedLength="true" Unicode="true" />
+    <Property Name="SoNgayTre" Type="String" MaxLength="10" FixedLength="true" Unicode="true" />
+    <Property Name="TienPhat" Type="String" MaxLength="50" FixedLength="false" Unicode="true" />
+    <Property Name="DuAnThamGia" Type="String" MaxLength="10" FixedLength="true" Unicode="true" />
+    <Property Name="TienDuAn" Type="String" MaxLength="50" FixedLength="false" Unicode="true" />
+    <Property Name="LuongCoBan" Type="String" MaxLength="50" FixedLength="false" Unicode="true" />
+    <Property Name="Luong" Type="String" MaxLength="50" FixedLength="false" Unicode="true" />
+  </EntityType>
+  <Association Name="FK_PHANCONG_DUAN">
+    <End Role="DUAN" Type="Self.DUAN" Multiplicity="1" />
+    <End Role="PHANCONG" Type="Self.PHANCONG" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="DUAN">
+        <PropertyRef Name="MaDA" />
+      </Principal>
+      <Dependent Role="PHANCONG">
+        <PropertyRef Name="MaDA" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_PHANCONG_STAFFS">
+    <End Role="STAFFS" Type="Self.STAFF" Multiplicity="1" />
+    <End Role="PHANCONG" Type="Self.PHANCONG" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="STAFFS">
+        <PropertyRef Name="MaNV" />
+      </Principal>
+      <Dependent Role="PHANCONG">
+        <PropertyRef Name="MaNV" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_PHONGBAN_STAFFS">
+    <End Role="STAFFS" Type="Self.STAFF" Multiplicity="1" />
+    <End Role="PHONGBAN" Type="Self.PHONGBAN" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="STAFFS">
+        <PropertyRef Name="MaNV" />
+      </Principal>
+      <Dependent Role="PHONGBAN">
+        <PropertyRef Name="TruongPhong" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <EntityContainer Name="QLNVEntities" annotation:LazyLoadingEnabled="true">
+    <EntitySet Name="CHAMCONGs" EntityType="Self.CHAMCONG" />
+    <EntitySet Name="DangNhaps" EntityType="Self.DangNhap" />
+    <EntitySet Name="DUANs" EntityType="Self.DUAN" />
+    <EntitySet Name="PHANCONGs" EntityType="Self.PHANCONG" />
+    <EntitySet Name="PHONGBANs" EntityType="Self.PHONGBAN" />
+    <EntitySet Name="STAFFS" EntityType="Self.STAFF" />
+    <EntitySet Name="TaiKhoans" EntityType="Self.TaiKhoan" />
+    <EntitySet Name="TinhLuongs" EntityType="Self.TinhLuong" />
+    <AssociationSet Name="FK_PHANCONG_DUAN" Association="Self.FK_PHANCONG_DUAN">
+      <End Role="DUAN" EntitySet="DUANs" />
+      <End Role="PHANCONG" EntitySet="PHANCONGs" />
+    </AssociationSet>
+    <AssociationSet Name="FK_PHANCONG_STAFFS" Association="Self.FK_PHANCONG_STAFFS">
+      <End Role="STAFFS" EntitySet="STAFFS" />
+      <End Role="PHANCONG" EntitySet="PHANCONGs" />
+    </AssociationSet>
+    <AssociationSet Name="FK_PHONGBAN_STAFFS" Association="Self.FK_PHONGBAN_STAFFS">
+      <End Role="STAFFS" EntitySet="STAFFS" />
+      <End Role="PHONGBAN" EntitySet="PHONGBANs" />
+    </AssociationSet>
+    <FunctionImport Name="AssignEmp">
+      <Parameter Name="MaDA" Mode="In" Type="String" />
+      <Parameter Name="MaNV" Mode="In" Type="String" />
+      <Parameter Name="TenNV" Mode="In" Type="String" />
+    </FunctionImport>
+    <FunctionImport Name="CC_Check">
+      <Parameter Name="MaNV" Mode="In" Type="String" />
+      <Parameter Name="NgayThang" Mode="In" Type="DateTime" />
+      <Parameter Name="return" Mode="InOut" Type="String" />
+    </FunctionImport>
+    <FunctionImport Name="CC_edit_info">
+      <Parameter Name="MaNV" Mode="In" Type="String" />
+      <Parameter Name="HoTen" Mode="In" Type="String" />
+      <Parameter Name="NgaySinh" Mode="In" Type="DateTime" />
+      <Parameter Name="DiaChi" Mode="In" Type="String" />
+      <Parameter Name="SDT" Mode="In" Type="String" />
+    </FunctionImport>
+    <FunctionImport Name="CC_InsertCC">
+      <Parameter Name="MaNV" Mode="In" Type="String" />
+      <Parameter Name="HoTen" Mode="In" Type="String" />
+      <Parameter Name="NgayThang" Mode="In" Type="DateTime" />
+      <Parameter Name="CheckIn" Mode="In" Type="Time" />
+      <Parameter Name="Thang" Mode="In" Type="String" />
+    </FunctionImport>
+    <FunctionImport Name="CC_InsertRaVe">
+      <Parameter Name="MaNV" Mode="In" Type="String" />
+      <Parameter Name="NgayThang" Mode="In" Type="DateTime" />
+      <Parameter Name="CheckOut" Mode="In" Type="String" />
+    </FunctionImport>
+    <FunctionImport Name="CC_load_bangCC" ReturnType="Collection(QLNVModel.CC_load_bangCC_Result)">
+      <Parameter Name="MaNV" Mode="In" Type="String" />
+      <Parameter Name="Thang" Mode="In" Type="String" />
+    </FunctionImport>
+    <FunctionImport Name="CC_Load_Emp" ReturnType="Collection(QLNVModel.CC_Load_Emp_Result)">
+      <Parameter Name="MaNV" Mode="In" Type="String" />
+    </FunctionImport>
+    <FunctionImport Name="CC_load_ID" ReturnType="Collection(QLNVModel.CC_load_ID_Result)">
+      <Parameter Name="MaNV" Mode="In" Type="String" />
+    </FunctionImport>
+    <FunctionImport Name="CC_Salary" ReturnType="Collection(QLNVModel.CC_Salary_Result)">
+      <Parameter Name="MaNV" Mode="In" Type="String" />
+      <Parameter Name="NgayThang" Mode="In" Type="String" />
+    </FunctionImport>
+    <FunctionImport Name="CC_Sua_MK">
+      <Parameter Name="MaNV" Mode="In" Type="String" />
+      <Parameter Name="Pass" Mode="In" Type="String" />
+    </FunctionImport>
+    <FunctionImport Name="CheckID">
+      <Parameter Name="MaNV" Mode="In" Type="String" />
+      <Parameter Name="return" Mode="InOut" Type="String" />
+    </FunctionImport>
+    <FunctionImport Name="CheckMaNV">
+      <Parameter Name="MaNV" Mode="In" Type="String" />
+    </FunctionImport>
+    <FunctionImport Name="Delete_Staff">
+      <Parameter Name="MaNV" Mode="In" Type="String" />
+    </FunctionImport>
+    <FunctionImport Name="DeleteEmpInPro">
+      <Parameter Name="MaDA" Mode="In" Type="String" />
+      <Parameter Name="MaNV" Mode="In" Type="String" />
+    </FunctionImport>
+    <FunctionImport Name="Edit_Project">
+      <Parameter Name="MaDA" Mode="In" Type="String" />
+      <Parameter Name="TenDA" Mode="In" Type="String" />
+      <Parameter Name="Phong" Mode="In" Type="String" />
+      <Parameter Name="KinhPhi" Mode="In" Type="String" />
+      <Parameter Name="DangTienHanh" Mode="In" Type="String" />
+    </FunctionImport>
+    <FunctionImport Name="EditDept">
+      <Parameter Name="MaPB" Mode="In" Type="String" />
+      <Parameter Name="TenPB" Mode="In" Type="String" />
+      <Parameter Name="TruongPhong" Mode="In" Type="String" />
+      <Parameter Name="TenTrPhong" Mode="In" Type="String" />
+    </FunctionImport>
+    <FunctionImport Name="editStaff">
+      <Parameter Name="MaNV" Mode="In" Type="String" />
+      <Parameter Name="HoTen" Mode="In" Type="String" />
+      <Parameter Name="NgaySinh" Mode="In" Type="DateTime" />
+      <Parameter Name="Phai" Mode="In" Type="String" />
+      <Parameter Name="SDT" Mode="In" Type="String" />
+      <Parameter Name="DiaChi" Mode="In" Type="String" />
+      <Parameter Name="Luong" Mode="In" Type="String" />
+      <Parameter Name="PhongBan" Mode="In" Type="String" />
+      <Parameter Name="NowWorking" Mode="In" Type="String" />
+    </FunctionImport>
+    <FunctionImport Name="FindDept" ReturnType="Collection(String)">
+      <Parameter Name="MaPB" Mode="In" Type="String" />
+    </FunctionImport>
+    <FunctionImport Name="FindProject" ReturnType="Collection(QLNVModel.FindProject_Result)">
+      <Parameter Name="TenDA" Mode="In" Type="String" />
+    </FunctionImport>
+    <FunctionImport Name="FindStaff" ReturnType="Collection(String)">
+      <Parameter Name="MaNV" Mode="In" Type="String" />
+    </FunctionImport>
+    <FunctionImport Name="Hide_staff">
+      <Parameter Name="NowWorking" Mode="In" Type="String" />
+      <Parameter Name="MaNV" Mode="In" Type="String" />
+    </FunctionImport>
+    <FunctionImport Name="Insert_Proj">
+      <Parameter Name="MaDA" Mode="In" Type="String" />
+      <Parameter Name="TenDA" Mode="In" Type="String" />
+      <Parameter Name="Phong" Mode="In" Type="String" />
+      <Parameter Name="KinhPhi" Mode="In" Type="String" />
+      <Parameter Name="DangTienHanh" Mode="In" Type="String" />
+    </FunctionImport>
+    <FunctionImport Name="InsertDept">
+      <Parameter Name="MaPB" Mode="In" Type="String" />
+      <Parameter Name="TenPB" Mode="In" Type="String" />
+      <Parameter Name="TruongPhong" Mode="In" Type="String" />
+      <Parameter Name="TenTrPhong" Mode="In" Type="String" />
+    </FunctionImport>
+    <FunctionImport Name="insertStaff">
+      <Parameter Name="MaNV" Mode="In" Type="String" />
+      <Parameter Name="HoTen" Mode="In" Type="String" />
+      <Parameter Name="NgaySinh" Mode="In" Type="DateTime" />
+      <Parameter Name="Phai" Mode="In" Type="String" />
+      <Parameter Name="SDT" Mode="In" Type="String" />
+      <Parameter Name="DiaChi" Mode="In" Type="String" />
+      <Parameter Name="Luong" Mode="In" Type="String" />
+      <Parameter Name="PhongBan" Mode="In" Type="String" />
+      <Parameter Name="NowWorking" Mode="In" Type="String" />
+    </FunctionImport>
+    <FunctionImport Name="Load_Dept" ReturnType="Collection(QLNVModel.Load_Dept_Result)" />
+    <FunctionImport Name="Load_Emp_Grby_Dept" ReturnType="Collection(QLNVModel.Load_Emp_Grby_Dept_Result)">
+      <Parameter Name="MaPB" Mode="In" Type="String" />
+    </FunctionImport>
+    <FunctionImport Name="Load_Employee" ReturnType="Collection(QLNVModel.Load_Employee_Result)" />
+    <FunctionImport Name="Load_Project" ReturnType="Collection(QLNVModel.Load_Project_Result)" />
+    <FunctionImport Name="LoadEmpProject" ReturnType="Collection(QLNVModel.LoadEmpProject_Result)">
+      <Parameter Name="MaDA" Mode="In" Type="String" />
+    </FunctionImport>
+    <FunctionImport Name="Login">
+      <Parameter Name="MaNV" Mode="In" Type="String" />
+      <Parameter Name="Password" Mode="In" Type="String" />
+      <Parameter Name="ChucVu" Mode="InOut" Type="String" />
+    </FunctionImport>
+    <FunctionImport Name="ProFindEmpName" ReturnType="Collection(String)">
+      <Parameter Name="MaNV" Mode="In" Type="String" />
+      <Parameter Name="MaDA" Mode="In" Type="String" />
+    </FunctionImport>
+    <FunctionImport Name="Salary_Insert">
+      <Parameter Name="ThangNam" Mode="In" Type="String" />
+      <Parameter Name="MaNV" Mode="In" Type="String" />
+      <Parameter Name="SoNgayDiLam" Mode="In" Type="String" />
+      <Parameter Name="SoNgayNghi" Mode="In" Type="String" />
+      <Parameter Name="SoNgayDiTre" Mode="In" Type="String" />
+      <Parameter Name="TienPhat" Mode="In" Type="String" />
+      <Parameter Name="DuAnThamGia" Mode="In" Type="String" />
+      <Parameter Name="TienThuong" Mode="In" Type="String" />
+      <Parameter Name="LuongCoBan" Mode="In" Type="String" />
+      <Parameter Name="TongLuong" Mode="In" Type="String" />
+    </FunctionImport>
+    <FunctionImport Name="Search_employee" ReturnType="Collection(QLNVModel.Search_employee_Result)">
+      <Parameter Name="Hoten" Mode="In" Type="String" />
+    </FunctionImport>
+    <FunctionImport Name="SignUp">
+      <Parameter Name="MaNV" Mode="In" Type="String" />
+      <Parameter Name="Pass" Mode="In" Type="String" />
+      <Parameter Name="ChucVu" Mode="In" Type="String" />
+    </FunctionImport>
+  </EntityContainer>
+  <ComplexType Name="CC_load_bangCC_Result">
+    <Property Type="DateTime" Name="NgayThang" Nullable="false" />
+    <Property Type="Time" Name="CheckIn" Nullable="true" />
+    <Property Type="Time" Name="CheckOut" Nullable="true" />
+  </ComplexType>
+  <ComplexType Name="CC_Load_Emp_Result">
+    <Property Type="String" Name="HoTen" Nullable="true" MaxLength="50" />
+    <Property Type="DateTime" Name="NgaySinh" Nullable="true" />
+    <Property Type="String" Name="DiaChi" Nullable="true" MaxLength="50" />
+    <Property Type="String" Name="SDT" Nullable="true" MaxLength="10" />
+  </ComplexType>
+  <ComplexType Name="CC_load_ID_Result">
+    <Property Type="String" Name="MaNV" Nullable="false" MaxLength="10" />
+    <Property Type="String" Name="Pass" Nullable="false" MaxLength="50" />
+  </ComplexType>
+  <ComplexType Name="CC_Salary_Result">
+    <Property Type="Int32" Name="SoNgayDiLam" Nullable="true" />
+    <Property Type="Int32" Name="SoNgayDiTre" Nullable="false" />
+    <Property Type="Int32" Name="SoDuAnThamGia" Nullable="true" />
+    <Property Type="String" Name="Luong" Nullable="true" MaxLength="10" />
+  </ComplexType>
+  <ComplexType Name="FindProject_Result">
+    <Property Type="String" Name="MaDA" Nullable="false" MaxLength="10" />
+    <Property Type="String" Name="TenDA" Nullable="true" MaxLength="50" />
+    <Property Type="String" Name="Phong" Nullable="true" MaxLength="10" />
+    <Property Type="String" Name="KinhPhi" Nullable="true" MaxLength="10" />
+    <Property Type="String" Name="DangTienHanh" Nullable="true" MaxLength="50" />
+  </ComplexType>
+  <ComplexType Name="Load_Dept_Result">
+    <Property Type="String" Name="MaPB" Nullable="false" MaxLength="10" />
+    <Property Type="String" Name="TenPB" Nullable="true" MaxLength="50" />
+    <Property Type="String" Name="TruongPhong" Nullable="false" MaxLength="10" />
+    <Property Type="String" Name="TenTrPhong" Nullable="true" MaxLength="50" />
+  </ComplexType>
+  <ComplexType Name="Load_Emp_Grby_Dept_Result">
+    <Property Type="String" Name="MaNV" Nullable="false" MaxLength="10" />
+    <Property Type="String" Name="HoTen" Nullable="true" MaxLength="50" />
+    <Property Type="DateTime" Name="NgaySinh" Nullable="true" />
+    <Property Type="String" Name="Phai" Nullable="true" MaxLength="10" />
+    <Property Type="String" Name="SDT" Nullable="true" MaxLength="10" />
+    <Property Type="String" Name="DiaChi" Nullable="true" MaxLength="50" />
+    <Property Type="String" Name="Luong" Nullable="true" MaxLength="10" />
+    <Property Type="String" Name="PHONGBAN" Nullable="true" MaxLength="10" />
+  </ComplexType>
+  <ComplexType Name="Load_Employee_Result">
+    <Property Type="String" Name="MaNV" Nullable="false" MaxLength="10" />
+    <Property Type="String" Name="HoTen" Nullable="true" MaxLength="50" />
+    <Property Type="DateTime" Name="NgaySinh" Nullable="true" />
+    <Property Type="String" Name="Phai" Nullable="true" MaxLength="10" />
+    <Property Type="String" Name="SDT" Nullable="true" MaxLength="10" />
+    <Property Type="String" Name="DiaChi" Nullable="true" MaxLength="50" />
+    <Property Type="String" Name="Luong" Nullable="true" MaxLength="10" />
+    <Property Type="String" Name="PhongBan" Nullable="true" MaxLength="10" />
+    <Property Type="String" Name="NowWorking" Nullable="true" MaxLength="50" />
+  </ComplexType>
+  <ComplexType Name="Load_Project_Result">
+    <Property Type="String" Name="MaDA" Nullable="false" MaxLength="10" />
+    <Property Type="String" Name="TenDA" Nullable="true" MaxLength="50" />
+    <Property Type="String" Name="Phong" Nullable="true" MaxLength="10" />
+    <Property Type="String" Name="KinhPhi" Nullable="true" MaxLength="10" />
+    <Property Type="String" Name="DangTienHanh" Nullable="true" MaxLength="50" />
+  </ComplexType>
+  <ComplexType Name="LoadEmpProject_Result">
+    <Property Type="String" Name="MaNV" Nullable="false" MaxLength="10" />
+    <Property Type="String" Name="HoTen" Nullable="true" MaxLength="50" />
+    <Property Type="DateTime" Name="NgaySinh" Nullable="true" />
+    <Property Type="String" Name="Phai" Nullable="true" MaxLength="10" />
+    <Property Type="String" Name="SDT" Nullable="true" MaxLength="10" />
+    <Property Type="String" Name="DiaChi" Nullable="true" MaxLength="50" />
+    <Property Type="String" Name="Luong" Nullable="true" MaxLength="10" />
+    <Property Type="String" Name="PhongBan" Nullable="true" MaxLength="10" />
+    <Property Type="String" Name="NowWorking" Nullable="true" MaxLength="50" />
+  </ComplexType>
+  <ComplexType Name="Search_employee_Result">
+    <Property Type="String" Name="MaNV" Nullable="false" MaxLength="10" />
+    <Property Type="String" Name="HoTen" Nullable="true" MaxLength="50" />
+    <Property Type="DateTime" Name="NgaySinh" Nullable="true" />
+    <Property Type="String" Name="Phai" Nullable="true" MaxLength="10" />
+    <Property Type="String" Name="SDT" Nullable="true" MaxLength="10" />
+    <Property Type="String" Name="DiaChi" Nullable="true" MaxLength="50" />
+    <Property Type="String" Name="Luong" Nullable="true" MaxLength="10" />
+    <Property Type="String" Name="PhongBan" Nullable="true" MaxLength="10" />
+    <Property Type="String" Name="NowWorking" Nullable="true" MaxLength="50" />
+  </ComplexType>
+</Schema>

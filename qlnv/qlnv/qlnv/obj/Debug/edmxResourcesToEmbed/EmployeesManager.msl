@@ -1,0 +1,247 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2009/11/mapping/cs">
+  <EntityContainerMapping StorageEntityContainer="QLNVModelStoreContainer" CdmEntityContainer="QLNVEntities">
+    <EntitySetMapping Name="CHAMCONGs">
+      <EntityTypeMapping TypeName="QLNVModel.CHAMCONG">
+        <MappingFragment StoreEntitySet="CHAMCONG">
+          <ScalarProperty Name="MaNV" ColumnName="MaNV" />
+          <ScalarProperty Name="HoTen" ColumnName="HoTen" />
+          <ScalarProperty Name="NgayThang" ColumnName="NgayThang" />
+          <ScalarProperty Name="CheckIn" ColumnName="CheckIn" />
+          <ScalarProperty Name="CheckOut" ColumnName="CheckOut" />
+          <ScalarProperty Name="TG" ColumnName="TG" />
+          <ScalarProperty Name="Thang" ColumnName="Thang" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="DangNhaps">
+      <EntityTypeMapping TypeName="QLNVModel.DangNhap">
+        <MappingFragment StoreEntitySet="DangNhap">
+          <ScalarProperty Name="id" ColumnName="id" />
+          <ScalarProperty Name="password" ColumnName="password" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="DUANs">
+      <EntityTypeMapping TypeName="QLNVModel.DUAN">
+        <MappingFragment StoreEntitySet="DUAN">
+          <ScalarProperty Name="MaDA" ColumnName="MaDA" />
+          <ScalarProperty Name="TenDA" ColumnName="TenDA" />
+          <ScalarProperty Name="Phong" ColumnName="Phong" />
+          <ScalarProperty Name="KinhPhi" ColumnName="KinhPhi" />
+          <ScalarProperty Name="DangTienHanh" ColumnName="DangTienHanh" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="PHANCONGs">
+      <EntityTypeMapping TypeName="QLNVModel.PHANCONG">
+        <MappingFragment StoreEntitySet="PHANCONG">
+          <ScalarProperty Name="MaDA" ColumnName="MaDA" />
+          <ScalarProperty Name="MaNV" ColumnName="MaNV" />
+          <ScalarProperty Name="TenNV" ColumnName="TenNV" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="PHONGBANs">
+      <EntityTypeMapping TypeName="QLNVModel.PHONGBAN">
+        <MappingFragment StoreEntitySet="PHONGBAN">
+          <ScalarProperty Name="MaPB" ColumnName="MaPB" />
+          <ScalarProperty Name="TenPB" ColumnName="TenPB" />
+          <ScalarProperty Name="TruongPhong" ColumnName="TruongPhong" />
+          <ScalarProperty Name="TenTrPhong" ColumnName="TenTrPhong" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="STAFFS">
+      <EntityTypeMapping TypeName="QLNVModel.STAFF">
+        <MappingFragment StoreEntitySet="STAFFS">
+          <ScalarProperty Name="MaNV" ColumnName="MaNV" />
+          <ScalarProperty Name="HoTen" ColumnName="HoTen" />
+          <ScalarProperty Name="NgaySinh" ColumnName="NgaySinh" />
+          <ScalarProperty Name="Phai" ColumnName="Phai" />
+          <ScalarProperty Name="SDT" ColumnName="SDT" />
+          <ScalarProperty Name="DiaChi" ColumnName="DiaChi" />
+          <ScalarProperty Name="Luong" ColumnName="Luong" />
+          <ScalarProperty Name="PhongBan" ColumnName="PhongBan" />
+          <ScalarProperty Name="NowWorking" ColumnName="NowWorking" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="TaiKhoans">
+      <EntityTypeMapping TypeName="QLNVModel.TaiKhoan">
+        <MappingFragment StoreEntitySet="TaiKhoan">
+          <ScalarProperty Name="MaNV" ColumnName="MaNV" />
+          <ScalarProperty Name="Pass" ColumnName="Pass" />
+          <ScalarProperty Name="ChucVu" ColumnName="ChucVu" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="TinhLuongs">
+      <EntityTypeMapping TypeName="QLNVModel.TinhLuong">
+        <MappingFragment StoreEntitySet="TinhLuong">
+          <ScalarProperty Name="ThangNam" ColumnName="ThangNam" />
+          <ScalarProperty Name="MaNV" ColumnName="MaNV" />
+          <ScalarProperty Name="SoNgayDiLam" ColumnName="SoNgayDiLam" />
+          <ScalarProperty Name="SoNgayNghi" ColumnName="SoNgayNghi" />
+          <ScalarProperty Name="SoNgayTre" ColumnName="SoNgayTre" />
+          <ScalarProperty Name="TienPhat" ColumnName="TienPhat" />
+          <ScalarProperty Name="DuAnThamGia" ColumnName="DuAnThamGia" />
+          <ScalarProperty Name="TienDuAn" ColumnName="TienDuAn" />
+          <ScalarProperty Name="LuongCoBan" ColumnName="LuongCoBan" />
+          <ScalarProperty Name="Luong" ColumnName="Luong" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <FunctionImportMapping FunctionImportName="AssignEmp" FunctionName="QLNVModel.Store.AssignEmp" />
+    <FunctionImportMapping FunctionImportName="CC_Check" FunctionName="QLNVModel.Store.CC_Check" />
+    <FunctionImportMapping FunctionImportName="CC_edit_info" FunctionName="QLNVModel.Store.CC_edit_info" />
+    <FunctionImportMapping FunctionImportName="CC_InsertCC" FunctionName="QLNVModel.Store.CC_InsertCC" />
+    <FunctionImportMapping FunctionImportName="CC_InsertRaVe" FunctionName="QLNVModel.Store.CC_InsertRaVe" />
+    <FunctionImportMapping FunctionImportName="CC_load_bangCC" FunctionName="QLNVModel.Store.CC_load_bangCC">
+      <ResultMapping>
+        <ComplexTypeMapping TypeName="QLNVModel.CC_load_bangCC_Result">
+          <ScalarProperty Name="NgayThang" ColumnName="NgayThang" />
+          <ScalarProperty Name="CheckIn" ColumnName="CheckIn" />
+          <ScalarProperty Name="CheckOut" ColumnName="CheckOut" />
+        </ComplexTypeMapping>
+      </ResultMapping>
+    </FunctionImportMapping>
+    <FunctionImportMapping FunctionImportName="CC_Load_Emp" FunctionName="QLNVModel.Store.CC_Load_Emp">
+      <ResultMapping>
+        <ComplexTypeMapping TypeName="QLNVModel.CC_Load_Emp_Result">
+          <ScalarProperty Name="HoTen" ColumnName="HoTen" />
+          <ScalarProperty Name="NgaySinh" ColumnName="NgaySinh" />
+          <ScalarProperty Name="DiaChi" ColumnName="DiaChi" />
+          <ScalarProperty Name="SDT" ColumnName="SDT" />
+        </ComplexTypeMapping>
+      </ResultMapping>
+    </FunctionImportMapping>
+    <FunctionImportMapping FunctionImportName="CC_load_ID" FunctionName="QLNVModel.Store.CC_load_ID">
+      <ResultMapping>
+        <ComplexTypeMapping TypeName="QLNVModel.CC_load_ID_Result">
+          <ScalarProperty Name="MaNV" ColumnName="MaNV" />
+          <ScalarProperty Name="Pass" ColumnName="Pass" />
+        </ComplexTypeMapping>
+      </ResultMapping>
+    </FunctionImportMapping>
+    <FunctionImportMapping FunctionImportName="CC_Salary" FunctionName="QLNVModel.Store.CC_Salary">
+      <ResultMapping>
+        <ComplexTypeMapping TypeName="QLNVModel.CC_Salary_Result">
+          <ScalarProperty Name="SoNgayDiLam" ColumnName="SoNgayDiLam" />
+          <ScalarProperty Name="SoNgayDiTre" ColumnName="SoNgayDiTre" />
+          <ScalarProperty Name="SoDuAnThamGia" ColumnName="SoDuAnThamGia" />
+          <ScalarProperty Name="Luong" ColumnName="Luong" />
+        </ComplexTypeMapping>
+      </ResultMapping>
+    </FunctionImportMapping>
+    <FunctionImportMapping FunctionImportName="CC_Sua_MK" FunctionName="QLNVModel.Store.CC_Sua_MK" />
+    <FunctionImportMapping FunctionImportName="CheckID" FunctionName="QLNVModel.Store.CheckID" />
+    <FunctionImportMapping FunctionImportName="CheckMaNV" FunctionName="QLNVModel.Store.CheckMaNV" />
+    <FunctionImportMapping FunctionImportName="Delete_Staff" FunctionName="QLNVModel.Store.Delete_Staff" />
+    <FunctionImportMapping FunctionImportName="DeleteEmpInPro" FunctionName="QLNVModel.Store.DeleteEmpInPro" />
+    <FunctionImportMapping FunctionImportName="Edit_Project" FunctionName="QLNVModel.Store.Edit_Project" />
+    <FunctionImportMapping FunctionImportName="EditDept" FunctionName="QLNVModel.Store.EditDept" />
+    <FunctionImportMapping FunctionImportName="editStaff" FunctionName="QLNVModel.Store.editStaff" />
+    <FunctionImportMapping FunctionImportName="FindDept" FunctionName="QLNVModel.Store.FindDept" />
+    <FunctionImportMapping FunctionImportName="FindProject" FunctionName="QLNVModel.Store.FindProject">
+      <ResultMapping>
+        <ComplexTypeMapping TypeName="QLNVModel.FindProject_Result">
+          <ScalarProperty Name="MaDA" ColumnName="MaDA" />
+          <ScalarProperty Name="TenDA" ColumnName="TenDA" />
+          <ScalarProperty Name="Phong" ColumnName="Phong" />
+          <ScalarProperty Name="KinhPhi" ColumnName="KinhPhi" />
+          <ScalarProperty Name="DangTienHanh" ColumnName="DangTienHanh" />
+        </ComplexTypeMapping>
+      </ResultMapping>
+    </FunctionImportMapping>
+    <FunctionImportMapping FunctionImportName="FindStaff" FunctionName="QLNVModel.Store.FindStaff" />
+    <FunctionImportMapping FunctionImportName="Hide_staff" FunctionName="QLNVModel.Store.Hide_staff" />
+    <FunctionImportMapping FunctionImportName="Insert_Proj" FunctionName="QLNVModel.Store.Insert_Proj" />
+    <FunctionImportMapping FunctionImportName="InsertDept" FunctionName="QLNVModel.Store.InsertDept" />
+    <FunctionImportMapping FunctionImportName="insertStaff" FunctionName="QLNVModel.Store.insertStaff" />
+    <FunctionImportMapping FunctionImportName="Load_Dept" FunctionName="QLNVModel.Store.Load_Dept">
+      <ResultMapping>
+        <ComplexTypeMapping TypeName="QLNVModel.Load_Dept_Result">
+          <ScalarProperty Name="MaPB" ColumnName="MaPB" />
+          <ScalarProperty Name="TenPB" ColumnName="TenPB" />
+          <ScalarProperty Name="TruongPhong" ColumnName="TruongPhong" />
+          <ScalarProperty Name="TenTrPhong" ColumnName="TenTrPhong" />
+        </ComplexTypeMapping>
+      </ResultMapping>
+    </FunctionImportMapping>
+    <FunctionImportMapping FunctionImportName="Load_Emp_Grby_Dept" FunctionName="QLNVModel.Store.Load_Emp_Grby_Dept">
+      <ResultMapping>
+        <ComplexTypeMapping TypeName="QLNVModel.Load_Emp_Grby_Dept_Result">
+          <ScalarProperty Name="MaNV" ColumnName="MaNV" />
+          <ScalarProperty Name="HoTen" ColumnName="HoTen" />
+          <ScalarProperty Name="NgaySinh" ColumnName="NgaySinh" />
+          <ScalarProperty Name="Phai" ColumnName="Phai" />
+          <ScalarProperty Name="SDT" ColumnName="SDT" />
+          <ScalarProperty Name="DiaChi" ColumnName="DiaChi" />
+          <ScalarProperty Name="Luong" ColumnName="Luong" />
+          <ScalarProperty Name="PHONGBAN" ColumnName="PHONGBAN" />
+        </ComplexTypeMapping>
+      </ResultMapping>
+    </FunctionImportMapping>
+    <FunctionImportMapping FunctionImportName="Load_Employee" FunctionName="QLNVModel.Store.Load_Employee">
+      <ResultMapping>
+        <ComplexTypeMapping TypeName="QLNVModel.Load_Employee_Result">
+          <ScalarProperty Name="MaNV" ColumnName="MaNV" />
+          <ScalarProperty Name="HoTen" ColumnName="HoTen" />
+          <ScalarProperty Name="NgaySinh" ColumnName="NgaySinh" />
+          <ScalarProperty Name="Phai" ColumnName="Phai" />
+          <ScalarProperty Name="SDT" ColumnName="SDT" />
+          <ScalarProperty Name="DiaChi" ColumnName="DiaChi" />
+          <ScalarProperty Name="Luong" ColumnName="Luong" />
+          <ScalarProperty Name="PhongBan" ColumnName="PhongBan" />
+          <ScalarProperty Name="NowWorking" ColumnName="NowWorking" />
+        </ComplexTypeMapping>
+      </ResultMapping>
+    </FunctionImportMapping>
+    <FunctionImportMapping FunctionImportName="Load_Project" FunctionName="QLNVModel.Store.Load_Project">
+      <ResultMapping>
+        <ComplexTypeMapping TypeName="QLNVModel.Load_Project_Result">
+          <ScalarProperty Name="MaDA" ColumnName="MaDA" />
+          <ScalarProperty Name="TenDA" ColumnName="TenDA" />
+          <ScalarProperty Name="Phong" ColumnName="Phong" />
+          <ScalarProperty Name="KinhPhi" ColumnName="KinhPhi" />
+          <ScalarProperty Name="DangTienHanh" ColumnName="DangTienHanh" />
+        </ComplexTypeMapping>
+      </ResultMapping>
+    </FunctionImportMapping>
+    <FunctionImportMapping FunctionImportName="LoadEmpProject" FunctionName="QLNVModel.Store.LoadEmpProject">
+      <ResultMapping>
+        <ComplexTypeMapping TypeName="QLNVModel.LoadEmpProject_Result">
+          <ScalarProperty Name="MaNV" ColumnName="MaNV" />
+          <ScalarProperty Name="HoTen" ColumnName="HoTen" />
+          <ScalarProperty Name="NgaySinh" ColumnName="NgaySinh" />
+          <ScalarProperty Name="Phai" ColumnName="Phai" />
+          <ScalarProperty Name="SDT" ColumnName="SDT" />
+          <ScalarProperty Name="DiaChi" ColumnName="DiaChi" />
+          <ScalarProperty Name="Luong" ColumnName="Luong" />
+          <ScalarProperty Name="PhongBan" ColumnName="PhongBan" />
+          <ScalarProperty Name="NowWorking" ColumnName="NowWorking" />
+        </ComplexTypeMapping>
+      </ResultMapping>
+    </FunctionImportMapping>
+    <FunctionImportMapping FunctionImportName="Login" FunctionName="QLNVModel.Store.Login" />
+    <FunctionImportMapping FunctionImportName="ProFindEmpName" FunctionName="QLNVModel.Store.ProFindEmpName" />
+    <FunctionImportMapping FunctionImportName="Salary_Insert" FunctionName="QLNVModel.Store.Salary_Insert" />
+    <FunctionImportMapping FunctionImportName="Search_employee" FunctionName="QLNVModel.Store.Search_employee">
+      <ResultMapping>
+        <ComplexTypeMapping TypeName="QLNVModel.Search_employee_Result">
+          <ScalarProperty Name="MaNV" ColumnName="MaNV" />
+          <ScalarProperty Name="HoTen" ColumnName="HoTen" />
+          <ScalarProperty Name="NgaySinh" ColumnName="NgaySinh" />
+          <ScalarProperty Name="Phai" ColumnName="Phai" />
+          <ScalarProperty Name="SDT" ColumnName="SDT" />
+          <ScalarProperty Name="DiaChi" ColumnName="DiaChi" />
+          <ScalarProperty Name="Luong" ColumnName="Luong" />
+          <ScalarProperty Name="PhongBan" ColumnName="PhongBan" />
+          <ScalarProperty Name="NowWorking" ColumnName="NowWorking" />
+        </ComplexTypeMapping>
+      </ResultMapping>
+    </FunctionImportMapping>
+    <FunctionImportMapping FunctionImportName="SignUp" FunctionName="QLNVModel.Store.SignUp" />
+  </EntityContainerMapping>
+</Mapping>

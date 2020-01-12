@@ -1,0 +1,166 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="STAFFMANAGERSModel.Store" Provider="System.Data.SqlClient" ProviderManifestToken="2012" Alias="Self" xmlns:store="http://schemas.microsoft.com/ado/2007/12/edm/EntityStoreSchemaGenerator" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm/ssdl">
+  <!--Errors Found During Generation:
+warning 6013: The table/view 'STAFFMANAGERS.dbo.ACCOUNT' does not have a primary key defined and no valid primary key could be inferred. This table/view has been excluded. To use the entity, you will need to review your schema, add the correct keys, and uncomment it.
+        <EntityType Name="ACCOUNT">
+          <Property Name="UserID" Type="nchar" MaxLength="10" />
+          <Property Name="Password" Type="nvarchar" MaxLength="50" />
+        </EntityType>-->
+  <EntityType Name="CCONG">
+    <Key>
+      <PropertyRef Name="MaNV" />
+      <PropertyRef Name="Ngay" />
+    </Key>
+    <Property Name="MaNV" Type="nchar" MaxLength="10" Nullable="false" />
+    <Property Name="Ngay" Type="date" Nullable="false" />
+    <Property Name="Checkin" Type="time" Precision="7" />
+    <Property Name="Checkout" Type="time" Precision="7" />
+    <Property Name="TongGio" Type="nvarchar" MaxLength="50" />
+  </EntityType>
+  <!--Errors Found During Generation:
+warning 6002: The table/view 'STAFFMANAGERS.dbo.CHAMCONG' does not have a primary key defined. The key has been inferred and the definition was created as a read-only table/view.-->
+  <EntityType Name="CHAMCONG">
+    <Key>
+      <PropertyRef Name="MaNV" />
+    </Key>
+    <Property Name="MaNV" Type="nchar" MaxLength="10" Nullable="false" />
+    <Property Name="CheckIn" Type="time" Precision="7" />
+    <Property Name="CheckOut" Type="time" Precision="7" />
+    <Property Name="Thang" Type="nchar" MaxLength="10" />
+    <Property Name="HoTen" Type="nvarchar" MaxLength="50" />
+  </EntityType>
+  <EntityType Name="DangNhap">
+    <Key>
+      <PropertyRef Name="id" />
+    </Key>
+    <Property Name="id" Type="nchar" MaxLength="10" Nullable="false" />
+    <Property Name="password" Type="nchar" MaxLength="10" />
+  </EntityType>
+  <EntityType Name="DUAN">
+    <Key>
+      <PropertyRef Name="MaDA" />
+    </Key>
+    <Property Name="MaDA" Type="nchar" MaxLength="10" Nullable="false" />
+    <Property Name="TenDA" Type="nvarchar" MaxLength="50" />
+    <Property Name="Phong" Type="nchar" MaxLength="10" />
+    <Property Name="KinhPhi" Type="nchar" MaxLength="10" />
+    <Property Name="DangTienHanh" Type="nvarchar" MaxLength="50" />
+  </EntityType>
+  <EntityType Name="PHANCONG">
+    <Key>
+      <PropertyRef Name="MaDA" />
+      <PropertyRef Name="MaNV" />
+    </Key>
+    <Property Name="MaDA" Type="nchar" MaxLength="10" Nullable="false" />
+    <Property Name="MaNV" Type="nchar" MaxLength="10" Nullable="false" />
+    <Property Name="TenNV" Type="nvarchar" MaxLength="50" />
+  </EntityType>
+  <EntityType Name="PHONGBAN">
+    <Key>
+      <PropertyRef Name="MaPB" />
+    </Key>
+    <Property Name="MaPB" Type="nchar" MaxLength="10" Nullable="false" />
+    <Property Name="TenPB" Type="nvarchar" MaxLength="50" />
+    <Property Name="TruongPhong" Type="nchar" MaxLength="10" Nullable="false" />
+    <Property Name="TenTrPhong" Type="nvarchar" MaxLength="50" />
+  </EntityType>
+  <EntityType Name="STAFFS">
+    <Key>
+      <PropertyRef Name="MaNV" />
+    </Key>
+    <Property Name="MaNV" Type="nchar" MaxLength="10" Nullable="false" />
+    <Property Name="HoTen" Type="nvarchar" MaxLength="50" />
+    <Property Name="NgaySinh" Type="date" />
+    <Property Name="Phai" Type="nchar" MaxLength="10" />
+    <Property Name="SDT" Type="nchar" MaxLength="10" />
+    <Property Name="DiaChi" Type="nvarchar" MaxLength="50" />
+    <Property Name="Luong" Type="nchar" MaxLength="10" />
+    <Property Name="PhongBan" Type="nchar" MaxLength="10" />
+    <Property Name="NowWorking" Type="nvarchar" MaxLength="50" />
+  </EntityType>
+  <EntityType Name="sysdiagrams">
+    <Key>
+      <PropertyRef Name="diagram_id" />
+    </Key>
+    <Property Name="name" Type="nvarchar" MaxLength="128" Nullable="false" />
+    <Property Name="principal_id" Type="int" Nullable="false" />
+    <Property Name="diagram_id" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="version" Type="int" />
+    <Property Name="definition" Type="varbinary(max)" />
+  </EntityType>
+  <EntityType Name="TaiKhoan">
+    <Key>
+      <PropertyRef Name="MaNV" />
+    </Key>
+    <Property Name="MaNV" Type="nchar" MaxLength="10" Nullable="false" />
+    <Property Name="Pass" Type="nvarchar" MaxLength="50" Nullable="false" />
+    <Property Name="ChucVu" Type="nchar" MaxLength="10" />
+  </EntityType>
+  <Association Name="FK_PHANCONG_DUAN">
+    <End Role="DUAN" Type="Self.DUAN" Multiplicity="1" />
+    <End Role="PHANCONG" Type="Self.PHANCONG" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="DUAN">
+        <PropertyRef Name="MaDA" />
+      </Principal>
+      <Dependent Role="PHANCONG">
+        <PropertyRef Name="MaDA" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_PHANCONG_STAFFS">
+    <End Role="STAFFS" Type="Self.STAFFS" Multiplicity="1" />
+    <End Role="PHANCONG" Type="Self.PHANCONG" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="STAFFS">
+        <PropertyRef Name="MaNV" />
+      </Principal>
+      <Dependent Role="PHANCONG">
+        <PropertyRef Name="MaNV" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_PHONGBAN_STAFFS">
+    <End Role="STAFFS" Type="Self.STAFFS" Multiplicity="1" />
+    <End Role="PHONGBAN" Type="Self.PHONGBAN" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="STAFFS">
+        <PropertyRef Name="MaNV" />
+      </Principal>
+      <Dependent Role="PHONGBAN">
+        <PropertyRef Name="TruongPhong" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <EntityContainer Name="STAFFMANAGERSModelStoreContainer">
+    <EntitySet Name="CCONG" EntityType="Self.CCONG" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="DangNhap" EntityType="Self.DangNhap" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="DUAN" EntityType="Self.DUAN" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="PHANCONG" EntityType="Self.PHANCONG" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="PHONGBAN" EntityType="Self.PHONGBAN" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="STAFFS" EntityType="Self.STAFFS" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="sysdiagrams" EntityType="Self.sysdiagrams" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="TaiKhoan" EntityType="Self.TaiKhoan" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="CHAMCONG" EntityType="Self.CHAMCONG" store:Type="Tables" store:Schema="dbo">
+      <DefiningQuery>SELECT 
+    [CHAMCONG].[MaNV] AS [MaNV], 
+    [CHAMCONG].[CheckIn] AS [CheckIn], 
+    [CHAMCONG].[CheckOut] AS [CheckOut], 
+    [CHAMCONG].[Thang] AS [Thang], 
+    [CHAMCONG].[HoTen] AS [HoTen]
+    FROM [dbo].[CHAMCONG] AS [CHAMCONG]</DefiningQuery>
+    </EntitySet>
+    <AssociationSet Name="FK_PHANCONG_DUAN" Association="Self.FK_PHANCONG_DUAN">
+      <End Role="DUAN" EntitySet="DUAN" />
+      <End Role="PHANCONG" EntitySet="PHANCONG" />
+    </AssociationSet>
+    <AssociationSet Name="FK_PHANCONG_STAFFS" Association="Self.FK_PHANCONG_STAFFS">
+      <End Role="STAFFS" EntitySet="STAFFS" />
+      <End Role="PHANCONG" EntitySet="PHANCONG" />
+    </AssociationSet>
+    <AssociationSet Name="FK_PHONGBAN_STAFFS" Association="Self.FK_PHONGBAN_STAFFS">
+      <End Role="STAFFS" EntitySet="STAFFS" />
+      <End Role="PHONGBAN" EntitySet="PHONGBAN" />
+    </AssociationSet>
+  </EntityContainer>
+</Schema>

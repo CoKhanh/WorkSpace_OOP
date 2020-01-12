@@ -1,0 +1,308 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="QLNVModel.Store" Provider="System.Data.SqlClient" ProviderManifestToken="2012" Alias="Self" xmlns:store="http://schemas.microsoft.com/ado/2007/12/edm/EntityStoreSchemaGenerator" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm/ssdl">
+  <EntityType Name="CHAMCONG">
+    <Key>
+      <PropertyRef Name="MaNV" />
+      <PropertyRef Name="HoTen" />
+      <PropertyRef Name="NgayThang" />
+    </Key>
+    <Property Name="MaNV" Type="nchar" MaxLength="10" Nullable="false" />
+    <Property Name="HoTen" Type="nvarchar" MaxLength="50" Nullable="false" />
+    <Property Name="NgayThang" Type="date" Nullable="false" />
+    <Property Name="CheckIn" Type="time" Precision="7" />
+    <Property Name="CheckOut" Type="time" Precision="7" />
+    <Property Name="TG" Type="nchar" MaxLength="10" />
+    <Property Name="Thang" Type="nchar" MaxLength="10" />
+  </EntityType>
+  <EntityType Name="DangNhap">
+    <Key>
+      <PropertyRef Name="id" />
+    </Key>
+    <Property Name="id" Type="nchar" MaxLength="10" Nullable="false" />
+    <Property Name="password" Type="nchar" MaxLength="10" />
+  </EntityType>
+  <EntityType Name="DUAN">
+    <Key>
+      <PropertyRef Name="MaDA" />
+    </Key>
+    <Property Name="MaDA" Type="nchar" MaxLength="10" Nullable="false" />
+    <Property Name="TenDA" Type="nvarchar" MaxLength="50" />
+    <Property Name="Phong" Type="nchar" MaxLength="10" />
+    <Property Name="KinhPhi" Type="nchar" MaxLength="10" />
+    <Property Name="DangTienHanh" Type="nvarchar" MaxLength="50" />
+  </EntityType>
+  <EntityType Name="PHANCONG">
+    <Key>
+      <PropertyRef Name="MaDA" />
+      <PropertyRef Name="MaNV" />
+    </Key>
+    <Property Name="MaDA" Type="nchar" MaxLength="10" Nullable="false" />
+    <Property Name="MaNV" Type="nchar" MaxLength="10" Nullable="false" />
+    <Property Name="TenNV" Type="nvarchar" MaxLength="50" />
+  </EntityType>
+  <EntityType Name="PHONGBAN">
+    <Key>
+      <PropertyRef Name="MaPB" />
+    </Key>
+    <Property Name="MaPB" Type="nchar" MaxLength="10" Nullable="false" />
+    <Property Name="TenPB" Type="nvarchar" MaxLength="50" />
+    <Property Name="TruongPhong" Type="nchar" MaxLength="10" Nullable="false" />
+    <Property Name="TenTrPhong" Type="nvarchar" MaxLength="50" />
+  </EntityType>
+  <EntityType Name="STAFFS">
+    <Key>
+      <PropertyRef Name="MaNV" />
+    </Key>
+    <Property Name="MaNV" Type="nchar" MaxLength="10" Nullable="false" />
+    <Property Name="HoTen" Type="nvarchar" MaxLength="50" />
+    <Property Name="NgaySinh" Type="date" />
+    <Property Name="Phai" Type="nchar" MaxLength="10" />
+    <Property Name="SDT" Type="nchar" MaxLength="10" />
+    <Property Name="DiaChi" Type="nvarchar" MaxLength="50" />
+    <Property Name="Luong" Type="nchar" MaxLength="10" />
+    <Property Name="PhongBan" Type="nchar" MaxLength="10" />
+    <Property Name="NowWorking" Type="nvarchar" MaxLength="50" />
+  </EntityType>
+  <EntityType Name="TaiKhoan">
+    <Key>
+      <PropertyRef Name="MaNV" />
+    </Key>
+    <Property Name="MaNV" Type="nchar" MaxLength="10" Nullable="false" />
+    <Property Name="Pass" Type="nvarchar" MaxLength="50" Nullable="false" />
+    <Property Name="ChucVu" Type="nchar" MaxLength="10" />
+  </EntityType>
+  <EntityType Name="TinhLuong">
+    <Key>
+      <PropertyRef Name="ThangNam" />
+      <PropertyRef Name="MaNV" />
+    </Key>
+    <Property Name="ThangNam" Type="nchar" MaxLength="10" Nullable="false" />
+    <Property Name="MaNV" Type="nchar" MaxLength="10" Nullable="false" />
+    <Property Name="SoNgayDiLam" Type="nchar" MaxLength="10" />
+    <Property Name="SoNgayNghi" Type="nchar" MaxLength="10" />
+    <Property Name="SoNgayTre" Type="nchar" MaxLength="10" />
+    <Property Name="TienPhat" Type="nvarchar" MaxLength="50" />
+    <Property Name="DuAnThamGia" Type="nchar" MaxLength="10" />
+    <Property Name="TienDuAn" Type="nvarchar" MaxLength="50" />
+    <Property Name="LuongCoBan" Type="nvarchar" MaxLength="50" />
+    <Property Name="Luong" Type="nvarchar" MaxLength="50" />
+  </EntityType>
+  <Association Name="FK_PHANCONG_DUAN">
+    <End Role="DUAN" Type="Self.DUAN" Multiplicity="1" />
+    <End Role="PHANCONG" Type="Self.PHANCONG" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="DUAN">
+        <PropertyRef Name="MaDA" />
+      </Principal>
+      <Dependent Role="PHANCONG">
+        <PropertyRef Name="MaDA" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_PHANCONG_STAFFS">
+    <End Role="STAFFS" Type="Self.STAFFS" Multiplicity="1" />
+    <End Role="PHANCONG" Type="Self.PHANCONG" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="STAFFS">
+        <PropertyRef Name="MaNV" />
+      </Principal>
+      <Dependent Role="PHANCONG">
+        <PropertyRef Name="MaNV" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_PHONGBAN_STAFFS">
+    <End Role="STAFFS" Type="Self.STAFFS" Multiplicity="1" />
+    <End Role="PHONGBAN" Type="Self.PHONGBAN" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="STAFFS">
+        <PropertyRef Name="MaNV" />
+      </Principal>
+      <Dependent Role="PHONGBAN">
+        <PropertyRef Name="TruongPhong" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Function Name="AssignEmp" Aggregate="false" BuiltIn="false" NiladicFunction="false" IsComposable="false" ParameterTypeSemantics="AllowImplicitConversion" Schema="dbo">
+    <Parameter Name="MaDA" Type="nchar" Mode="In" />
+    <Parameter Name="MaNV" Type="nchar" Mode="In" />
+    <Parameter Name="TenNV" Type="nvarchar" Mode="In" />
+  </Function>
+  <Function Name="CC_Check" Aggregate="false" BuiltIn="false" NiladicFunction="false" IsComposable="false" ParameterTypeSemantics="AllowImplicitConversion" Schema="dbo">
+    <Parameter Name="MaNV" Type="nchar" Mode="In" />
+    <Parameter Name="NgayThang" Type="date" Mode="In" />
+    <Parameter Name="return" Type="nchar" Mode="InOut" />
+  </Function>
+  <Function Name="CC_edit_info" Aggregate="false" BuiltIn="false" NiladicFunction="false" IsComposable="false" ParameterTypeSemantics="AllowImplicitConversion" Schema="dbo">
+    <Parameter Name="MaNV" Type="nchar" Mode="In" />
+    <Parameter Name="HoTen" Type="nvarchar" Mode="In" />
+    <Parameter Name="NgaySinh" Type="date" Mode="In" />
+    <Parameter Name="DiaChi" Type="nvarchar" Mode="In" />
+    <Parameter Name="SDT" Type="nchar" Mode="In" />
+  </Function>
+  <Function Name="CC_InsertCC" Aggregate="false" BuiltIn="false" NiladicFunction="false" IsComposable="false" ParameterTypeSemantics="AllowImplicitConversion" Schema="dbo">
+    <Parameter Name="MaNV" Type="nchar" Mode="In" />
+    <Parameter Name="HoTen" Type="nvarchar" Mode="In" />
+    <Parameter Name="NgayThang" Type="date" Mode="In" />
+    <Parameter Name="CheckIn" Type="time" Mode="In" />
+    <Parameter Name="Thang" Type="nchar" Mode="In" />
+  </Function>
+  <Function Name="CC_InsertRaVe" Aggregate="false" BuiltIn="false" NiladicFunction="false" IsComposable="false" ParameterTypeSemantics="AllowImplicitConversion" Schema="dbo">
+    <Parameter Name="MaNV" Type="nchar" Mode="In" />
+    <Parameter Name="NgayThang" Type="date" Mode="In" />
+    <Parameter Name="CheckOut" Type="nchar" Mode="In" />
+  </Function>
+  <Function Name="CC_load_bangCC" Aggregate="false" BuiltIn="false" NiladicFunction="false" IsComposable="false" ParameterTypeSemantics="AllowImplicitConversion" Schema="dbo">
+    <Parameter Name="MaNV" Type="nchar" Mode="In" />
+    <Parameter Name="Thang" Type="nchar" Mode="In" />
+  </Function>
+  <Function Name="CC_Load_Emp" Aggregate="false" BuiltIn="false" NiladicFunction="false" IsComposable="false" ParameterTypeSemantics="AllowImplicitConversion" Schema="dbo">
+    <Parameter Name="MaNV" Type="nchar" Mode="In" />
+  </Function>
+  <Function Name="CC_load_ID" Aggregate="false" BuiltIn="false" NiladicFunction="false" IsComposable="false" ParameterTypeSemantics="AllowImplicitConversion" Schema="dbo">
+    <Parameter Name="MaNV" Type="nchar" Mode="In" />
+  </Function>
+  <Function Name="CC_Salary" Aggregate="false" BuiltIn="false" NiladicFunction="false" IsComposable="false" ParameterTypeSemantics="AllowImplicitConversion" Schema="dbo">
+    <Parameter Name="MaNV" Type="nchar" Mode="In" />
+    <Parameter Name="NgayThang" Type="nchar" Mode="In" />
+  </Function>
+  <Function Name="CC_Sua_MK" Aggregate="false" BuiltIn="false" NiladicFunction="false" IsComposable="false" ParameterTypeSemantics="AllowImplicitConversion" Schema="dbo">
+    <Parameter Name="MaNV" Type="nchar" Mode="In" />
+    <Parameter Name="Pass" Type="nvarchar" Mode="In" />
+  </Function>
+  <Function Name="CheckID" Aggregate="false" BuiltIn="false" NiladicFunction="false" IsComposable="false" ParameterTypeSemantics="AllowImplicitConversion" Schema="dbo">
+    <Parameter Name="MaNV" Type="nchar" Mode="In" />
+    <Parameter Name="return" Type="nchar" Mode="InOut" />
+  </Function>
+  <Function Name="CheckMaNV" Aggregate="false" BuiltIn="false" NiladicFunction="false" IsComposable="false" ParameterTypeSemantics="AllowImplicitConversion" Schema="dbo">
+    <Parameter Name="MaNV" Type="nchar" Mode="In" />
+  </Function>
+  <Function Name="Delete_Staff" Aggregate="false" BuiltIn="false" NiladicFunction="false" IsComposable="false" ParameterTypeSemantics="AllowImplicitConversion" Schema="dbo">
+    <Parameter Name="MaNV" Type="nchar" Mode="In" />
+  </Function>
+  <Function Name="DeleteEmpInPro" Aggregate="false" BuiltIn="false" NiladicFunction="false" IsComposable="false" ParameterTypeSemantics="AllowImplicitConversion" Schema="dbo">
+    <Parameter Name="MaDA" Type="nchar" Mode="In" />
+    <Parameter Name="MaNV" Type="nchar" Mode="In" />
+  </Function>
+  <Function Name="Edit_Project" Aggregate="false" BuiltIn="false" NiladicFunction="false" IsComposable="false" ParameterTypeSemantics="AllowImplicitConversion" Schema="dbo">
+    <Parameter Name="MaDA" Type="nchar" Mode="In" />
+    <Parameter Name="TenDA" Type="nvarchar" Mode="In" />
+    <Parameter Name="Phong" Type="nchar" Mode="In" />
+    <Parameter Name="KinhPhi" Type="nchar" Mode="In" />
+    <Parameter Name="DangTienHanh" Type="nvarchar" Mode="In" />
+  </Function>
+  <Function Name="EditDept" Aggregate="false" BuiltIn="false" NiladicFunction="false" IsComposable="false" ParameterTypeSemantics="AllowImplicitConversion" Schema="dbo">
+    <Parameter Name="MaPB" Type="nchar" Mode="In" />
+    <Parameter Name="TenPB" Type="nvarchar" Mode="In" />
+    <Parameter Name="TruongPhong" Type="nchar" Mode="In" />
+    <Parameter Name="TenTrPhong" Type="nvarchar" Mode="In" />
+  </Function>
+  <Function Name="editStaff" Aggregate="false" BuiltIn="false" NiladicFunction="false" IsComposable="false" ParameterTypeSemantics="AllowImplicitConversion" Schema="dbo">
+    <Parameter Name="MaNV" Type="nchar" Mode="In" />
+    <Parameter Name="HoTen" Type="nvarchar" Mode="In" />
+    <Parameter Name="NgaySinh" Type="date" Mode="In" />
+    <Parameter Name="Phai" Type="nchar" Mode="In" />
+    <Parameter Name="SDT" Type="nchar" Mode="In" />
+    <Parameter Name="DiaChi" Type="nvarchar" Mode="In" />
+    <Parameter Name="Luong" Type="nchar" Mode="In" />
+    <Parameter Name="PhongBan" Type="nchar" Mode="In" />
+    <Parameter Name="NowWorking" Type="nvarchar" Mode="In" />
+  </Function>
+  <Function Name="FindDept" Aggregate="false" BuiltIn="false" NiladicFunction="false" IsComposable="false" ParameterTypeSemantics="AllowImplicitConversion" Schema="dbo">
+    <Parameter Name="MaPB" Type="nchar" Mode="In" />
+  </Function>
+  <Function Name="FindProject" Aggregate="false" BuiltIn="false" NiladicFunction="false" IsComposable="false" ParameterTypeSemantics="AllowImplicitConversion" Schema="dbo">
+    <Parameter Name="TenDA" Type="nvarchar" Mode="In" />
+  </Function>
+  <Function Name="FindStaff" Aggregate="false" BuiltIn="false" NiladicFunction="false" IsComposable="false" ParameterTypeSemantics="AllowImplicitConversion" Schema="dbo">
+    <Parameter Name="MaNV" Type="nchar" Mode="In" />
+  </Function>
+  <Function Name="Hide_staff" Aggregate="false" BuiltIn="false" NiladicFunction="false" IsComposable="false" ParameterTypeSemantics="AllowImplicitConversion" Schema="dbo">
+    <Parameter Name="NowWorking" Type="nvarchar" Mode="In" />
+    <Parameter Name="MaNV" Type="nchar" Mode="In" />
+  </Function>
+  <Function Name="Insert_Proj" Aggregate="false" BuiltIn="false" NiladicFunction="false" IsComposable="false" ParameterTypeSemantics="AllowImplicitConversion" Schema="dbo">
+    <Parameter Name="MaDA" Type="nchar" Mode="In" />
+    <Parameter Name="TenDA" Type="nvarchar" Mode="In" />
+    <Parameter Name="Phong" Type="nchar" Mode="In" />
+    <Parameter Name="KinhPhi" Type="nchar" Mode="In" />
+    <Parameter Name="DangTienHanh" Type="nvarchar" Mode="In" />
+  </Function>
+  <Function Name="InsertDept" Aggregate="false" BuiltIn="false" NiladicFunction="false" IsComposable="false" ParameterTypeSemantics="AllowImplicitConversion" Schema="dbo">
+    <Parameter Name="MaPB" Type="nchar" Mode="In" />
+    <Parameter Name="TenPB" Type="nvarchar" Mode="In" />
+    <Parameter Name="TruongPhong" Type="nchar" Mode="In" />
+    <Parameter Name="TenTrPhong" Type="nvarchar" Mode="In" />
+  </Function>
+  <Function Name="insertStaff" Aggregate="false" BuiltIn="false" NiladicFunction="false" IsComposable="false" ParameterTypeSemantics="AllowImplicitConversion" Schema="dbo">
+    <Parameter Name="MaNV" Type="nchar" Mode="In" />
+    <Parameter Name="HoTen" Type="nvarchar" Mode="In" />
+    <Parameter Name="NgaySinh" Type="date" Mode="In" />
+    <Parameter Name="Phai" Type="nchar" Mode="In" />
+    <Parameter Name="SDT" Type="nchar" Mode="In" />
+    <Parameter Name="DiaChi" Type="nvarchar" Mode="In" />
+    <Parameter Name="Luong" Type="nchar" Mode="In" />
+    <Parameter Name="PhongBan" Type="nchar" Mode="In" />
+    <Parameter Name="NowWorking" Type="nvarchar" Mode="In" />
+  </Function>
+  <Function Name="Load_Dept" Aggregate="false" BuiltIn="false" NiladicFunction="false" IsComposable="false" ParameterTypeSemantics="AllowImplicitConversion" Schema="dbo" />
+  <Function Name="Load_Emp_Grby_Dept" Aggregate="false" BuiltIn="false" NiladicFunction="false" IsComposable="false" ParameterTypeSemantics="AllowImplicitConversion" Schema="dbo">
+    <Parameter Name="MaPB" Type="nchar" Mode="In" />
+  </Function>
+  <Function Name="Load_Employee" Aggregate="false" BuiltIn="false" NiladicFunction="false" IsComposable="false" ParameterTypeSemantics="AllowImplicitConversion" Schema="dbo" />
+  <Function Name="Load_Project" Aggregate="false" BuiltIn="false" NiladicFunction="false" IsComposable="false" ParameterTypeSemantics="AllowImplicitConversion" Schema="dbo" />
+  <Function Name="LoadEmpProject" Aggregate="false" BuiltIn="false" NiladicFunction="false" IsComposable="false" ParameterTypeSemantics="AllowImplicitConversion" Schema="dbo">
+    <Parameter Name="MaDA" Type="nchar" Mode="In" />
+  </Function>
+  <Function Name="Login" Aggregate="false" BuiltIn="false" NiladicFunction="false" IsComposable="false" ParameterTypeSemantics="AllowImplicitConversion" Schema="dbo">
+    <Parameter Name="MaNV" Type="nchar" Mode="In" />
+    <Parameter Name="Password" Type="nvarchar" Mode="In" />
+    <Parameter Name="ChucVu" Type="nchar" Mode="InOut" />
+  </Function>
+  <Function Name="ProFindEmpName" Aggregate="false" BuiltIn="false" NiladicFunction="false" IsComposable="false" ParameterTypeSemantics="AllowImplicitConversion" Schema="dbo">
+    <Parameter Name="MaNV" Type="nchar" Mode="In" />
+    <Parameter Name="MaDA" Type="nchar" Mode="In" />
+  </Function>
+  <Function Name="Salary_Insert" Aggregate="false" BuiltIn="false" NiladicFunction="false" IsComposable="false" ParameterTypeSemantics="AllowImplicitConversion" Schema="dbo">
+    <Parameter Name="ThangNam" Type="nchar" Mode="In" />
+    <Parameter Name="MaNV" Type="nchar" Mode="In" />
+    <Parameter Name="SoNgayDiLam" Type="nchar" Mode="In" />
+    <Parameter Name="SoNgayNghi" Type="nchar" Mode="In" />
+    <Parameter Name="SoNgayDiTre" Type="nchar" Mode="In" />
+    <Parameter Name="TienPhat" Type="nvarchar" Mode="In" />
+    <Parameter Name="DuAnThamGia" Type="nvarchar" Mode="In" />
+    <Parameter Name="TienThuong" Type="nvarchar" Mode="In" />
+    <Parameter Name="LuongCoBan" Type="nvarchar" Mode="In" />
+    <Parameter Name="TongLuong" Type="nchar" Mode="In" />
+  </Function>
+  <Function Name="Search_employee" Aggregate="false" BuiltIn="false" NiladicFunction="false" IsComposable="false" ParameterTypeSemantics="AllowImplicitConversion" Schema="dbo">
+    <Parameter Name="Hoten" Type="nvarchar" Mode="In" />
+  </Function>
+  <Function Name="SignUp" Aggregate="false" BuiltIn="false" NiladicFunction="false" IsComposable="false" ParameterTypeSemantics="AllowImplicitConversion" Schema="dbo">
+    <Parameter Name="MaNV" Type="nchar" Mode="In" />
+    <Parameter Name="Pass" Type="nvarchar" Mode="In" />
+    <Parameter Name="ChucVu" Type="nchar" Mode="In" />
+  </Function>
+  <EntityContainer Name="QLNVModelStoreContainer">
+    <EntitySet Name="CHAMCONG" EntityType="Self.CHAMCONG" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="DangNhap" EntityType="Self.DangNhap" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="DUAN" EntityType="Self.DUAN" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="PHANCONG" EntityType="Self.PHANCONG" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="PHONGBAN" EntityType="Self.PHONGBAN" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="STAFFS" EntityType="Self.STAFFS" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="TaiKhoan" EntityType="Self.TaiKhoan" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="TinhLuong" EntityType="Self.TinhLuong" Schema="dbo" store:Type="Tables" />
+    <AssociationSet Name="FK_PHANCONG_DUAN" Association="Self.FK_PHANCONG_DUAN">
+      <End Role="DUAN" EntitySet="DUAN" />
+      <End Role="PHANCONG" EntitySet="PHANCONG" />
+    </AssociationSet>
+    <AssociationSet Name="FK_PHANCONG_STAFFS" Association="Self.FK_PHANCONG_STAFFS">
+      <End Role="STAFFS" EntitySet="STAFFS" />
+      <End Role="PHANCONG" EntitySet="PHANCONG" />
+    </AssociationSet>
+    <AssociationSet Name="FK_PHONGBAN_STAFFS" Association="Self.FK_PHONGBAN_STAFFS">
+      <End Role="STAFFS" EntitySet="STAFFS" />
+      <End Role="PHONGBAN" EntitySet="PHONGBAN" />
+    </AssociationSet>
+  </EntityContainer>
+</Schema>

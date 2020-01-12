@@ -1,0 +1,1191 @@
+C:\Users\HP\source\repos\qlnv\qlnv\bin\Debug\qlnv.exe.config
+C:\Users\HP\source\repos\qlnv\qlnv\bin\Debug\qlnv.exe
+C:\Users\HP\source\repos\qlnv\qlnv\bin\Debug\qlnv.pdb
+C:\Users\HP\source\repos\qlnv\qlnv\obj\Debug\qlnv.csprojAssemblyReference.cache
+C:\Users\HP\source\repos\qlnv\qlnv\obj\Debug\qlnv.Properties.Resources.resources
+C:\Users\HP\source\repos\qlnv\qlnv\obj\Debug\qlnv.csproj.GenerateResource.cache
+C:\Users\HP\source\repos\qlnv\qlnv\obj\Debug\qlnv.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\qlnv\qlnv\obj\Debug\qlnv.exe
+C:\Users\HP\source\repos\qlnv\qlnv\obj\Debug\qlnv.pdb
+C:\Users\HP\source\repos\qlnv\qlnv\obj\Debug\qlnv.EmployeeManage.resources
+C:\Users\HP\source\repos\qlnv\qlnv\obj\Debug\qlnv.AddEmployee.resources
+C:\Users\HP\source\repos\qlnv\qlnv\obj\Debug\qlnv.FormStart.resources
+C:\Users\HP\source\repos\qlnv\qlnv\obj\Debug\qlnv.ViewDepartment.resources
+C:\Users\HP\source\repos\qlnv\qlnv\obj\Debug\qlnv.Filters.resources
+C:\Users\HP\source\repos\qlnv\qlnv\obj\Debug\qlnv.AddAndEditDept.resources
+C:\Users\HP\source\repos\qlnv\qlnv\obj\Debug\qlnv.AssignEmp.resources
+C:\Users\HP\source\repos\qlnv\qlnv\obj\Debug\qlnv.ProjectAdd.resources
+C:\Users\HP\source\repos\qlnv\qlnv\obj\Debug\qlnv.ProjectAndAssign.resources
+C:\Users\DuongCoKhanh\Desktop\qlnv\qlnv\qlnv\bin\Debug\qlnv.exe.config
+C:\Users\DuongCoKhanh\Desktop\qlnv\qlnv\qlnv\bin\Debug\qlnv.exe
+C:\Users\DuongCoKhanh\Desktop\qlnv\qlnv\qlnv\bin\Debug\qlnv.pdb
+C:\Users\DuongCoKhanh\Desktop\qlnv\qlnv\qlnv\obj\Debug\qlnv.csprojAssemblyReference.cache
+C:\Users\DuongCoKhanh\Desktop\qlnv\qlnv\qlnv\obj\Debug\qlnv.AddAndEditDept.resources
+C:\Users\DuongCoKhanh\Desktop\qlnv\qlnv\qlnv\obj\Debug\qlnv.AddEmployee.resources
+C:\Users\DuongCoKhanh\Desktop\qlnv\qlnv\qlnv\obj\Debug\qlnv.AssignEmp.resources
+C:\Users\DuongCoKhanh\Desktop\qlnv\qlnv\qlnv\obj\Debug\qlnv.ProjectAdd.resources
+C:\Users\DuongCoKhanh\Desktop\qlnv\qlnv\qlnv\obj\Debug\qlnv.Filters.resources
+C:\Users\DuongCoKhanh\Desktop\qlnv\qlnv\qlnv\obj\Debug\qlnv.FormStart.resources
+C:\Users\DuongCoKhanh\Desktop\qlnv\qlnv\qlnv\obj\Debug\qlnv.Properties.Resources.resources
+C:\Users\DuongCoKhanh\Desktop\qlnv\qlnv\qlnv\obj\Debug\qlnv.User_Controls.Employee.resources
+C:\Users\DuongCoKhanh\Desktop\qlnv\qlnv\qlnv\obj\Debug\qlnv.csproj.GenerateResource.cache
+C:\Users\DuongCoKhanh\Desktop\qlnv\qlnv\qlnv\obj\Debug\qlnv.csproj.CoreCompileInputs.cache
+C:\Users\DuongCoKhanh\Desktop\qlnv\qlnv\qlnv\obj\Debug\qlnv.exe
+C:\Users\DuongCoKhanh\Desktop\qlnv\qlnv\qlnv\obj\Debug\qlnv.pdb
+C:\Users\DuongCoKhanh\Desktop\qlnv\qlnv\qlnv\obj\Debug\qlnv.User_Controls.Department.resources
+C:\Users\DuongCoKhanh\Desktop\qlnv\qlnv\qlnv\obj\Debug\qlnv.User_Controls.Project.resources
+C:\Users\DuongCoKhanh\Desktop\qlnv\qlnv\qlnv\bin\Debug\DevExpress.Data.v17.1.dll
+C:\Users\DuongCoKhanh\Desktop\qlnv\qlnv\qlnv\bin\Debug\DevExpress.Xpo.v17.1.dll
+C:\Users\DuongCoKhanh\Desktop\qlnv\qlnv\qlnv\bin\Debug\DevExpress.Data.v17.1.xml
+C:\Users\DuongCoKhanh\Desktop\qlnv\qlnv\qlnv\bin\Debug\DevExpress.Xpo.v17.1.xml
+C:\Users\DuongCoKhanh\Desktop\qlnv\qlnv\qlnv\bin\Debug\de\DevExpress.Data.v17.1.resources.dll
+C:\Users\DuongCoKhanh\Desktop\qlnv\qlnv\qlnv\bin\Debug\es\DevExpress.Data.v17.1.resources.dll
+C:\Users\DuongCoKhanh\Desktop\qlnv\qlnv\qlnv\bin\Debug\ja\DevExpress.Data.v17.1.resources.dll
+C:\Users\DuongCoKhanh\Desktop\qlnv\qlnv\qlnv\bin\Debug\ru\DevExpress.Data.v17.1.resources.dll
+C:\Users\DuongCoKhanh\Desktop\qlnv\qlnv\qlnv\bin\Debug\de\DevExpress.Xpo.v17.1.resources.dll
+C:\Users\DuongCoKhanh\Desktop\qlnv\qlnv\qlnv\bin\Debug\es\DevExpress.Xpo.v17.1.resources.dll
+C:\Users\DuongCoKhanh\Desktop\qlnv\qlnv\qlnv\bin\Debug\ja\DevExpress.Xpo.v17.1.resources.dll
+C:\Users\DuongCoKhanh\Desktop\qlnv\qlnv\qlnv\bin\Debug\ru\DevExpress.Xpo.v17.1.resources.dll
+C:\Users\DuongCoKhanh\Desktop\qlnv\qlnv\qlnv\obj\Debug\qlnv.csproj.CopyComplete
+C:\Users\DuongCoKhanh\Desktop\qlnv\qlnv\qlnv\qlnv\bin\Debug\qlnv.exe.config
+C:\Users\DuongCoKhanh\Desktop\qlnv\qlnv\qlnv\qlnv\bin\Debug\qlnv.exe
+C:\Users\DuongCoKhanh\Desktop\qlnv\qlnv\qlnv\qlnv\bin\Debug\qlnv.pdb
+C:\Users\DuongCoKhanh\Desktop\qlnv\qlnv\qlnv\qlnv\bin\Debug\DevExpress.Data.v17.1.dll
+C:\Users\DuongCoKhanh\Desktop\qlnv\qlnv\qlnv\qlnv\bin\Debug\DevExpress.Xpo.v17.1.dll
+C:\Users\DuongCoKhanh\Desktop\qlnv\qlnv\qlnv\qlnv\bin\Debug\DevExpress.Data.v17.1.xml
+C:\Users\DuongCoKhanh\Desktop\qlnv\qlnv\qlnv\qlnv\bin\Debug\DevExpress.Xpo.v17.1.xml
+C:\Users\DuongCoKhanh\Desktop\qlnv\qlnv\qlnv\qlnv\bin\Debug\de\DevExpress.Data.v17.1.resources.dll
+C:\Users\DuongCoKhanh\Desktop\qlnv\qlnv\qlnv\qlnv\bin\Debug\es\DevExpress.Data.v17.1.resources.dll
+C:\Users\DuongCoKhanh\Desktop\qlnv\qlnv\qlnv\qlnv\bin\Debug\ja\DevExpress.Data.v17.1.resources.dll
+C:\Users\DuongCoKhanh\Desktop\qlnv\qlnv\qlnv\qlnv\bin\Debug\ru\DevExpress.Data.v17.1.resources.dll
+C:\Users\DuongCoKhanh\Desktop\qlnv\qlnv\qlnv\qlnv\bin\Debug\de\DevExpress.Xpo.v17.1.resources.dll
+C:\Users\DuongCoKhanh\Desktop\qlnv\qlnv\qlnv\qlnv\bin\Debug\es\DevExpress.Xpo.v17.1.resources.dll
+C:\Users\DuongCoKhanh\Desktop\qlnv\qlnv\qlnv\qlnv\bin\Debug\ja\DevExpress.Xpo.v17.1.resources.dll
+C:\Users\DuongCoKhanh\Desktop\qlnv\qlnv\qlnv\qlnv\bin\Debug\ru\DevExpress.Xpo.v17.1.resources.dll
+C:\Users\DuongCoKhanh\Desktop\qlnv\qlnv\qlnv\qlnv\obj\Debug\qlnv.csprojAssemblyReference.cache
+C:\Users\DuongCoKhanh\Desktop\qlnv\qlnv\qlnv\qlnv\obj\Debug\qlnv.AddAndEditDept.resources
+C:\Users\DuongCoKhanh\Desktop\qlnv\qlnv\qlnv\qlnv\obj\Debug\qlnv.AddEmployee.resources
+C:\Users\DuongCoKhanh\Desktop\qlnv\qlnv\qlnv\qlnv\obj\Debug\qlnv.AssignEmp.resources
+C:\Users\DuongCoKhanh\Desktop\qlnv\qlnv\qlnv\qlnv\obj\Debug\qlnv.ProjectAdd.resources
+C:\Users\DuongCoKhanh\Desktop\qlnv\qlnv\qlnv\qlnv\obj\Debug\qlnv.Filters.resources
+C:\Users\DuongCoKhanh\Desktop\qlnv\qlnv\qlnv\qlnv\obj\Debug\qlnv.FormStart.resources
+C:\Users\DuongCoKhanh\Desktop\qlnv\qlnv\qlnv\qlnv\obj\Debug\qlnv.Properties.Resources.resources
+C:\Users\DuongCoKhanh\Desktop\qlnv\qlnv\qlnv\qlnv\obj\Debug\qlnv.User_Controls.Department.resources
+C:\Users\DuongCoKhanh\Desktop\qlnv\qlnv\qlnv\qlnv\obj\Debug\qlnv.User_Controls.Employee.resources
+C:\Users\DuongCoKhanh\Desktop\qlnv\qlnv\qlnv\qlnv\obj\Debug\qlnv.User_Controls.Project.resources
+C:\Users\DuongCoKhanh\Desktop\qlnv\qlnv\qlnv\qlnv\obj\Debug\qlnv.csproj.GenerateResource.cache
+C:\Users\DuongCoKhanh\Desktop\qlnv\qlnv\qlnv\qlnv\obj\Debug\qlnv.csproj.CoreCompileInputs.cache
+C:\Users\DuongCoKhanh\Desktop\qlnv\qlnv\qlnv\qlnv\obj\Debug\qlnv.csproj.CopyComplete
+C:\Users\DuongCoKhanh\Desktop\qlnv\qlnv\qlnv\qlnv\obj\Debug\qlnv.exe
+C:\Users\DuongCoKhanh\Desktop\qlnv\qlnv\qlnv\qlnv\obj\Debug\qlnv.pdb
+C:\Users\DuongCoKhanh\Desktop\qlnv\qlnv\qlnv\qlnv\bin\Debug\EntityFramework.dll
+C:\Users\DuongCoKhanh\Desktop\qlnv\qlnv\qlnv\qlnv\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\DuongCoKhanh\Desktop\qlnv\qlnv\qlnv\qlnv\bin\Debug\EntityFramework.xml
+C:\Users\DuongCoKhanh\Desktop\qlnv\qlnv\qlnv\qlnv\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\DuongCoKhanh\Desktop\STAFF\qlnv\qlnv\qlnv\obj\Debug\qlnv.csprojAssemblyReference.cache
+C:\Users\DuongCoKhanh\Desktop\STAFF\qlnv\qlnv\qlnv\obj\Debug\qlnv.EditEmp.resources
+C:\Users\DuongCoKhanh\Desktop\STAFF\qlnv\qlnv\qlnv\obj\Debug\qlnv.AddAndEditDept.resources
+C:\Users\DuongCoKhanh\Desktop\STAFF\qlnv\qlnv\qlnv\obj\Debug\qlnv.AddEmployee.resources
+C:\Users\DuongCoKhanh\Desktop\STAFF\qlnv\qlnv\qlnv\obj\Debug\qlnv.AssignEmp.resources
+C:\Users\DuongCoKhanh\Desktop\STAFF\qlnv\qlnv\qlnv\obj\Debug\qlnv.ProjectAdd.resources
+C:\Users\DuongCoKhanh\Desktop\STAFF\qlnv\qlnv\qlnv\obj\Debug\qlnv.Filters.resources
+C:\Users\DuongCoKhanh\Desktop\STAFF\qlnv\qlnv\qlnv\obj\Debug\qlnv.FormStart.resources
+C:\Users\DuongCoKhanh\Desktop\STAFF\qlnv\qlnv\qlnv\obj\Debug\qlnv.Properties.Resources.resources
+C:\Users\DuongCoKhanh\Desktop\STAFF\qlnv\qlnv\qlnv\obj\Debug\qlnv.User_Controls.Department.resources
+C:\Users\DuongCoKhanh\Desktop\STAFF\qlnv\qlnv\qlnv\obj\Debug\qlnv.User_Controls.Employee.resources
+C:\Users\DuongCoKhanh\Desktop\STAFF\qlnv\qlnv\qlnv\obj\Debug\qlnv.User_Controls.Project.resources
+C:\Users\DuongCoKhanh\Desktop\STAFF\qlnv\qlnv\qlnv\obj\Debug\qlnv.csproj.GenerateResource.cache
+C:\Users\DuongCoKhanh\Desktop\STAFF\qlnv\qlnv\qlnv\obj\Debug\qlnv.csproj.CoreCompileInputs.cache
+C:\Users\DuongCoKhanh\Desktop\STAFF\qlnv\qlnv\qlnv\obj\Debug\qlnv.exe
+C:\Users\DuongCoKhanh\Desktop\STAFF\qlnv\qlnv\qlnv\obj\Debug\qlnv.pdb
+C:\Users\DuongCoKhanh\Desktop\STAFF\qlnv\qlnv\qlnv\bin\Debug\qlnv.exe.config
+C:\Users\DuongCoKhanh\Desktop\STAFF\qlnv\qlnv\qlnv\bin\Debug\qlnv.exe
+C:\Users\DuongCoKhanh\Desktop\STAFF\qlnv\qlnv\qlnv\bin\Debug\qlnv.pdb
+C:\Users\DuongCoKhanh\Desktop\STAFF\qlnv\qlnv\qlnv\bin\Debug\DevExpress.Data.v17.1.dll
+C:\Users\DuongCoKhanh\Desktop\STAFF\qlnv\qlnv\qlnv\bin\Debug\DevExpress.Xpo.v17.1.dll
+C:\Users\DuongCoKhanh\Desktop\STAFF\qlnv\qlnv\qlnv\bin\Debug\EntityFramework.dll
+C:\Users\DuongCoKhanh\Desktop\STAFF\qlnv\qlnv\qlnv\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\DuongCoKhanh\Desktop\STAFF\qlnv\qlnv\qlnv\bin\Debug\DevExpress.Data.v17.1.xml
+C:\Users\DuongCoKhanh\Desktop\STAFF\qlnv\qlnv\qlnv\bin\Debug\DevExpress.Xpo.v17.1.xml
+C:\Users\DuongCoKhanh\Desktop\STAFF\qlnv\qlnv\qlnv\bin\Debug\EntityFramework.xml
+C:\Users\DuongCoKhanh\Desktop\STAFF\qlnv\qlnv\qlnv\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\DuongCoKhanh\Desktop\STAFF\qlnv\qlnv\qlnv\bin\Debug\de\DevExpress.Data.v17.1.resources.dll
+C:\Users\DuongCoKhanh\Desktop\STAFF\qlnv\qlnv\qlnv\bin\Debug\es\DevExpress.Data.v17.1.resources.dll
+C:\Users\DuongCoKhanh\Desktop\STAFF\qlnv\qlnv\qlnv\bin\Debug\ja\DevExpress.Data.v17.1.resources.dll
+C:\Users\DuongCoKhanh\Desktop\STAFF\qlnv\qlnv\qlnv\bin\Debug\ru\DevExpress.Data.v17.1.resources.dll
+C:\Users\DuongCoKhanh\Desktop\STAFF\qlnv\qlnv\qlnv\bin\Debug\de\DevExpress.Xpo.v17.1.resources.dll
+C:\Users\DuongCoKhanh\Desktop\STAFF\qlnv\qlnv\qlnv\bin\Debug\es\DevExpress.Xpo.v17.1.resources.dll
+C:\Users\DuongCoKhanh\Desktop\STAFF\qlnv\qlnv\qlnv\bin\Debug\ja\DevExpress.Xpo.v17.1.resources.dll
+C:\Users\DuongCoKhanh\Desktop\STAFF\qlnv\qlnv\qlnv\bin\Debug\ru\DevExpress.Xpo.v17.1.resources.dll
+C:\Users\DuongCoKhanh\Desktop\STAFF\qlnv\qlnv\qlnv\obj\Debug\qlnv.csproj.CopyComplete
+C:\Users\DuongCoKhanh\Desktop\STAFF\qlnv\qlnv\qlnv\bin\Debug\DevExpress.Printing.v17.1.Core.dll
+C:\Users\DuongCoKhanh\Desktop\STAFF\qlnv\qlnv\qlnv\bin\Debug\DevExpress.Sparkline.v17.1.Core.dll
+C:\Users\DuongCoKhanh\Desktop\STAFF\qlnv\qlnv\qlnv\bin\Debug\DevExpress.Utils.v17.1.dll
+C:\Users\DuongCoKhanh\Desktop\STAFF\qlnv\qlnv\qlnv\bin\Debug\DevExpress.XtraEditors.v17.1.dll
+C:\Users\DuongCoKhanh\Desktop\STAFF\qlnv\qlnv\qlnv\bin\Debug\DevExpress.Pdf.v17.1.Core.dll
+C:\Users\DuongCoKhanh\Desktop\STAFF\qlnv\qlnv\qlnv\bin\Debug\DevExpress.Printing.v17.1.Core.xml
+C:\Users\DuongCoKhanh\Desktop\STAFF\qlnv\qlnv\qlnv\bin\Debug\DevExpress.Sparkline.v17.1.Core.xml
+C:\Users\DuongCoKhanh\Desktop\STAFF\qlnv\qlnv\qlnv\bin\Debug\DevExpress.Utils.v17.1.xml
+C:\Users\DuongCoKhanh\Desktop\STAFF\qlnv\qlnv\qlnv\bin\Debug\DevExpress.XtraEditors.v17.1.xml
+C:\Users\DuongCoKhanh\Desktop\STAFF\qlnv\qlnv\qlnv\bin\Debug\DevExpress.Pdf.v17.1.Core.xml
+C:\Users\DuongCoKhanh\Desktop\STAFF\qlnv\qlnv\qlnv\bin\Debug\de\DevExpress.Printing.v17.1.Core.resources.dll
+C:\Users\DuongCoKhanh\Desktop\STAFF\qlnv\qlnv\qlnv\bin\Debug\es\DevExpress.Printing.v17.1.Core.resources.dll
+C:\Users\DuongCoKhanh\Desktop\STAFF\qlnv\qlnv\qlnv\bin\Debug\ja\DevExpress.Printing.v17.1.Core.resources.dll
+C:\Users\DuongCoKhanh\Desktop\STAFF\qlnv\qlnv\qlnv\bin\Debug\ru\DevExpress.Printing.v17.1.Core.resources.dll
+C:\Users\DuongCoKhanh\Desktop\STAFF\qlnv\qlnv\qlnv\bin\Debug\de\DevExpress.Sparkline.v17.1.Core.resources.dll
+C:\Users\DuongCoKhanh\Desktop\STAFF\qlnv\qlnv\qlnv\bin\Debug\es\DevExpress.Sparkline.v17.1.Core.resources.dll
+C:\Users\DuongCoKhanh\Desktop\STAFF\qlnv\qlnv\qlnv\bin\Debug\ja\DevExpress.Sparkline.v17.1.Core.resources.dll
+C:\Users\DuongCoKhanh\Desktop\STAFF\qlnv\qlnv\qlnv\bin\Debug\ru\DevExpress.Sparkline.v17.1.Core.resources.dll
+C:\Users\DuongCoKhanh\Desktop\STAFF\qlnv\qlnv\qlnv\bin\Debug\de\DevExpress.Utils.v17.1.resources.dll
+C:\Users\DuongCoKhanh\Desktop\STAFF\qlnv\qlnv\qlnv\bin\Debug\es\DevExpress.Utils.v17.1.resources.dll
+C:\Users\DuongCoKhanh\Desktop\STAFF\qlnv\qlnv\qlnv\bin\Debug\ja\DevExpress.Utils.v17.1.resources.dll
+C:\Users\DuongCoKhanh\Desktop\STAFF\qlnv\qlnv\qlnv\bin\Debug\ru\DevExpress.Utils.v17.1.resources.dll
+C:\Users\DuongCoKhanh\Desktop\STAFF\qlnv\qlnv\qlnv\bin\Debug\de\DevExpress.XtraEditors.v17.1.resources.dll
+C:\Users\DuongCoKhanh\Desktop\STAFF\qlnv\qlnv\qlnv\bin\Debug\es\DevExpress.XtraEditors.v17.1.resources.dll
+C:\Users\DuongCoKhanh\Desktop\STAFF\qlnv\qlnv\qlnv\bin\Debug\ja\DevExpress.XtraEditors.v17.1.resources.dll
+C:\Users\DuongCoKhanh\Desktop\STAFF\qlnv\qlnv\qlnv\bin\Debug\ru\DevExpress.XtraEditors.v17.1.resources.dll
+C:\Users\DuongCoKhanh\Desktop\STAFF\qlnv\qlnv\qlnv\bin\Debug\de\DevExpress.Pdf.v17.1.Core.resources.dll
+C:\Users\DuongCoKhanh\Desktop\STAFF\qlnv\qlnv\qlnv\bin\Debug\es\DevExpress.Pdf.v17.1.Core.resources.dll
+C:\Users\DuongCoKhanh\Desktop\STAFF\qlnv\qlnv\qlnv\bin\Debug\ja\DevExpress.Pdf.v17.1.Core.resources.dll
+C:\Users\DuongCoKhanh\Desktop\STAFF\qlnv\qlnv\qlnv\bin\Debug\ru\DevExpress.Pdf.v17.1.Core.resources.dll
+C:\Users\DuongCoKhanh\Desktop\STAFF\qlnv\qlnv\qlnv\obj\Debug\qlnv.User_Controls.CHAMCONG.resources
+C:\Users\DuongCoKhanh\Desktop\STAFF\qlnv\qlnv\qlnv\obj\Debug\qlnv.User_Controls.Login.resources
+C:\Users\pc\Desktop\Đại Học\Tài liệu môn học\Môn chuyên ngành\Lập trình Win\Đồ án cuối kỳ\New folder\STAFFPROJECT\STAFF\qlnv\qlnv\qlnv\bin\Debug\qlnv.exe.config
+C:\Users\pc\Desktop\Đại Học\Tài liệu môn học\Môn chuyên ngành\Lập trình Win\Đồ án cuối kỳ\New folder\STAFFPROJECT\STAFF\qlnv\qlnv\qlnv\bin\Debug\qlnv.exe
+C:\Users\pc\Desktop\Đại Học\Tài liệu môn học\Môn chuyên ngành\Lập trình Win\Đồ án cuối kỳ\New folder\STAFFPROJECT\STAFF\qlnv\qlnv\qlnv\bin\Debug\qlnv.pdb
+C:\Users\pc\Desktop\Đại Học\Tài liệu môn học\Môn chuyên ngành\Lập trình Win\Đồ án cuối kỳ\New folder\STAFFPROJECT\STAFF\qlnv\qlnv\qlnv\bin\Debug\EntityFramework.dll
+C:\Users\pc\Desktop\Đại Học\Tài liệu môn học\Môn chuyên ngành\Lập trình Win\Đồ án cuối kỳ\New folder\STAFFPROJECT\STAFF\qlnv\qlnv\qlnv\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\pc\Desktop\Đại Học\Tài liệu môn học\Môn chuyên ngành\Lập trình Win\Đồ án cuối kỳ\New folder\STAFFPROJECT\STAFF\qlnv\qlnv\qlnv\bin\Debug\DevExpress.Pdf.v17.1.Core.dll
+C:\Users\pc\Desktop\Đại Học\Tài liệu môn học\Môn chuyên ngành\Lập trình Win\Đồ án cuối kỳ\New folder\STAFFPROJECT\STAFF\qlnv\qlnv\qlnv\bin\Debug\DevExpress.Data.v17.1.xml
+C:\Users\pc\Desktop\Đại Học\Tài liệu môn học\Môn chuyên ngành\Lập trình Win\Đồ án cuối kỳ\New folder\STAFFPROJECT\STAFF\qlnv\qlnv\qlnv\bin\Debug\DevExpress.Printing.v17.1.Core.xml
+C:\Users\pc\Desktop\Đại Học\Tài liệu môn học\Môn chuyên ngành\Lập trình Win\Đồ án cuối kỳ\New folder\STAFFPROJECT\STAFF\qlnv\qlnv\qlnv\bin\Debug\DevExpress.Sparkline.v17.1.Core.xml
+C:\Users\pc\Desktop\Đại Học\Tài liệu môn học\Môn chuyên ngành\Lập trình Win\Đồ án cuối kỳ\New folder\STAFFPROJECT\STAFF\qlnv\qlnv\qlnv\bin\Debug\DevExpress.Utils.v17.1.xml
+C:\Users\pc\Desktop\Đại Học\Tài liệu môn học\Môn chuyên ngành\Lập trình Win\Đồ án cuối kỳ\New folder\STAFFPROJECT\STAFF\qlnv\qlnv\qlnv\bin\Debug\DevExpress.Xpo.v17.1.xml
+C:\Users\pc\Desktop\Đại Học\Tài liệu môn học\Môn chuyên ngành\Lập trình Win\Đồ án cuối kỳ\New folder\STAFFPROJECT\STAFF\qlnv\qlnv\qlnv\bin\Debug\DevExpress.XtraEditors.v17.1.xml
+C:\Users\pc\Desktop\Đại Học\Tài liệu môn học\Môn chuyên ngành\Lập trình Win\Đồ án cuối kỳ\New folder\STAFFPROJECT\STAFF\qlnv\qlnv\qlnv\bin\Debug\EntityFramework.xml
+C:\Users\pc\Desktop\Đại Học\Tài liệu môn học\Môn chuyên ngành\Lập trình Win\Đồ án cuối kỳ\New folder\STAFFPROJECT\STAFF\qlnv\qlnv\qlnv\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\pc\Desktop\Đại Học\Tài liệu môn học\Môn chuyên ngành\Lập trình Win\Đồ án cuối kỳ\New folder\STAFFPROJECT\STAFF\qlnv\qlnv\qlnv\bin\Debug\DevExpress.Pdf.v17.1.Core.xml
+C:\Users\pc\Desktop\Đại Học\Tài liệu môn học\Môn chuyên ngành\Lập trình Win\Đồ án cuối kỳ\New folder\STAFFPROJECT\STAFF\qlnv\qlnv\qlnv\bin\Debug\de\DevExpress.Data.v17.1.resources.dll
+C:\Users\pc\Desktop\Đại Học\Tài liệu môn học\Môn chuyên ngành\Lập trình Win\Đồ án cuối kỳ\New folder\STAFFPROJECT\STAFF\qlnv\qlnv\qlnv\bin\Debug\es\DevExpress.Data.v17.1.resources.dll
+C:\Users\pc\Desktop\Đại Học\Tài liệu môn học\Môn chuyên ngành\Lập trình Win\Đồ án cuối kỳ\New folder\STAFFPROJECT\STAFF\qlnv\qlnv\qlnv\bin\Debug\ja\DevExpress.Data.v17.1.resources.dll
+C:\Users\pc\Desktop\Đại Học\Tài liệu môn học\Môn chuyên ngành\Lập trình Win\Đồ án cuối kỳ\New folder\STAFFPROJECT\STAFF\qlnv\qlnv\qlnv\bin\Debug\ru\DevExpress.Data.v17.1.resources.dll
+C:\Users\pc\Desktop\Đại Học\Tài liệu môn học\Môn chuyên ngành\Lập trình Win\Đồ án cuối kỳ\New folder\STAFFPROJECT\STAFF\qlnv\qlnv\qlnv\bin\Debug\de\DevExpress.Printing.v17.1.Core.resources.dll
+C:\Users\pc\Desktop\Đại Học\Tài liệu môn học\Môn chuyên ngành\Lập trình Win\Đồ án cuối kỳ\New folder\STAFFPROJECT\STAFF\qlnv\qlnv\qlnv\bin\Debug\es\DevExpress.Printing.v17.1.Core.resources.dll
+C:\Users\pc\Desktop\Đại Học\Tài liệu môn học\Môn chuyên ngành\Lập trình Win\Đồ án cuối kỳ\New folder\STAFFPROJECT\STAFF\qlnv\qlnv\qlnv\bin\Debug\ja\DevExpress.Printing.v17.1.Core.resources.dll
+C:\Users\pc\Desktop\Đại Học\Tài liệu môn học\Môn chuyên ngành\Lập trình Win\Đồ án cuối kỳ\New folder\STAFFPROJECT\STAFF\qlnv\qlnv\qlnv\bin\Debug\ru\DevExpress.Printing.v17.1.Core.resources.dll
+C:\Users\pc\Desktop\Đại Học\Tài liệu môn học\Môn chuyên ngành\Lập trình Win\Đồ án cuối kỳ\New folder\STAFFPROJECT\STAFF\qlnv\qlnv\qlnv\bin\Debug\de\DevExpress.Sparkline.v17.1.Core.resources.dll
+C:\Users\pc\Desktop\Đại Học\Tài liệu môn học\Môn chuyên ngành\Lập trình Win\Đồ án cuối kỳ\New folder\STAFFPROJECT\STAFF\qlnv\qlnv\qlnv\bin\Debug\es\DevExpress.Sparkline.v17.1.Core.resources.dll
+C:\Users\pc\Desktop\Đại Học\Tài liệu môn học\Môn chuyên ngành\Lập trình Win\Đồ án cuối kỳ\New folder\STAFFPROJECT\STAFF\qlnv\qlnv\qlnv\bin\Debug\ja\DevExpress.Sparkline.v17.1.Core.resources.dll
+C:\Users\pc\Desktop\Đại Học\Tài liệu môn học\Môn chuyên ngành\Lập trình Win\Đồ án cuối kỳ\New folder\STAFFPROJECT\STAFF\qlnv\qlnv\qlnv\bin\Debug\ru\DevExpress.Sparkline.v17.1.Core.resources.dll
+C:\Users\pc\Desktop\Đại Học\Tài liệu môn học\Môn chuyên ngành\Lập trình Win\Đồ án cuối kỳ\New folder\STAFFPROJECT\STAFF\qlnv\qlnv\qlnv\bin\Debug\de\DevExpress.Utils.v17.1.resources.dll
+C:\Users\pc\Desktop\Đại Học\Tài liệu môn học\Môn chuyên ngành\Lập trình Win\Đồ án cuối kỳ\New folder\STAFFPROJECT\STAFF\qlnv\qlnv\qlnv\bin\Debug\es\DevExpress.Utils.v17.1.resources.dll
+C:\Users\pc\Desktop\Đại Học\Tài liệu môn học\Môn chuyên ngành\Lập trình Win\Đồ án cuối kỳ\New folder\STAFFPROJECT\STAFF\qlnv\qlnv\qlnv\bin\Debug\ja\DevExpress.Utils.v17.1.resources.dll
+C:\Users\pc\Desktop\Đại Học\Tài liệu môn học\Môn chuyên ngành\Lập trình Win\Đồ án cuối kỳ\New folder\STAFFPROJECT\STAFF\qlnv\qlnv\qlnv\bin\Debug\ru\DevExpress.Utils.v17.1.resources.dll
+C:\Users\pc\Desktop\Đại Học\Tài liệu môn học\Môn chuyên ngành\Lập trình Win\Đồ án cuối kỳ\New folder\STAFFPROJECT\STAFF\qlnv\qlnv\qlnv\bin\Debug\de\DevExpress.Xpo.v17.1.resources.dll
+C:\Users\pc\Desktop\Đại Học\Tài liệu môn học\Môn chuyên ngành\Lập trình Win\Đồ án cuối kỳ\New folder\STAFFPROJECT\STAFF\qlnv\qlnv\qlnv\bin\Debug\es\DevExpress.Xpo.v17.1.resources.dll
+C:\Users\pc\Desktop\Đại Học\Tài liệu môn học\Môn chuyên ngành\Lập trình Win\Đồ án cuối kỳ\New folder\STAFFPROJECT\STAFF\qlnv\qlnv\qlnv\bin\Debug\ja\DevExpress.Xpo.v17.1.resources.dll
+C:\Users\pc\Desktop\Đại Học\Tài liệu môn học\Môn chuyên ngành\Lập trình Win\Đồ án cuối kỳ\New folder\STAFFPROJECT\STAFF\qlnv\qlnv\qlnv\bin\Debug\ru\DevExpress.Xpo.v17.1.resources.dll
+C:\Users\pc\Desktop\Đại Học\Tài liệu môn học\Môn chuyên ngành\Lập trình Win\Đồ án cuối kỳ\New folder\STAFFPROJECT\STAFF\qlnv\qlnv\qlnv\bin\Debug\de\DevExpress.XtraEditors.v17.1.resources.dll
+C:\Users\pc\Desktop\Đại Học\Tài liệu môn học\Môn chuyên ngành\Lập trình Win\Đồ án cuối kỳ\New folder\STAFFPROJECT\STAFF\qlnv\qlnv\qlnv\bin\Debug\es\DevExpress.XtraEditors.v17.1.resources.dll
+C:\Users\pc\Desktop\Đại Học\Tài liệu môn học\Môn chuyên ngành\Lập trình Win\Đồ án cuối kỳ\New folder\STAFFPROJECT\STAFF\qlnv\qlnv\qlnv\bin\Debug\ja\DevExpress.XtraEditors.v17.1.resources.dll
+C:\Users\pc\Desktop\Đại Học\Tài liệu môn học\Môn chuyên ngành\Lập trình Win\Đồ án cuối kỳ\New folder\STAFFPROJECT\STAFF\qlnv\qlnv\qlnv\bin\Debug\ru\DevExpress.XtraEditors.v17.1.resources.dll
+C:\Users\pc\Desktop\Đại Học\Tài liệu môn học\Môn chuyên ngành\Lập trình Win\Đồ án cuối kỳ\New folder\STAFFPROJECT\STAFF\qlnv\qlnv\qlnv\bin\Debug\de\DevExpress.Pdf.v17.1.Core.resources.dll
+C:\Users\pc\Desktop\Đại Học\Tài liệu môn học\Môn chuyên ngành\Lập trình Win\Đồ án cuối kỳ\New folder\STAFFPROJECT\STAFF\qlnv\qlnv\qlnv\bin\Debug\es\DevExpress.Pdf.v17.1.Core.resources.dll
+C:\Users\pc\Desktop\Đại Học\Tài liệu môn học\Môn chuyên ngành\Lập trình Win\Đồ án cuối kỳ\New folder\STAFFPROJECT\STAFF\qlnv\qlnv\qlnv\bin\Debug\ja\DevExpress.Pdf.v17.1.Core.resources.dll
+C:\Users\pc\Desktop\Đại Học\Tài liệu môn học\Môn chuyên ngành\Lập trình Win\Đồ án cuối kỳ\New folder\STAFFPROJECT\STAFF\qlnv\qlnv\qlnv\bin\Debug\ru\DevExpress.Pdf.v17.1.Core.resources.dll
+C:\Users\pc\Desktop\Đại Học\Tài liệu môn học\Môn chuyên ngành\Lập trình Win\Đồ án cuối kỳ\New folder\STAFFPROJECT\STAFF\qlnv\qlnv\qlnv\obj\Debug\qlnv.csprojAssemblyReference.cache
+C:\Users\pc\Desktop\Đại Học\Tài liệu môn học\Môn chuyên ngành\Lập trình Win\Đồ án cuối kỳ\New folder\STAFFPROJECT\STAFF\qlnv\qlnv\qlnv\obj\Debug\qlnv.EditEmp.resources
+C:\Users\pc\Desktop\Đại Học\Tài liệu môn học\Môn chuyên ngành\Lập trình Win\Đồ án cuối kỳ\New folder\STAFFPROJECT\STAFF\qlnv\qlnv\qlnv\obj\Debug\qlnv.AddAndEditDept.resources
+C:\Users\pc\Desktop\Đại Học\Tài liệu môn học\Môn chuyên ngành\Lập trình Win\Đồ án cuối kỳ\New folder\STAFFPROJECT\STAFF\qlnv\qlnv\qlnv\obj\Debug\qlnv.AddEmployee.resources
+C:\Users\pc\Desktop\Đại Học\Tài liệu môn học\Môn chuyên ngành\Lập trình Win\Đồ án cuối kỳ\New folder\STAFFPROJECT\STAFF\qlnv\qlnv\qlnv\obj\Debug\qlnv.AssignEmp.resources
+C:\Users\pc\Desktop\Đại Học\Tài liệu môn học\Môn chuyên ngành\Lập trình Win\Đồ án cuối kỳ\New folder\STAFFPROJECT\STAFF\qlnv\qlnv\qlnv\obj\Debug\qlnv.ProjectAdd.resources
+C:\Users\pc\Desktop\Đại Học\Tài liệu môn học\Môn chuyên ngành\Lập trình Win\Đồ án cuối kỳ\New folder\STAFFPROJECT\STAFF\qlnv\qlnv\qlnv\obj\Debug\qlnv.Filters.resources
+C:\Users\pc\Desktop\Đại Học\Tài liệu môn học\Môn chuyên ngành\Lập trình Win\Đồ án cuối kỳ\New folder\STAFFPROJECT\STAFF\qlnv\qlnv\qlnv\obj\Debug\qlnv.FormStart.resources
+C:\Users\pc\Desktop\Đại Học\Tài liệu môn học\Môn chuyên ngành\Lập trình Win\Đồ án cuối kỳ\New folder\STAFFPROJECT\STAFF\qlnv\qlnv\qlnv\obj\Debug\qlnv.Properties.Resources.resources
+C:\Users\pc\Desktop\Đại Học\Tài liệu môn học\Môn chuyên ngành\Lập trình Win\Đồ án cuối kỳ\New folder\STAFFPROJECT\STAFF\qlnv\qlnv\qlnv\obj\Debug\qlnv.User_Controls.CHAMCONG.resources
+C:\Users\pc\Desktop\Đại Học\Tài liệu môn học\Môn chuyên ngành\Lập trình Win\Đồ án cuối kỳ\New folder\STAFFPROJECT\STAFF\qlnv\qlnv\qlnv\obj\Debug\qlnv.User_Controls.Department.resources
+C:\Users\pc\Desktop\Đại Học\Tài liệu môn học\Môn chuyên ngành\Lập trình Win\Đồ án cuối kỳ\New folder\STAFFPROJECT\STAFF\qlnv\qlnv\qlnv\obj\Debug\qlnv.User_Controls.Employee.resources
+C:\Users\pc\Desktop\Đại Học\Tài liệu môn học\Môn chuyên ngành\Lập trình Win\Đồ án cuối kỳ\New folder\STAFFPROJECT\STAFF\qlnv\qlnv\qlnv\obj\Debug\qlnv.User_Controls.Login.resources
+C:\Users\pc\Desktop\Đại Học\Tài liệu môn học\Môn chuyên ngành\Lập trình Win\Đồ án cuối kỳ\New folder\STAFFPROJECT\STAFF\qlnv\qlnv\qlnv\obj\Debug\qlnv.User_Controls.Project.resources
+C:\Users\pc\Desktop\Đại Học\Tài liệu môn học\Môn chuyên ngành\Lập trình Win\Đồ án cuối kỳ\New folder\STAFFPROJECT\STAFF\qlnv\qlnv\qlnv\obj\Debug\qlnv.csproj.GenerateResource.cache
+C:\Users\pc\Desktop\Đại Học\Tài liệu môn học\Môn chuyên ngành\Lập trình Win\Đồ án cuối kỳ\New folder\STAFFPROJECT\STAFF\qlnv\qlnv\qlnv\obj\Debug\qlnv.csproj.CoreCompileInputs.cache
+C:\Users\pc\Desktop\Đại Học\Tài liệu môn học\Môn chuyên ngành\Lập trình Win\Đồ án cuối kỳ\New folder\STAFFPROJECT\STAFF\qlnv\qlnv\qlnv\obj\Debug\qlnv.csproj.CopyComplete
+C:\Users\pc\Desktop\Đại Học\Tài liệu môn học\Môn chuyên ngành\Lập trình Win\Đồ án cuối kỳ\New folder\STAFFPROJECT\STAFF\qlnv\qlnv\qlnv\obj\Debug\qlnv.exe
+C:\Users\pc\Desktop\Đại Học\Tài liệu môn học\Môn chuyên ngành\Lập trình Win\Đồ án cuối kỳ\New folder\STAFFPROJECT\STAFF\qlnv\qlnv\qlnv\obj\Debug\qlnv.pdb
+C:\Users\pc\Desktop\Đại Học\Tài liệu môn học\Môn chuyên ngành\Lập trình Win\Đồ án cuối kỳ\New folder\STAFFPROJECT\STAFF\qlnv\qlnv\qlnv\obj\Debug\qlnv.Forms.EditPro.resources
+C:\Users\pc\Desktop\Đại Học\Tài liệu môn học\Môn chuyên ngành\Lập trình Win\Đồ án cuối kỳ\New folder\STAFFPROJECT\STAFF\qlnv\qlnv\qlnv\obj\Debug\qlnv.Forms.EditDep.resources
+C:\Users\pc\Desktop\Đại Học\Tài liệu môn học\Môn chuyên ngành\Lập trình Win\Đồ án cuối kỳ\HK2_2018-2019\STAFFPROJECT\STAFF\qlnv\qlnv\qlnv\obj\Debug\qlnv.csprojAssemblyReference.cache
+C:\Users\pc\Desktop\Đại Học\Tài liệu môn học\Môn chuyên ngành\Lập trình Win\Đồ án cuối kỳ\HK2_2018-2019\STAFFPROJECT\STAFF\qlnv\qlnv\qlnv\obj\Debug\qlnv.Forms.EditDep.resources
+C:\Users\pc\Desktop\Đại Học\Tài liệu môn học\Môn chuyên ngành\Lập trình Win\Đồ án cuối kỳ\HK2_2018-2019\STAFFPROJECT\STAFF\qlnv\qlnv\qlnv\obj\Debug\qlnv.EditEmp.resources
+C:\Users\pc\Desktop\Đại Học\Tài liệu môn học\Môn chuyên ngành\Lập trình Win\Đồ án cuối kỳ\HK2_2018-2019\STAFFPROJECT\STAFF\qlnv\qlnv\qlnv\obj\Debug\qlnv.AddAndEditDept.resources
+C:\Users\pc\Desktop\Đại Học\Tài liệu môn học\Môn chuyên ngành\Lập trình Win\Đồ án cuối kỳ\HK2_2018-2019\STAFFPROJECT\STAFF\qlnv\qlnv\qlnv\obj\Debug\qlnv.AddEmployee.resources
+C:\Users\pc\Desktop\Đại Học\Tài liệu môn học\Môn chuyên ngành\Lập trình Win\Đồ án cuối kỳ\HK2_2018-2019\STAFFPROJECT\STAFF\qlnv\qlnv\qlnv\obj\Debug\qlnv.AssignEmp.resources
+C:\Users\pc\Desktop\Đại Học\Tài liệu môn học\Môn chuyên ngành\Lập trình Win\Đồ án cuối kỳ\HK2_2018-2019\STAFFPROJECT\STAFF\qlnv\qlnv\qlnv\obj\Debug\qlnv.Forms.EditPro.resources
+C:\Users\pc\Desktop\Đại Học\Tài liệu môn học\Môn chuyên ngành\Lập trình Win\Đồ án cuối kỳ\HK2_2018-2019\STAFFPROJECT\STAFF\qlnv\qlnv\qlnv\obj\Debug\qlnv.ProjectAdd.resources
+C:\Users\pc\Desktop\Đại Học\Tài liệu môn học\Môn chuyên ngành\Lập trình Win\Đồ án cuối kỳ\HK2_2018-2019\STAFFPROJECT\STAFF\qlnv\qlnv\qlnv\obj\Debug\qlnv.FormStart.resources
+C:\Users\pc\Desktop\Đại Học\Tài liệu môn học\Môn chuyên ngành\Lập trình Win\Đồ án cuối kỳ\HK2_2018-2019\STAFFPROJECT\STAFF\qlnv\qlnv\qlnv\obj\Debug\qlnv.Properties.Resources.resources
+C:\Users\pc\Desktop\Đại Học\Tài liệu môn học\Môn chuyên ngành\Lập trình Win\Đồ án cuối kỳ\HK2_2018-2019\STAFFPROJECT\STAFF\qlnv\qlnv\qlnv\obj\Debug\qlnv.User_Controls.Department.resources
+C:\Users\pc\Desktop\Đại Học\Tài liệu môn học\Môn chuyên ngành\Lập trình Win\Đồ án cuối kỳ\HK2_2018-2019\STAFFPROJECT\STAFF\qlnv\qlnv\qlnv\obj\Debug\qlnv.User_Controls.Employee.resources
+C:\Users\pc\Desktop\Đại Học\Tài liệu môn học\Môn chuyên ngành\Lập trình Win\Đồ án cuối kỳ\HK2_2018-2019\STAFFPROJECT\STAFF\qlnv\qlnv\qlnv\obj\Debug\qlnv.User_Controls.Login.resources
+C:\Users\pc\Desktop\Đại Học\Tài liệu môn học\Môn chuyên ngành\Lập trình Win\Đồ án cuối kỳ\HK2_2018-2019\STAFFPROJECT\STAFF\qlnv\qlnv\qlnv\obj\Debug\qlnv.User_Controls.Project.resources
+C:\Users\pc\Desktop\Đại Học\Tài liệu môn học\Môn chuyên ngành\Lập trình Win\Đồ án cuối kỳ\HK2_2018-2019\STAFFPROJECT\STAFF\qlnv\qlnv\qlnv\obj\Debug\qlnv.csproj.GenerateResource.cache
+C:\Users\pc\Desktop\Đại Học\Tài liệu môn học\Môn chuyên ngành\Lập trình Win\Đồ án cuối kỳ\HK2_2018-2019\STAFFPROJECT\STAFF\qlnv\qlnv\qlnv\obj\Debug\qlnv.csproj.CoreCompileInputs.cache
+C:\Users\pc\Desktop\Đại Học\Tài liệu môn học\Môn chuyên ngành\Lập trình Win\Đồ án cuối kỳ\HK2_2018-2019\STAFFPROJECT\STAFF\qlnv\qlnv\qlnv\obj\Debug\qlnv.exe
+C:\Users\pc\Desktop\Đại Học\Tài liệu môn học\Môn chuyên ngành\Lập trình Win\Đồ án cuối kỳ\HK2_2018-2019\STAFFPROJECT\STAFF\qlnv\qlnv\qlnv\obj\Debug\qlnv.pdb
+C:\Users\pc\Desktop\Đại Học\Tài liệu môn học\Môn chuyên ngành\Lập trình Win\Đồ án cuối kỳ\HK2_2018-2019\STAFFPROJECT\STAFF\qlnv\qlnv\qlnv\bin\Debug\qlnv.exe.config
+C:\Users\pc\Desktop\Đại Học\Tài liệu môn học\Môn chuyên ngành\Lập trình Win\Đồ án cuối kỳ\HK2_2018-2019\STAFFPROJECT\STAFF\qlnv\qlnv\qlnv\bin\Debug\qlnv.exe
+C:\Users\pc\Desktop\Đại Học\Tài liệu môn học\Môn chuyên ngành\Lập trình Win\Đồ án cuối kỳ\HK2_2018-2019\STAFFPROJECT\STAFF\qlnv\qlnv\qlnv\bin\Debug\qlnv.pdb
+C:\Users\pc\Desktop\Đại Học\Tài liệu môn học\Môn chuyên ngành\Lập trình Win\Đồ án cuối kỳ\HK2_2018-2019\STAFFPROJECT\STAFF\qlnv\qlnv\qlnv\bin\Debug\EntityFramework.dll
+C:\Users\pc\Desktop\Đại Học\Tài liệu môn học\Môn chuyên ngành\Lập trình Win\Đồ án cuối kỳ\HK2_2018-2019\STAFFPROJECT\STAFF\qlnv\qlnv\qlnv\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\pc\Desktop\Đại Học\Tài liệu môn học\Môn chuyên ngành\Lập trình Win\Đồ án cuối kỳ\HK2_2018-2019\STAFFPROJECT\STAFF\qlnv\qlnv\qlnv\bin\Debug\DevExpress.Pdf.v17.1.Core.dll
+C:\Users\pc\Desktop\Đại Học\Tài liệu môn học\Môn chuyên ngành\Lập trình Win\Đồ án cuối kỳ\HK2_2018-2019\STAFFPROJECT\STAFF\qlnv\qlnv\qlnv\bin\Debug\DevExpress.Data.v17.1.xml
+C:\Users\pc\Desktop\Đại Học\Tài liệu môn học\Môn chuyên ngành\Lập trình Win\Đồ án cuối kỳ\HK2_2018-2019\STAFFPROJECT\STAFF\qlnv\qlnv\qlnv\bin\Debug\DevExpress.Printing.v17.1.Core.xml
+C:\Users\pc\Desktop\Đại Học\Tài liệu môn học\Môn chuyên ngành\Lập trình Win\Đồ án cuối kỳ\HK2_2018-2019\STAFFPROJECT\STAFF\qlnv\qlnv\qlnv\bin\Debug\DevExpress.Sparkline.v17.1.Core.xml
+C:\Users\pc\Desktop\Đại Học\Tài liệu môn học\Môn chuyên ngành\Lập trình Win\Đồ án cuối kỳ\HK2_2018-2019\STAFFPROJECT\STAFF\qlnv\qlnv\qlnv\bin\Debug\DevExpress.Utils.v17.1.xml
+C:\Users\pc\Desktop\Đại Học\Tài liệu môn học\Môn chuyên ngành\Lập trình Win\Đồ án cuối kỳ\HK2_2018-2019\STAFFPROJECT\STAFF\qlnv\qlnv\qlnv\bin\Debug\DevExpress.Xpo.v17.1.xml
+C:\Users\pc\Desktop\Đại Học\Tài liệu môn học\Môn chuyên ngành\Lập trình Win\Đồ án cuối kỳ\HK2_2018-2019\STAFFPROJECT\STAFF\qlnv\qlnv\qlnv\bin\Debug\DevExpress.XtraEditors.v17.1.xml
+C:\Users\pc\Desktop\Đại Học\Tài liệu môn học\Môn chuyên ngành\Lập trình Win\Đồ án cuối kỳ\HK2_2018-2019\STAFFPROJECT\STAFF\qlnv\qlnv\qlnv\bin\Debug\EntityFramework.xml
+C:\Users\pc\Desktop\Đại Học\Tài liệu môn học\Môn chuyên ngành\Lập trình Win\Đồ án cuối kỳ\HK2_2018-2019\STAFFPROJECT\STAFF\qlnv\qlnv\qlnv\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\pc\Desktop\Đại Học\Tài liệu môn học\Môn chuyên ngành\Lập trình Win\Đồ án cuối kỳ\HK2_2018-2019\STAFFPROJECT\STAFF\qlnv\qlnv\qlnv\bin\Debug\DevExpress.Pdf.v17.1.Core.xml
+C:\Users\pc\Desktop\Đại Học\Tài liệu môn học\Môn chuyên ngành\Lập trình Win\Đồ án cuối kỳ\HK2_2018-2019\STAFFPROJECT\STAFF\qlnv\qlnv\qlnv\bin\Debug\de\DevExpress.Data.v17.1.resources.dll
+C:\Users\pc\Desktop\Đại Học\Tài liệu môn học\Môn chuyên ngành\Lập trình Win\Đồ án cuối kỳ\HK2_2018-2019\STAFFPROJECT\STAFF\qlnv\qlnv\qlnv\bin\Debug\es\DevExpress.Data.v17.1.resources.dll
+C:\Users\pc\Desktop\Đại Học\Tài liệu môn học\Môn chuyên ngành\Lập trình Win\Đồ án cuối kỳ\HK2_2018-2019\STAFFPROJECT\STAFF\qlnv\qlnv\qlnv\bin\Debug\ja\DevExpress.Data.v17.1.resources.dll
+C:\Users\pc\Desktop\Đại Học\Tài liệu môn học\Môn chuyên ngành\Lập trình Win\Đồ án cuối kỳ\HK2_2018-2019\STAFFPROJECT\STAFF\qlnv\qlnv\qlnv\bin\Debug\ru\DevExpress.Data.v17.1.resources.dll
+C:\Users\pc\Desktop\Đại Học\Tài liệu môn học\Môn chuyên ngành\Lập trình Win\Đồ án cuối kỳ\HK2_2018-2019\STAFFPROJECT\STAFF\qlnv\qlnv\qlnv\bin\Debug\de\DevExpress.Printing.v17.1.Core.resources.dll
+C:\Users\pc\Desktop\Đại Học\Tài liệu môn học\Môn chuyên ngành\Lập trình Win\Đồ án cuối kỳ\HK2_2018-2019\STAFFPROJECT\STAFF\qlnv\qlnv\qlnv\bin\Debug\es\DevExpress.Printing.v17.1.Core.resources.dll
+C:\Users\pc\Desktop\Đại Học\Tài liệu môn học\Môn chuyên ngành\Lập trình Win\Đồ án cuối kỳ\HK2_2018-2019\STAFFPROJECT\STAFF\qlnv\qlnv\qlnv\bin\Debug\ja\DevExpress.Printing.v17.1.Core.resources.dll
+C:\Users\pc\Desktop\Đại Học\Tài liệu môn học\Môn chuyên ngành\Lập trình Win\Đồ án cuối kỳ\HK2_2018-2019\STAFFPROJECT\STAFF\qlnv\qlnv\qlnv\bin\Debug\ru\DevExpress.Printing.v17.1.Core.resources.dll
+C:\Users\pc\Desktop\Đại Học\Tài liệu môn học\Môn chuyên ngành\Lập trình Win\Đồ án cuối kỳ\HK2_2018-2019\STAFFPROJECT\STAFF\qlnv\qlnv\qlnv\bin\Debug\de\DevExpress.Sparkline.v17.1.Core.resources.dll
+C:\Users\pc\Desktop\Đại Học\Tài liệu môn học\Môn chuyên ngành\Lập trình Win\Đồ án cuối kỳ\HK2_2018-2019\STAFFPROJECT\STAFF\qlnv\qlnv\qlnv\bin\Debug\es\DevExpress.Sparkline.v17.1.Core.resources.dll
+C:\Users\pc\Desktop\Đại Học\Tài liệu môn học\Môn chuyên ngành\Lập trình Win\Đồ án cuối kỳ\HK2_2018-2019\STAFFPROJECT\STAFF\qlnv\qlnv\qlnv\bin\Debug\ja\DevExpress.Sparkline.v17.1.Core.resources.dll
+C:\Users\pc\Desktop\Đại Học\Tài liệu môn học\Môn chuyên ngành\Lập trình Win\Đồ án cuối kỳ\HK2_2018-2019\STAFFPROJECT\STAFF\qlnv\qlnv\qlnv\bin\Debug\ru\DevExpress.Sparkline.v17.1.Core.resources.dll
+C:\Users\pc\Desktop\Đại Học\Tài liệu môn học\Môn chuyên ngành\Lập trình Win\Đồ án cuối kỳ\HK2_2018-2019\STAFFPROJECT\STAFF\qlnv\qlnv\qlnv\bin\Debug\de\DevExpress.Utils.v17.1.resources.dll
+C:\Users\pc\Desktop\Đại Học\Tài liệu môn học\Môn chuyên ngành\Lập trình Win\Đồ án cuối kỳ\HK2_2018-2019\STAFFPROJECT\STAFF\qlnv\qlnv\qlnv\bin\Debug\es\DevExpress.Utils.v17.1.resources.dll
+C:\Users\pc\Desktop\Đại Học\Tài liệu môn học\Môn chuyên ngành\Lập trình Win\Đồ án cuối kỳ\HK2_2018-2019\STAFFPROJECT\STAFF\qlnv\qlnv\qlnv\bin\Debug\ja\DevExpress.Utils.v17.1.resources.dll
+C:\Users\pc\Desktop\Đại Học\Tài liệu môn học\Môn chuyên ngành\Lập trình Win\Đồ án cuối kỳ\HK2_2018-2019\STAFFPROJECT\STAFF\qlnv\qlnv\qlnv\bin\Debug\ru\DevExpress.Utils.v17.1.resources.dll
+C:\Users\pc\Desktop\Đại Học\Tài liệu môn học\Môn chuyên ngành\Lập trình Win\Đồ án cuối kỳ\HK2_2018-2019\STAFFPROJECT\STAFF\qlnv\qlnv\qlnv\bin\Debug\de\DevExpress.Xpo.v17.1.resources.dll
+C:\Users\pc\Desktop\Đại Học\Tài liệu môn học\Môn chuyên ngành\Lập trình Win\Đồ án cuối kỳ\HK2_2018-2019\STAFFPROJECT\STAFF\qlnv\qlnv\qlnv\bin\Debug\es\DevExpress.Xpo.v17.1.resources.dll
+C:\Users\pc\Desktop\Đại Học\Tài liệu môn học\Môn chuyên ngành\Lập trình Win\Đồ án cuối kỳ\HK2_2018-2019\STAFFPROJECT\STAFF\qlnv\qlnv\qlnv\bin\Debug\ja\DevExpress.Xpo.v17.1.resources.dll
+C:\Users\pc\Desktop\Đại Học\Tài liệu môn học\Môn chuyên ngành\Lập trình Win\Đồ án cuối kỳ\HK2_2018-2019\STAFFPROJECT\STAFF\qlnv\qlnv\qlnv\bin\Debug\ru\DevExpress.Xpo.v17.1.resources.dll
+C:\Users\pc\Desktop\Đại Học\Tài liệu môn học\Môn chuyên ngành\Lập trình Win\Đồ án cuối kỳ\HK2_2018-2019\STAFFPROJECT\STAFF\qlnv\qlnv\qlnv\bin\Debug\de\DevExpress.XtraEditors.v17.1.resources.dll
+C:\Users\pc\Desktop\Đại Học\Tài liệu môn học\Môn chuyên ngành\Lập trình Win\Đồ án cuối kỳ\HK2_2018-2019\STAFFPROJECT\STAFF\qlnv\qlnv\qlnv\bin\Debug\es\DevExpress.XtraEditors.v17.1.resources.dll
+C:\Users\pc\Desktop\Đại Học\Tài liệu môn học\Môn chuyên ngành\Lập trình Win\Đồ án cuối kỳ\HK2_2018-2019\STAFFPROJECT\STAFF\qlnv\qlnv\qlnv\bin\Debug\ja\DevExpress.XtraEditors.v17.1.resources.dll
+C:\Users\pc\Desktop\Đại Học\Tài liệu môn học\Môn chuyên ngành\Lập trình Win\Đồ án cuối kỳ\HK2_2018-2019\STAFFPROJECT\STAFF\qlnv\qlnv\qlnv\bin\Debug\ru\DevExpress.XtraEditors.v17.1.resources.dll
+C:\Users\pc\Desktop\Đại Học\Tài liệu môn học\Môn chuyên ngành\Lập trình Win\Đồ án cuối kỳ\HK2_2018-2019\STAFFPROJECT\STAFF\qlnv\qlnv\qlnv\bin\Debug\de\DevExpress.Pdf.v17.1.Core.resources.dll
+C:\Users\pc\Desktop\Đại Học\Tài liệu môn học\Môn chuyên ngành\Lập trình Win\Đồ án cuối kỳ\HK2_2018-2019\STAFFPROJECT\STAFF\qlnv\qlnv\qlnv\bin\Debug\es\DevExpress.Pdf.v17.1.Core.resources.dll
+C:\Users\pc\Desktop\Đại Học\Tài liệu môn học\Môn chuyên ngành\Lập trình Win\Đồ án cuối kỳ\HK2_2018-2019\STAFFPROJECT\STAFF\qlnv\qlnv\qlnv\bin\Debug\ja\DevExpress.Pdf.v17.1.Core.resources.dll
+C:\Users\pc\Desktop\Đại Học\Tài liệu môn học\Môn chuyên ngành\Lập trình Win\Đồ án cuối kỳ\HK2_2018-2019\STAFFPROJECT\STAFF\qlnv\qlnv\qlnv\bin\Debug\ru\DevExpress.Pdf.v17.1.Core.resources.dll
+C:\Users\pc\Desktop\Đại Học\Tài liệu môn học\Môn chuyên ngành\Lập trình Win\Đồ án cuối kỳ\HK2_2018-2019\STAFFPROJECT\STAFF\qlnv\qlnv\qlnv\obj\Debug\qlnv.csproj.CopyComplete
+C:\Users\pc\Desktop\Đại Học\Tài liệu môn học\Môn chuyên ngành\Lập trình Win\Đồ án cuối kỳ\HK2_2018-2019\STAFFPROJECT\STAFF\qlnv\qlnv\qlnv\obj\Debug\qlnv.Forms.frmLogin.resources
+C:\Users\pc\Desktop\Đại Học\Tài liệu môn học\Môn chuyên ngành\Lập trình Win\Đồ án cuối kỳ\HK2_2018-2019\STAFFPROJECT\STAFF\qlnv\qlnv\qlnv\obj\Debug\qlnv.Forms.ChamCong.resources
+C:\Users\pc\Desktop\Đại Học\Tài liệu môn học\Môn chuyên ngành\Lập trình Win\Đồ án cuối kỳ\HK2_2018-2019\STAFFPROJECT\STAFF\qlnv\qlnv\qlnv\obj\Debug\qlnv.Forms.frmAssignProject.resources
+C:\Users\pc\Desktop\Đại Học\Tài liệu môn học\Môn chuyên ngành\Lập trình Win\Đồ án cuối kỳ\HK2_2018-2019\STAFFPROJECT\STAFF\qlnv\qlnv\qlnv\qlnv\bin\Debug\qlnv.exe.config
+C:\Users\pc\Desktop\Đại Học\Tài liệu môn học\Môn chuyên ngành\Lập trình Win\Đồ án cuối kỳ\HK2_2018-2019\STAFFPROJECT\STAFF\qlnv\qlnv\qlnv\qlnv\bin\Debug\qlnv.exe
+C:\Users\pc\Desktop\Đại Học\Tài liệu môn học\Môn chuyên ngành\Lập trình Win\Đồ án cuối kỳ\HK2_2018-2019\STAFFPROJECT\STAFF\qlnv\qlnv\qlnv\qlnv\bin\Debug\qlnv.pdb
+C:\Users\pc\Desktop\Đại Học\Tài liệu môn học\Môn chuyên ngành\Lập trình Win\Đồ án cuối kỳ\HK2_2018-2019\STAFFPROJECT\STAFF\qlnv\qlnv\qlnv\qlnv\bin\Debug\EntityFramework.dll
+C:\Users\pc\Desktop\Đại Học\Tài liệu môn học\Môn chuyên ngành\Lập trình Win\Đồ án cuối kỳ\HK2_2018-2019\STAFFPROJECT\STAFF\qlnv\qlnv\qlnv\qlnv\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\pc\Desktop\Đại Học\Tài liệu môn học\Môn chuyên ngành\Lập trình Win\Đồ án cuối kỳ\HK2_2018-2019\STAFFPROJECT\STAFF\qlnv\qlnv\qlnv\qlnv\bin\Debug\DevExpress.Pdf.v17.1.Core.dll
+C:\Users\pc\Desktop\Đại Học\Tài liệu môn học\Môn chuyên ngành\Lập trình Win\Đồ án cuối kỳ\HK2_2018-2019\STAFFPROJECT\STAFF\qlnv\qlnv\qlnv\qlnv\bin\Debug\DevExpress.Data.v17.1.xml
+C:\Users\pc\Desktop\Đại Học\Tài liệu môn học\Môn chuyên ngành\Lập trình Win\Đồ án cuối kỳ\HK2_2018-2019\STAFFPROJECT\STAFF\qlnv\qlnv\qlnv\qlnv\bin\Debug\DevExpress.Printing.v17.1.Core.xml
+C:\Users\pc\Desktop\Đại Học\Tài liệu môn học\Môn chuyên ngành\Lập trình Win\Đồ án cuối kỳ\HK2_2018-2019\STAFFPROJECT\STAFF\qlnv\qlnv\qlnv\qlnv\bin\Debug\DevExpress.Sparkline.v17.1.Core.xml
+C:\Users\pc\Desktop\Đại Học\Tài liệu môn học\Môn chuyên ngành\Lập trình Win\Đồ án cuối kỳ\HK2_2018-2019\STAFFPROJECT\STAFF\qlnv\qlnv\qlnv\qlnv\bin\Debug\DevExpress.Utils.v17.1.xml
+C:\Users\pc\Desktop\Đại Học\Tài liệu môn học\Môn chuyên ngành\Lập trình Win\Đồ án cuối kỳ\HK2_2018-2019\STAFFPROJECT\STAFF\qlnv\qlnv\qlnv\qlnv\bin\Debug\DevExpress.Xpo.v17.1.xml
+C:\Users\pc\Desktop\Đại Học\Tài liệu môn học\Môn chuyên ngành\Lập trình Win\Đồ án cuối kỳ\HK2_2018-2019\STAFFPROJECT\STAFF\qlnv\qlnv\qlnv\qlnv\bin\Debug\DevExpress.XtraEditors.v17.1.xml
+C:\Users\pc\Desktop\Đại Học\Tài liệu môn học\Môn chuyên ngành\Lập trình Win\Đồ án cuối kỳ\HK2_2018-2019\STAFFPROJECT\STAFF\qlnv\qlnv\qlnv\qlnv\bin\Debug\EntityFramework.xml
+C:\Users\pc\Desktop\Đại Học\Tài liệu môn học\Môn chuyên ngành\Lập trình Win\Đồ án cuối kỳ\HK2_2018-2019\STAFFPROJECT\STAFF\qlnv\qlnv\qlnv\qlnv\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\pc\Desktop\Đại Học\Tài liệu môn học\Môn chuyên ngành\Lập trình Win\Đồ án cuối kỳ\HK2_2018-2019\STAFFPROJECT\STAFF\qlnv\qlnv\qlnv\qlnv\bin\Debug\DevExpress.Pdf.v17.1.Core.xml
+C:\Users\pc\Desktop\Đại Học\Tài liệu môn học\Môn chuyên ngành\Lập trình Win\Đồ án cuối kỳ\HK2_2018-2019\STAFFPROJECT\STAFF\qlnv\qlnv\qlnv\qlnv\bin\Debug\de\DevExpress.Data.v17.1.resources.dll
+C:\Users\pc\Desktop\Đại Học\Tài liệu môn học\Môn chuyên ngành\Lập trình Win\Đồ án cuối kỳ\HK2_2018-2019\STAFFPROJECT\STAFF\qlnv\qlnv\qlnv\qlnv\bin\Debug\es\DevExpress.Data.v17.1.resources.dll
+C:\Users\pc\Desktop\Đại Học\Tài liệu môn học\Môn chuyên ngành\Lập trình Win\Đồ án cuối kỳ\HK2_2018-2019\STAFFPROJECT\STAFF\qlnv\qlnv\qlnv\qlnv\bin\Debug\ja\DevExpress.Data.v17.1.resources.dll
+C:\Users\pc\Desktop\Đại Học\Tài liệu môn học\Môn chuyên ngành\Lập trình Win\Đồ án cuối kỳ\HK2_2018-2019\STAFFPROJECT\STAFF\qlnv\qlnv\qlnv\qlnv\bin\Debug\ru\DevExpress.Data.v17.1.resources.dll
+C:\Users\pc\Desktop\Đại Học\Tài liệu môn học\Môn chuyên ngành\Lập trình Win\Đồ án cuối kỳ\HK2_2018-2019\STAFFPROJECT\STAFF\qlnv\qlnv\qlnv\qlnv\bin\Debug\de\DevExpress.Printing.v17.1.Core.resources.dll
+C:\Users\pc\Desktop\Đại Học\Tài liệu môn học\Môn chuyên ngành\Lập trình Win\Đồ án cuối kỳ\HK2_2018-2019\STAFFPROJECT\STAFF\qlnv\qlnv\qlnv\qlnv\bin\Debug\es\DevExpress.Printing.v17.1.Core.resources.dll
+C:\Users\pc\Desktop\Đại Học\Tài liệu môn học\Môn chuyên ngành\Lập trình Win\Đồ án cuối kỳ\HK2_2018-2019\STAFFPROJECT\STAFF\qlnv\qlnv\qlnv\qlnv\bin\Debug\ja\DevExpress.Printing.v17.1.Core.resources.dll
+C:\Users\pc\Desktop\Đại Học\Tài liệu môn học\Môn chuyên ngành\Lập trình Win\Đồ án cuối kỳ\HK2_2018-2019\STAFFPROJECT\STAFF\qlnv\qlnv\qlnv\qlnv\bin\Debug\ru\DevExpress.Printing.v17.1.Core.resources.dll
+C:\Users\pc\Desktop\Đại Học\Tài liệu môn học\Môn chuyên ngành\Lập trình Win\Đồ án cuối kỳ\HK2_2018-2019\STAFFPROJECT\STAFF\qlnv\qlnv\qlnv\qlnv\bin\Debug\de\DevExpress.Sparkline.v17.1.Core.resources.dll
+C:\Users\pc\Desktop\Đại Học\Tài liệu môn học\Môn chuyên ngành\Lập trình Win\Đồ án cuối kỳ\HK2_2018-2019\STAFFPROJECT\STAFF\qlnv\qlnv\qlnv\qlnv\bin\Debug\es\DevExpress.Sparkline.v17.1.Core.resources.dll
+C:\Users\pc\Desktop\Đại Học\Tài liệu môn học\Môn chuyên ngành\Lập trình Win\Đồ án cuối kỳ\HK2_2018-2019\STAFFPROJECT\STAFF\qlnv\qlnv\qlnv\qlnv\bin\Debug\ja\DevExpress.Sparkline.v17.1.Core.resources.dll
+C:\Users\pc\Desktop\Đại Học\Tài liệu môn học\Môn chuyên ngành\Lập trình Win\Đồ án cuối kỳ\HK2_2018-2019\STAFFPROJECT\STAFF\qlnv\qlnv\qlnv\qlnv\bin\Debug\ru\DevExpress.Sparkline.v17.1.Core.resources.dll
+C:\Users\pc\Desktop\Đại Học\Tài liệu môn học\Môn chuyên ngành\Lập trình Win\Đồ án cuối kỳ\HK2_2018-2019\STAFFPROJECT\STAFF\qlnv\qlnv\qlnv\qlnv\bin\Debug\de\DevExpress.Utils.v17.1.resources.dll
+C:\Users\pc\Desktop\Đại Học\Tài liệu môn học\Môn chuyên ngành\Lập trình Win\Đồ án cuối kỳ\HK2_2018-2019\STAFFPROJECT\STAFF\qlnv\qlnv\qlnv\qlnv\bin\Debug\es\DevExpress.Utils.v17.1.resources.dll
+C:\Users\pc\Desktop\Đại Học\Tài liệu môn học\Môn chuyên ngành\Lập trình Win\Đồ án cuối kỳ\HK2_2018-2019\STAFFPROJECT\STAFF\qlnv\qlnv\qlnv\qlnv\bin\Debug\ja\DevExpress.Utils.v17.1.resources.dll
+C:\Users\pc\Desktop\Đại Học\Tài liệu môn học\Môn chuyên ngành\Lập trình Win\Đồ án cuối kỳ\HK2_2018-2019\STAFFPROJECT\STAFF\qlnv\qlnv\qlnv\qlnv\bin\Debug\ru\DevExpress.Utils.v17.1.resources.dll
+C:\Users\pc\Desktop\Đại Học\Tài liệu môn học\Môn chuyên ngành\Lập trình Win\Đồ án cuối kỳ\HK2_2018-2019\STAFFPROJECT\STAFF\qlnv\qlnv\qlnv\qlnv\bin\Debug\de\DevExpress.Xpo.v17.1.resources.dll
+C:\Users\pc\Desktop\Đại Học\Tài liệu môn học\Môn chuyên ngành\Lập trình Win\Đồ án cuối kỳ\HK2_2018-2019\STAFFPROJECT\STAFF\qlnv\qlnv\qlnv\qlnv\bin\Debug\es\DevExpress.Xpo.v17.1.resources.dll
+C:\Users\pc\Desktop\Đại Học\Tài liệu môn học\Môn chuyên ngành\Lập trình Win\Đồ án cuối kỳ\HK2_2018-2019\STAFFPROJECT\STAFF\qlnv\qlnv\qlnv\qlnv\bin\Debug\ja\DevExpress.Xpo.v17.1.resources.dll
+C:\Users\pc\Desktop\Đại Học\Tài liệu môn học\Môn chuyên ngành\Lập trình Win\Đồ án cuối kỳ\HK2_2018-2019\STAFFPROJECT\STAFF\qlnv\qlnv\qlnv\qlnv\bin\Debug\ru\DevExpress.Xpo.v17.1.resources.dll
+C:\Users\pc\Desktop\Đại Học\Tài liệu môn học\Môn chuyên ngành\Lập trình Win\Đồ án cuối kỳ\HK2_2018-2019\STAFFPROJECT\STAFF\qlnv\qlnv\qlnv\qlnv\bin\Debug\de\DevExpress.XtraEditors.v17.1.resources.dll
+C:\Users\pc\Desktop\Đại Học\Tài liệu môn học\Môn chuyên ngành\Lập trình Win\Đồ án cuối kỳ\HK2_2018-2019\STAFFPROJECT\STAFF\qlnv\qlnv\qlnv\qlnv\bin\Debug\es\DevExpress.XtraEditors.v17.1.resources.dll
+C:\Users\pc\Desktop\Đại Học\Tài liệu môn học\Môn chuyên ngành\Lập trình Win\Đồ án cuối kỳ\HK2_2018-2019\STAFFPROJECT\STAFF\qlnv\qlnv\qlnv\qlnv\bin\Debug\ja\DevExpress.XtraEditors.v17.1.resources.dll
+C:\Users\pc\Desktop\Đại Học\Tài liệu môn học\Môn chuyên ngành\Lập trình Win\Đồ án cuối kỳ\HK2_2018-2019\STAFFPROJECT\STAFF\qlnv\qlnv\qlnv\qlnv\bin\Debug\ru\DevExpress.XtraEditors.v17.1.resources.dll
+C:\Users\pc\Desktop\Đại Học\Tài liệu môn học\Môn chuyên ngành\Lập trình Win\Đồ án cuối kỳ\HK2_2018-2019\STAFFPROJECT\STAFF\qlnv\qlnv\qlnv\qlnv\bin\Debug\de\DevExpress.Pdf.v17.1.Core.resources.dll
+C:\Users\pc\Desktop\Đại Học\Tài liệu môn học\Môn chuyên ngành\Lập trình Win\Đồ án cuối kỳ\HK2_2018-2019\STAFFPROJECT\STAFF\qlnv\qlnv\qlnv\qlnv\bin\Debug\es\DevExpress.Pdf.v17.1.Core.resources.dll
+C:\Users\pc\Desktop\Đại Học\Tài liệu môn học\Môn chuyên ngành\Lập trình Win\Đồ án cuối kỳ\HK2_2018-2019\STAFFPROJECT\STAFF\qlnv\qlnv\qlnv\qlnv\bin\Debug\ja\DevExpress.Pdf.v17.1.Core.resources.dll
+C:\Users\pc\Desktop\Đại Học\Tài liệu môn học\Môn chuyên ngành\Lập trình Win\Đồ án cuối kỳ\HK2_2018-2019\STAFFPROJECT\STAFF\qlnv\qlnv\qlnv\qlnv\bin\Debug\ru\DevExpress.Pdf.v17.1.Core.resources.dll
+C:\Users\pc\Desktop\Đại Học\Tài liệu môn học\Môn chuyên ngành\Lập trình Win\Đồ án cuối kỳ\HK2_2018-2019\STAFFPROJECT\STAFF\qlnv\qlnv\qlnv\qlnv\obj\Debug\qlnv.csprojAssemblyReference.cache
+C:\Users\pc\Desktop\Đại Học\Tài liệu môn học\Môn chuyên ngành\Lập trình Win\Đồ án cuối kỳ\HK2_2018-2019\STAFFPROJECT\STAFF\qlnv\qlnv\qlnv\qlnv\obj\Debug\qlnv.Forms.ChamCong.resources
+C:\Users\pc\Desktop\Đại Học\Tài liệu môn học\Môn chuyên ngành\Lập trình Win\Đồ án cuối kỳ\HK2_2018-2019\STAFFPROJECT\STAFF\qlnv\qlnv\qlnv\qlnv\obj\Debug\qlnv.Forms.EditDep.resources
+C:\Users\pc\Desktop\Đại Học\Tài liệu môn học\Môn chuyên ngành\Lập trình Win\Đồ án cuối kỳ\HK2_2018-2019\STAFFPROJECT\STAFF\qlnv\qlnv\qlnv\qlnv\obj\Debug\qlnv.EditEmp.resources
+C:\Users\pc\Desktop\Đại Học\Tài liệu môn học\Môn chuyên ngành\Lập trình Win\Đồ án cuối kỳ\HK2_2018-2019\STAFFPROJECT\STAFF\qlnv\qlnv\qlnv\qlnv\obj\Debug\qlnv.AddAndEditDept.resources
+C:\Users\pc\Desktop\Đại Học\Tài liệu môn học\Môn chuyên ngành\Lập trình Win\Đồ án cuối kỳ\HK2_2018-2019\STAFFPROJECT\STAFF\qlnv\qlnv\qlnv\qlnv\obj\Debug\qlnv.AddEmployee.resources
+C:\Users\pc\Desktop\Đại Học\Tài liệu môn học\Môn chuyên ngành\Lập trình Win\Đồ án cuối kỳ\HK2_2018-2019\STAFFPROJECT\STAFF\qlnv\qlnv\qlnv\qlnv\obj\Debug\qlnv.AssignEmp.resources
+C:\Users\pc\Desktop\Đại Học\Tài liệu môn học\Môn chuyên ngành\Lập trình Win\Đồ án cuối kỳ\HK2_2018-2019\STAFFPROJECT\STAFF\qlnv\qlnv\qlnv\qlnv\obj\Debug\qlnv.Forms.EditPro.resources
+C:\Users\pc\Desktop\Đại Học\Tài liệu môn học\Môn chuyên ngành\Lập trình Win\Đồ án cuối kỳ\HK2_2018-2019\STAFFPROJECT\STAFF\qlnv\qlnv\qlnv\qlnv\obj\Debug\qlnv.Forms.frmAssignProject.resources
+C:\Users\pc\Desktop\Đại Học\Tài liệu môn học\Môn chuyên ngành\Lập trình Win\Đồ án cuối kỳ\HK2_2018-2019\STAFFPROJECT\STAFF\qlnv\qlnv\qlnv\qlnv\obj\Debug\qlnv.Forms.frmLogin.resources
+C:\Users\pc\Desktop\Đại Học\Tài liệu môn học\Môn chuyên ngành\Lập trình Win\Đồ án cuối kỳ\HK2_2018-2019\STAFFPROJECT\STAFF\qlnv\qlnv\qlnv\qlnv\obj\Debug\qlnv.ProjectAdd.resources
+C:\Users\pc\Desktop\Đại Học\Tài liệu môn học\Môn chuyên ngành\Lập trình Win\Đồ án cuối kỳ\HK2_2018-2019\STAFFPROJECT\STAFF\qlnv\qlnv\qlnv\qlnv\obj\Debug\qlnv.FormStart.resources
+C:\Users\pc\Desktop\Đại Học\Tài liệu môn học\Môn chuyên ngành\Lập trình Win\Đồ án cuối kỳ\HK2_2018-2019\STAFFPROJECT\STAFF\qlnv\qlnv\qlnv\qlnv\obj\Debug\qlnv.Properties.Resources.resources
+C:\Users\pc\Desktop\Đại Học\Tài liệu môn học\Môn chuyên ngành\Lập trình Win\Đồ án cuối kỳ\HK2_2018-2019\STAFFPROJECT\STAFF\qlnv\qlnv\qlnv\qlnv\obj\Debug\qlnv.User_Controls.Department.resources
+C:\Users\pc\Desktop\Đại Học\Tài liệu môn học\Môn chuyên ngành\Lập trình Win\Đồ án cuối kỳ\HK2_2018-2019\STAFFPROJECT\STAFF\qlnv\qlnv\qlnv\qlnv\obj\Debug\qlnv.User_Controls.Employee.resources
+C:\Users\pc\Desktop\Đại Học\Tài liệu môn học\Môn chuyên ngành\Lập trình Win\Đồ án cuối kỳ\HK2_2018-2019\STAFFPROJECT\STAFF\qlnv\qlnv\qlnv\qlnv\obj\Debug\qlnv.User_Controls.Login.resources
+C:\Users\pc\Desktop\Đại Học\Tài liệu môn học\Môn chuyên ngành\Lập trình Win\Đồ án cuối kỳ\HK2_2018-2019\STAFFPROJECT\STAFF\qlnv\qlnv\qlnv\qlnv\obj\Debug\qlnv.User_Controls.Project.resources
+C:\Users\pc\Desktop\Đại Học\Tài liệu môn học\Môn chuyên ngành\Lập trình Win\Đồ án cuối kỳ\HK2_2018-2019\STAFFPROJECT\STAFF\qlnv\qlnv\qlnv\qlnv\obj\Debug\qlnv.csproj.GenerateResource.cache
+C:\Users\pc\Desktop\Đại Học\Tài liệu môn học\Môn chuyên ngành\Lập trình Win\Đồ án cuối kỳ\HK2_2018-2019\STAFFPROJECT\STAFF\qlnv\qlnv\qlnv\qlnv\obj\Debug\qlnv.csproj.CoreCompileInputs.cache
+C:\Users\pc\Desktop\Đại Học\Tài liệu môn học\Môn chuyên ngành\Lập trình Win\Đồ án cuối kỳ\HK2_2018-2019\STAFFPROJECT\STAFF\qlnv\qlnv\qlnv\qlnv\obj\Debug\qlnv.csproj.CopyComplete
+C:\Users\pc\Desktop\Đại Học\Tài liệu môn học\Môn chuyên ngành\Lập trình Win\Đồ án cuối kỳ\HK2_2018-2019\STAFFPROJECT\STAFF\qlnv\qlnv\qlnv\qlnv\obj\Debug\qlnv.exe
+C:\Users\pc\Desktop\Đại Học\Tài liệu môn học\Môn chuyên ngành\Lập trình Win\Đồ án cuối kỳ\HK2_2018-2019\STAFFPROJECT\STAFF\qlnv\qlnv\qlnv\qlnv\obj\Debug\qlnv.pdb
+C:\Users\pc\Desktop\Đại Học\Tài liệu môn học\Môn chuyên ngành\Lập trình Win\Đồ án cuối kỳ\HK2_2018-2019\STAFFPROJECT\STAFF\qlnv\qlnv\qlnv\qlnv\obj\Debug\qlnv.Forms.ChiTietChamCong.resources
+C:\Users\pc\Desktop\Đại Học\Tài liệu môn học\Môn chuyên ngành\Lập trình Win\Đồ án cuối kỳ\HK2_2018-2019\STAFFPROJECT\STAFF\qlnv\qlnv\qlnv\qlnv\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\pc\Desktop\Đại Học\Tài liệu môn học\Môn chuyên ngành\Lập trình Win\Đồ án cuối kỳ\HK2_2018-2019\STAFFPROJECT\STAFF\qlnv\qlnv\qlnv\qlnv\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\pc\Desktop\Đại Học\Tài liệu môn học\Môn chuyên ngành\Lập trình Win\Đồ án cuối kỳ\HK2_2018-2019\STAFFPROJECT\STAFF\qlnv\qlnv\qlnv\qlnv\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\pc\Desktop\Đại Học\Tài liệu môn học\Môn chuyên ngành\Lập trình Win\Đồ án cuối kỳ\HK2_2018-2019\STAFFPROJECT\STAFF\qlnv\qlnv\qlnv\qlnv\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\pc\Desktop\Đại Học\Tài liệu môn học\Môn chuyên ngành\Lập trình Win\Đồ án cuối kỳ\HK2_2018-2019\STAFFPROJECT\STAFF\qlnv\qlnv\qlnv\qlnv\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\pc\Desktop\Đại Học\Tài liệu môn học\Môn chuyên ngành\Lập trình Win\Đồ án cuối kỳ\HK2_2018-2019\STAFFPROJECT\STAFF\qlnv\qlnv\qlnv\qlnv\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\pc\Desktop\Đại Học\Tài liệu môn học\Môn chuyên ngành\Lập trình Win\Đồ án cuối kỳ\HK2_2018-2019\STAFFPROJECT\STAFF\qlnv\qlnv\qlnv\qlnv\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\pc\Desktop\Đại Học\Tài liệu môn học\Môn chuyên ngành\Lập trình Win\Đồ án cuối kỳ\HK2_2018-2019\STAFFPROJECT\STAFF\qlnv\qlnv\qlnv\qlnv\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\pc\Desktop\Đại Học\Tài liệu môn học\Môn chuyên ngành\Lập trình Win\Đồ án cuối kỳ\HK2_2018-2019\STAFFPROJECT\STAFF\qlnv\qlnv\qlnv\qlnv\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\pc\Desktop\Đại Học\Tài liệu môn học\Môn chuyên ngành\Lập trình Win\Đồ án cuối kỳ\HK2_2018-2019\STAFFPROJECT\STAFF\qlnv\qlnv\qlnv\qlnv\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\pc\Desktop\Đại Học\Tài liệu môn học\Môn chuyên ngành\Lập trình Win\Đồ án cuối kỳ\HK2_2018-2019\STAFFPROJECT\STAFF\qlnv\qlnv\qlnv\qlnv\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\pc\Desktop\Đại Học\Tài liệu môn học\Môn chuyên ngành\Lập trình Win\Đồ án cuối kỳ\HK2_2018-2019\STAFFPROJECT\STAFF\qlnv\qlnv\qlnv\qlnv\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\pc\Desktop\Đại Học\Tài liệu môn học\Môn chuyên ngành\Lập trình Win\Đồ án cuối kỳ\HK2_2018-2019\STAFFPROJECT\STAFF\qlnv\qlnv\qlnv\qlnv\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\pc\Desktop\Đại Học\Tài liệu môn học\Môn chuyên ngành\Lập trình Win\Đồ án cuối kỳ\HK2_2018-2019\STAFFPROJECT\STAFF\qlnv\qlnv\qlnv\qlnv\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\pc\Desktop\Đại Học\Tài liệu môn học\Môn chuyên ngành\Lập trình Win\Đồ án cuối kỳ\HK2_2018-2019\STAFFPROJECT\STAFF\qlnv\qlnv\qlnv\qlnv\obj\Debug\qlnv.Forms.THONGKE.resources
+C:\Users\pc\Desktop\qlnv\qlnv\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+C:\Users\pc\Desktop\qlnv\qlnv\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+C:\Users\pc\Desktop\qlnv\qlnv\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+C:\Users\pc\Desktop\qlnv\qlnv\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+C:\Users\pc\Desktop\qlnv\qlnv\bin\Debug\qlnv.exe.config
+C:\Users\pc\Desktop\qlnv\qlnv\bin\Debug\qlnv.exe
+C:\Users\pc\Desktop\qlnv\qlnv\bin\Debug\qlnv.pdb
+C:\Users\pc\Desktop\qlnv\qlnv\bin\Debug\EntityFramework.dll
+C:\Users\pc\Desktop\qlnv\qlnv\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\pc\Desktop\qlnv\qlnv\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\pc\Desktop\qlnv\qlnv\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\pc\Desktop\qlnv\qlnv\bin\Debug\Microsoft.ReportViewer.Design.dll
+C:\Users\pc\Desktop\qlnv\qlnv\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\pc\Desktop\qlnv\qlnv\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\pc\Desktop\qlnv\qlnv\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\pc\Desktop\qlnv\qlnv\bin\Debug\DevExpress.Pdf.v17.1.Core.dll
+C:\Users\pc\Desktop\qlnv\qlnv\bin\Debug\EnvDTE.dll
+C:\Users\pc\Desktop\qlnv\qlnv\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+C:\Users\pc\Desktop\qlnv\qlnv\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+C:\Users\pc\Desktop\qlnv\qlnv\bin\Debug\stdole.dll
+C:\Users\pc\Desktop\qlnv\qlnv\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+C:\Users\pc\Desktop\qlnv\qlnv\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+C:\Users\pc\Desktop\qlnv\qlnv\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+C:\Users\pc\Desktop\qlnv\qlnv\bin\Debug\Microsoft.MSXML.dll
+C:\Users\pc\Desktop\qlnv\qlnv\bin\Debug\DevExpress.Data.v17.1.xml
+C:\Users\pc\Desktop\qlnv\qlnv\bin\Debug\DevExpress.Printing.v17.1.Core.xml
+C:\Users\pc\Desktop\qlnv\qlnv\bin\Debug\DevExpress.Sparkline.v17.1.Core.xml
+C:\Users\pc\Desktop\qlnv\qlnv\bin\Debug\DevExpress.Utils.v17.1.xml
+C:\Users\pc\Desktop\qlnv\qlnv\bin\Debug\DevExpress.Xpo.v17.1.xml
+C:\Users\pc\Desktop\qlnv\qlnv\bin\Debug\DevExpress.XtraEditors.v17.1.xml
+C:\Users\pc\Desktop\qlnv\qlnv\bin\Debug\EntityFramework.xml
+C:\Users\pc\Desktop\qlnv\qlnv\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\pc\Desktop\qlnv\qlnv\bin\Debug\DevExpress.Pdf.v17.1.Core.xml
+C:\Users\pc\Desktop\qlnv\qlnv\bin\Debug\de\DevExpress.Data.v17.1.resources.dll
+C:\Users\pc\Desktop\qlnv\qlnv\bin\Debug\es\DevExpress.Data.v17.1.resources.dll
+C:\Users\pc\Desktop\qlnv\qlnv\bin\Debug\ja\DevExpress.Data.v17.1.resources.dll
+C:\Users\pc\Desktop\qlnv\qlnv\bin\Debug\ru\DevExpress.Data.v17.1.resources.dll
+C:\Users\pc\Desktop\qlnv\qlnv\bin\Debug\de\DevExpress.Printing.v17.1.Core.resources.dll
+C:\Users\pc\Desktop\qlnv\qlnv\bin\Debug\es\DevExpress.Printing.v17.1.Core.resources.dll
+C:\Users\pc\Desktop\qlnv\qlnv\bin\Debug\ja\DevExpress.Printing.v17.1.Core.resources.dll
+C:\Users\pc\Desktop\qlnv\qlnv\bin\Debug\ru\DevExpress.Printing.v17.1.Core.resources.dll
+C:\Users\pc\Desktop\qlnv\qlnv\bin\Debug\de\DevExpress.Sparkline.v17.1.Core.resources.dll
+C:\Users\pc\Desktop\qlnv\qlnv\bin\Debug\es\DevExpress.Sparkline.v17.1.Core.resources.dll
+C:\Users\pc\Desktop\qlnv\qlnv\bin\Debug\ja\DevExpress.Sparkline.v17.1.Core.resources.dll
+C:\Users\pc\Desktop\qlnv\qlnv\bin\Debug\ru\DevExpress.Sparkline.v17.1.Core.resources.dll
+C:\Users\pc\Desktop\qlnv\qlnv\bin\Debug\de\DevExpress.Utils.v17.1.resources.dll
+C:\Users\pc\Desktop\qlnv\qlnv\bin\Debug\es\DevExpress.Utils.v17.1.resources.dll
+C:\Users\pc\Desktop\qlnv\qlnv\bin\Debug\ja\DevExpress.Utils.v17.1.resources.dll
+C:\Users\pc\Desktop\qlnv\qlnv\bin\Debug\ru\DevExpress.Utils.v17.1.resources.dll
+C:\Users\pc\Desktop\qlnv\qlnv\bin\Debug\de\DevExpress.Xpo.v17.1.resources.dll
+C:\Users\pc\Desktop\qlnv\qlnv\bin\Debug\es\DevExpress.Xpo.v17.1.resources.dll
+C:\Users\pc\Desktop\qlnv\qlnv\bin\Debug\ja\DevExpress.Xpo.v17.1.resources.dll
+C:\Users\pc\Desktop\qlnv\qlnv\bin\Debug\ru\DevExpress.Xpo.v17.1.resources.dll
+C:\Users\pc\Desktop\qlnv\qlnv\bin\Debug\de\DevExpress.XtraEditors.v17.1.resources.dll
+C:\Users\pc\Desktop\qlnv\qlnv\bin\Debug\es\DevExpress.XtraEditors.v17.1.resources.dll
+C:\Users\pc\Desktop\qlnv\qlnv\bin\Debug\ja\DevExpress.XtraEditors.v17.1.resources.dll
+C:\Users\pc\Desktop\qlnv\qlnv\bin\Debug\ru\DevExpress.XtraEditors.v17.1.resources.dll
+C:\Users\pc\Desktop\qlnv\qlnv\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\pc\Desktop\qlnv\qlnv\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\pc\Desktop\qlnv\qlnv\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\pc\Desktop\qlnv\qlnv\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\pc\Desktop\qlnv\qlnv\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\pc\Desktop\qlnv\qlnv\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\pc\Desktop\qlnv\qlnv\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\pc\Desktop\qlnv\qlnv\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\pc\Desktop\qlnv\qlnv\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\pc\Desktop\qlnv\qlnv\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\pc\Desktop\qlnv\qlnv\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\pc\Desktop\qlnv\qlnv\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\pc\Desktop\qlnv\qlnv\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\pc\Desktop\qlnv\qlnv\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\pc\Desktop\qlnv\qlnv\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\pc\Desktop\qlnv\qlnv\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\pc\Desktop\qlnv\qlnv\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\pc\Desktop\qlnv\qlnv\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\pc\Desktop\qlnv\qlnv\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\pc\Desktop\qlnv\qlnv\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\pc\Desktop\qlnv\qlnv\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\pc\Desktop\qlnv\qlnv\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\pc\Desktop\qlnv\qlnv\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\pc\Desktop\qlnv\qlnv\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\pc\Desktop\qlnv\qlnv\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\pc\Desktop\qlnv\qlnv\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\pc\Desktop\qlnv\qlnv\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\pc\Desktop\qlnv\qlnv\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\pc\Desktop\qlnv\qlnv\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\pc\Desktop\qlnv\qlnv\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\pc\Desktop\qlnv\qlnv\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\pc\Desktop\qlnv\qlnv\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\pc\Desktop\qlnv\qlnv\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\pc\Desktop\qlnv\qlnv\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\pc\Desktop\qlnv\qlnv\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\pc\Desktop\qlnv\qlnv\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\pc\Desktop\qlnv\qlnv\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\pc\Desktop\qlnv\qlnv\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\pc\Desktop\qlnv\qlnv\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\pc\Desktop\qlnv\qlnv\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\pc\Desktop\qlnv\qlnv\bin\Debug\de\DevExpress.Pdf.v17.1.Core.resources.dll
+C:\Users\pc\Desktop\qlnv\qlnv\bin\Debug\es\DevExpress.Pdf.v17.1.Core.resources.dll
+C:\Users\pc\Desktop\qlnv\qlnv\bin\Debug\ja\DevExpress.Pdf.v17.1.Core.resources.dll
+C:\Users\pc\Desktop\qlnv\qlnv\bin\Debug\ru\DevExpress.Pdf.v17.1.Core.resources.dll
+C:\Users\pc\Desktop\qlnv\qlnv\obj\Debug\qlnv.csprojAssemblyReference.cache
+C:\Users\pc\Desktop\qlnv\qlnv\obj\Debug\qlnv.Forms.ChamCong.resources
+C:\Users\pc\Desktop\qlnv\qlnv\obj\Debug\qlnv.Forms.ChiTietChamCong.resources
+C:\Users\pc\Desktop\qlnv\qlnv\obj\Debug\qlnv.Forms.EditDep.resources
+C:\Users\pc\Desktop\qlnv\qlnv\obj\Debug\qlnv.EditEmp.resources
+C:\Users\pc\Desktop\qlnv\qlnv\obj\Debug\qlnv.AddAndEditDept.resources
+C:\Users\pc\Desktop\qlnv\qlnv\obj\Debug\qlnv.AddEmployee.resources
+C:\Users\pc\Desktop\qlnv\qlnv\obj\Debug\qlnv.AssignEmp.resources
+C:\Users\pc\Desktop\qlnv\qlnv\obj\Debug\qlnv.Forms.EditPro.resources
+C:\Users\pc\Desktop\qlnv\qlnv\obj\Debug\qlnv.Forms.frmAssignProject.resources
+C:\Users\pc\Desktop\qlnv\qlnv\obj\Debug\qlnv.Forms.frmLogin.resources
+C:\Users\pc\Desktop\qlnv\qlnv\obj\Debug\qlnv.ProjectAdd.resources
+C:\Users\pc\Desktop\qlnv\qlnv\obj\Debug\qlnv.FormStart.resources
+C:\Users\pc\Desktop\qlnv\qlnv\obj\Debug\qlnv.Properties.Resources.resources
+C:\Users\pc\Desktop\qlnv\qlnv\obj\Debug\qlnv.User_Controls.Department.resources
+C:\Users\pc\Desktop\qlnv\qlnv\obj\Debug\qlnv.User_Controls.Employee.resources
+C:\Users\pc\Desktop\qlnv\qlnv\obj\Debug\qlnv.User_Controls.Login.resources
+C:\Users\pc\Desktop\qlnv\qlnv\obj\Debug\qlnv.User_Controls.Project.resources
+C:\Users\pc\Desktop\qlnv\qlnv\obj\Debug\qlnv.csproj.GenerateResource.cache
+C:\Users\pc\Desktop\qlnv\qlnv\obj\Debug\qlnv.csproj.CoreCompileInputs.cache
+C:\Users\pc\Desktop\qlnv\qlnv\obj\Debug\qlnv.csproj.CopyComplete
+C:\Users\pc\Desktop\qlnv\qlnv\obj\Debug\qlnv.exe
+C:\Users\pc\Desktop\qlnv\qlnv\obj\Debug\qlnv.pdb
+C:\Users\pc\Desktop\qlnv\qlnv\obj\Debug\RdlCompile.cache
+C:\Users\pc\Desktop\qlnv\qlnv\obj\Debug\RdlCompile.compiled
+C:\Users\pc\Desktop\qlnv\qlnv\obj\Debug\qlnv.Forms.Luong.resources
+C:\Users\pc\Desktop\qlnv\qlnv\qlnv\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+C:\Users\pc\Desktop\qlnv\qlnv\qlnv\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+C:\Users\pc\Desktop\qlnv\qlnv\qlnv\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+C:\Users\pc\Desktop\qlnv\qlnv\qlnv\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+C:\Users\pc\Desktop\qlnv\qlnv\qlnv\bin\Debug\qlnv.exe.config
+C:\Users\pc\Desktop\qlnv\qlnv\qlnv\bin\Debug\qlnv.exe
+C:\Users\pc\Desktop\qlnv\qlnv\qlnv\bin\Debug\qlnv.pdb
+C:\Users\pc\Desktop\qlnv\qlnv\qlnv\bin\Debug\EntityFramework.dll
+C:\Users\pc\Desktop\qlnv\qlnv\qlnv\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\pc\Desktop\qlnv\qlnv\qlnv\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\pc\Desktop\qlnv\qlnv\qlnv\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\pc\Desktop\qlnv\qlnv\qlnv\bin\Debug\Microsoft.ReportViewer.Design.dll
+C:\Users\pc\Desktop\qlnv\qlnv\qlnv\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\pc\Desktop\qlnv\qlnv\qlnv\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\pc\Desktop\qlnv\qlnv\qlnv\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\pc\Desktop\qlnv\qlnv\qlnv\bin\Debug\EnvDTE.dll
+C:\Users\pc\Desktop\qlnv\qlnv\qlnv\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+C:\Users\pc\Desktop\qlnv\qlnv\qlnv\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+C:\Users\pc\Desktop\qlnv\qlnv\qlnv\bin\Debug\stdole.dll
+C:\Users\pc\Desktop\qlnv\qlnv\qlnv\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+C:\Users\pc\Desktop\qlnv\qlnv\qlnv\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+C:\Users\pc\Desktop\qlnv\qlnv\qlnv\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+C:\Users\pc\Desktop\qlnv\qlnv\qlnv\bin\Debug\Microsoft.MSXML.dll
+C:\Users\pc\Desktop\qlnv\qlnv\qlnv\bin\Debug\EntityFramework.xml
+C:\Users\pc\Desktop\qlnv\qlnv\qlnv\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\pc\Desktop\qlnv\qlnv\qlnv\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\pc\Desktop\qlnv\qlnv\qlnv\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\pc\Desktop\qlnv\qlnv\qlnv\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\pc\Desktop\qlnv\qlnv\qlnv\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\pc\Desktop\qlnv\qlnv\qlnv\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\pc\Desktop\qlnv\qlnv\qlnv\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\pc\Desktop\qlnv\qlnv\qlnv\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\pc\Desktop\qlnv\qlnv\qlnv\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\pc\Desktop\qlnv\qlnv\qlnv\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\pc\Desktop\qlnv\qlnv\qlnv\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\pc\Desktop\qlnv\qlnv\qlnv\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\pc\Desktop\qlnv\qlnv\qlnv\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\pc\Desktop\qlnv\qlnv\qlnv\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\pc\Desktop\qlnv\qlnv\qlnv\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\pc\Desktop\qlnv\qlnv\qlnv\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\pc\Desktop\qlnv\qlnv\qlnv\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\pc\Desktop\qlnv\qlnv\qlnv\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\pc\Desktop\qlnv\qlnv\qlnv\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\pc\Desktop\qlnv\qlnv\qlnv\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\pc\Desktop\qlnv\qlnv\qlnv\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\pc\Desktop\qlnv\qlnv\qlnv\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\pc\Desktop\qlnv\qlnv\qlnv\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\pc\Desktop\qlnv\qlnv\qlnv\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\pc\Desktop\qlnv\qlnv\qlnv\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\pc\Desktop\qlnv\qlnv\qlnv\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\pc\Desktop\qlnv\qlnv\qlnv\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\pc\Desktop\qlnv\qlnv\qlnv\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\pc\Desktop\qlnv\qlnv\qlnv\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\pc\Desktop\qlnv\qlnv\qlnv\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\pc\Desktop\qlnv\qlnv\qlnv\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\pc\Desktop\qlnv\qlnv\qlnv\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\pc\Desktop\qlnv\qlnv\qlnv\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\pc\Desktop\qlnv\qlnv\qlnv\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\pc\Desktop\qlnv\qlnv\qlnv\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\pc\Desktop\qlnv\qlnv\qlnv\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\pc\Desktop\qlnv\qlnv\qlnv\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\pc\Desktop\qlnv\qlnv\qlnv\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\pc\Desktop\qlnv\qlnv\qlnv\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\pc\Desktop\qlnv\qlnv\qlnv\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\pc\Desktop\qlnv\qlnv\qlnv\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\pc\Desktop\qlnv\qlnv\qlnv\obj\Debug\qlnv.csprojAssemblyReference.cache
+C:\Users\pc\Desktop\qlnv\qlnv\qlnv\obj\Debug\qlnv.Forms.ChamCong.resources
+C:\Users\pc\Desktop\qlnv\qlnv\qlnv\obj\Debug\qlnv.Forms.ChiTietChamCong.resources
+C:\Users\pc\Desktop\qlnv\qlnv\qlnv\obj\Debug\qlnv.Forms.EditDep.resources
+C:\Users\pc\Desktop\qlnv\qlnv\qlnv\obj\Debug\qlnv.EditEmp.resources
+C:\Users\pc\Desktop\qlnv\qlnv\qlnv\obj\Debug\qlnv.AddAndEditDept.resources
+C:\Users\pc\Desktop\qlnv\qlnv\qlnv\obj\Debug\qlnv.AddEmployee.resources
+C:\Users\pc\Desktop\qlnv\qlnv\qlnv\obj\Debug\qlnv.AssignEmp.resources
+C:\Users\pc\Desktop\qlnv\qlnv\qlnv\obj\Debug\qlnv.Forms.EditPro.resources
+C:\Users\pc\Desktop\qlnv\qlnv\qlnv\obj\Debug\qlnv.Forms.frmAssignProject.resources
+C:\Users\pc\Desktop\qlnv\qlnv\qlnv\obj\Debug\qlnv.Forms.frmLogin.resources
+C:\Users\pc\Desktop\qlnv\qlnv\qlnv\obj\Debug\qlnv.Forms.Luong.resources
+C:\Users\pc\Desktop\qlnv\qlnv\qlnv\obj\Debug\qlnv.ProjectAdd.resources
+C:\Users\pc\Desktop\qlnv\qlnv\qlnv\obj\Debug\qlnv.FormStart.resources
+C:\Users\pc\Desktop\qlnv\qlnv\qlnv\obj\Debug\qlnv.Properties.Resources.resources
+C:\Users\pc\Desktop\qlnv\qlnv\qlnv\obj\Debug\qlnv.User_Controls.Department.resources
+C:\Users\pc\Desktop\qlnv\qlnv\qlnv\obj\Debug\qlnv.User_Controls.Employee.resources
+C:\Users\pc\Desktop\qlnv\qlnv\qlnv\obj\Debug\qlnv.User_Controls.Login.resources
+C:\Users\pc\Desktop\qlnv\qlnv\qlnv\obj\Debug\qlnv.User_Controls.Project.resources
+C:\Users\pc\Desktop\qlnv\qlnv\qlnv\obj\Debug\qlnv.csproj.GenerateResource.cache
+C:\Users\pc\Desktop\qlnv\qlnv\qlnv\obj\Debug\qlnv.csproj.CoreCompileInputs.cache
+C:\Users\pc\Desktop\qlnv\qlnv\qlnv\obj\Debug\qlnv.csproj.CopyComplete
+C:\Users\pc\Desktop\qlnv\qlnv\qlnv\obj\Debug\qlnv.exe
+C:\Users\pc\Desktop\qlnv\qlnv\qlnv\obj\Debug\qlnv.pdb
+C:\Users\pc\Desktop\qlnv_5\qlnv_5\qlnv\qlnv\qlnv\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+C:\Users\pc\Desktop\qlnv_5\qlnv_5\qlnv\qlnv\qlnv\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+C:\Users\pc\Desktop\qlnv_5\qlnv_5\qlnv\qlnv\qlnv\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+C:\Users\pc\Desktop\qlnv_5\qlnv_5\qlnv\qlnv\qlnv\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+C:\Users\pc\Desktop\qlnv_5\qlnv_5\qlnv\qlnv\qlnv\bin\Debug\qlnv.exe.config
+C:\Users\pc\Desktop\qlnv_5\qlnv_5\qlnv\qlnv\qlnv\bin\Debug\qlnv.exe
+C:\Users\pc\Desktop\qlnv_5\qlnv_5\qlnv\qlnv\qlnv\bin\Debug\qlnv.pdb
+C:\Users\pc\Desktop\qlnv_5\qlnv_5\qlnv\qlnv\qlnv\bin\Debug\EntityFramework.dll
+C:\Users\pc\Desktop\qlnv_5\qlnv_5\qlnv\qlnv\qlnv\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\pc\Desktop\qlnv_5\qlnv_5\qlnv\qlnv\qlnv\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\pc\Desktop\qlnv_5\qlnv_5\qlnv\qlnv\qlnv\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\pc\Desktop\qlnv_5\qlnv_5\qlnv\qlnv\qlnv\bin\Debug\Microsoft.ReportViewer.Design.dll
+C:\Users\pc\Desktop\qlnv_5\qlnv_5\qlnv\qlnv\qlnv\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\pc\Desktop\qlnv_5\qlnv_5\qlnv\qlnv\qlnv\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\pc\Desktop\qlnv_5\qlnv_5\qlnv\qlnv\qlnv\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\pc\Desktop\qlnv_5\qlnv_5\qlnv\qlnv\qlnv\bin\Debug\DevExpress.Pdf.v17.1.Core.dll
+C:\Users\pc\Desktop\qlnv_5\qlnv_5\qlnv\qlnv\qlnv\bin\Debug\EnvDTE.dll
+C:\Users\pc\Desktop\qlnv_5\qlnv_5\qlnv\qlnv\qlnv\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+C:\Users\pc\Desktop\qlnv_5\qlnv_5\qlnv\qlnv\qlnv\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+C:\Users\pc\Desktop\qlnv_5\qlnv_5\qlnv\qlnv\qlnv\bin\Debug\stdole.dll
+C:\Users\pc\Desktop\qlnv_5\qlnv_5\qlnv\qlnv\qlnv\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+C:\Users\pc\Desktop\qlnv_5\qlnv_5\qlnv\qlnv\qlnv\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+C:\Users\pc\Desktop\qlnv_5\qlnv_5\qlnv\qlnv\qlnv\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+C:\Users\pc\Desktop\qlnv_5\qlnv_5\qlnv\qlnv\qlnv\bin\Debug\Microsoft.MSXML.dll
+C:\Users\pc\Desktop\qlnv_5\qlnv_5\qlnv\qlnv\qlnv\bin\Debug\DevExpress.Data.v17.1.xml
+C:\Users\pc\Desktop\qlnv_5\qlnv_5\qlnv\qlnv\qlnv\bin\Debug\DevExpress.Printing.v17.1.Core.xml
+C:\Users\pc\Desktop\qlnv_5\qlnv_5\qlnv\qlnv\qlnv\bin\Debug\DevExpress.Sparkline.v17.1.Core.xml
+C:\Users\pc\Desktop\qlnv_5\qlnv_5\qlnv\qlnv\qlnv\bin\Debug\DevExpress.Utils.v17.1.xml
+C:\Users\pc\Desktop\qlnv_5\qlnv_5\qlnv\qlnv\qlnv\bin\Debug\DevExpress.Xpo.v17.1.xml
+C:\Users\pc\Desktop\qlnv_5\qlnv_5\qlnv\qlnv\qlnv\bin\Debug\DevExpress.XtraEditors.v17.1.xml
+C:\Users\pc\Desktop\qlnv_5\qlnv_5\qlnv\qlnv\qlnv\bin\Debug\EntityFramework.xml
+C:\Users\pc\Desktop\qlnv_5\qlnv_5\qlnv\qlnv\qlnv\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\pc\Desktop\qlnv_5\qlnv_5\qlnv\qlnv\qlnv\bin\Debug\DevExpress.Pdf.v17.1.Core.xml
+C:\Users\pc\Desktop\qlnv_5\qlnv_5\qlnv\qlnv\qlnv\bin\Debug\de\DevExpress.Data.v17.1.resources.dll
+C:\Users\pc\Desktop\qlnv_5\qlnv_5\qlnv\qlnv\qlnv\bin\Debug\es\DevExpress.Data.v17.1.resources.dll
+C:\Users\pc\Desktop\qlnv_5\qlnv_5\qlnv\qlnv\qlnv\bin\Debug\ja\DevExpress.Data.v17.1.resources.dll
+C:\Users\pc\Desktop\qlnv_5\qlnv_5\qlnv\qlnv\qlnv\bin\Debug\ru\DevExpress.Data.v17.1.resources.dll
+C:\Users\pc\Desktop\qlnv_5\qlnv_5\qlnv\qlnv\qlnv\bin\Debug\de\DevExpress.Printing.v17.1.Core.resources.dll
+C:\Users\pc\Desktop\qlnv_5\qlnv_5\qlnv\qlnv\qlnv\bin\Debug\es\DevExpress.Printing.v17.1.Core.resources.dll
+C:\Users\pc\Desktop\qlnv_5\qlnv_5\qlnv\qlnv\qlnv\bin\Debug\ja\DevExpress.Printing.v17.1.Core.resources.dll
+C:\Users\pc\Desktop\qlnv_5\qlnv_5\qlnv\qlnv\qlnv\bin\Debug\ru\DevExpress.Printing.v17.1.Core.resources.dll
+C:\Users\pc\Desktop\qlnv_5\qlnv_5\qlnv\qlnv\qlnv\bin\Debug\de\DevExpress.Sparkline.v17.1.Core.resources.dll
+C:\Users\pc\Desktop\qlnv_5\qlnv_5\qlnv\qlnv\qlnv\bin\Debug\es\DevExpress.Sparkline.v17.1.Core.resources.dll
+C:\Users\pc\Desktop\qlnv_5\qlnv_5\qlnv\qlnv\qlnv\bin\Debug\ja\DevExpress.Sparkline.v17.1.Core.resources.dll
+C:\Users\pc\Desktop\qlnv_5\qlnv_5\qlnv\qlnv\qlnv\bin\Debug\ru\DevExpress.Sparkline.v17.1.Core.resources.dll
+C:\Users\pc\Desktop\qlnv_5\qlnv_5\qlnv\qlnv\qlnv\bin\Debug\de\DevExpress.Utils.v17.1.resources.dll
+C:\Users\pc\Desktop\qlnv_5\qlnv_5\qlnv\qlnv\qlnv\bin\Debug\es\DevExpress.Utils.v17.1.resources.dll
+C:\Users\pc\Desktop\qlnv_5\qlnv_5\qlnv\qlnv\qlnv\bin\Debug\ja\DevExpress.Utils.v17.1.resources.dll
+C:\Users\pc\Desktop\qlnv_5\qlnv_5\qlnv\qlnv\qlnv\bin\Debug\ru\DevExpress.Utils.v17.1.resources.dll
+C:\Users\pc\Desktop\qlnv_5\qlnv_5\qlnv\qlnv\qlnv\bin\Debug\de\DevExpress.Xpo.v17.1.resources.dll
+C:\Users\pc\Desktop\qlnv_5\qlnv_5\qlnv\qlnv\qlnv\bin\Debug\es\DevExpress.Xpo.v17.1.resources.dll
+C:\Users\pc\Desktop\qlnv_5\qlnv_5\qlnv\qlnv\qlnv\bin\Debug\ja\DevExpress.Xpo.v17.1.resources.dll
+C:\Users\pc\Desktop\qlnv_5\qlnv_5\qlnv\qlnv\qlnv\bin\Debug\ru\DevExpress.Xpo.v17.1.resources.dll
+C:\Users\pc\Desktop\qlnv_5\qlnv_5\qlnv\qlnv\qlnv\bin\Debug\de\DevExpress.XtraEditors.v17.1.resources.dll
+C:\Users\pc\Desktop\qlnv_5\qlnv_5\qlnv\qlnv\qlnv\bin\Debug\es\DevExpress.XtraEditors.v17.1.resources.dll
+C:\Users\pc\Desktop\qlnv_5\qlnv_5\qlnv\qlnv\qlnv\bin\Debug\ja\DevExpress.XtraEditors.v17.1.resources.dll
+C:\Users\pc\Desktop\qlnv_5\qlnv_5\qlnv\qlnv\qlnv\bin\Debug\ru\DevExpress.XtraEditors.v17.1.resources.dll
+C:\Users\pc\Desktop\qlnv_5\qlnv_5\qlnv\qlnv\qlnv\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\pc\Desktop\qlnv_5\qlnv_5\qlnv\qlnv\qlnv\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\pc\Desktop\qlnv_5\qlnv_5\qlnv\qlnv\qlnv\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\pc\Desktop\qlnv_5\qlnv_5\qlnv\qlnv\qlnv\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\pc\Desktop\qlnv_5\qlnv_5\qlnv\qlnv\qlnv\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\pc\Desktop\qlnv_5\qlnv_5\qlnv\qlnv\qlnv\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\pc\Desktop\qlnv_5\qlnv_5\qlnv\qlnv\qlnv\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\pc\Desktop\qlnv_5\qlnv_5\qlnv\qlnv\qlnv\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\pc\Desktop\qlnv_5\qlnv_5\qlnv\qlnv\qlnv\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\pc\Desktop\qlnv_5\qlnv_5\qlnv\qlnv\qlnv\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\pc\Desktop\qlnv_5\qlnv_5\qlnv\qlnv\qlnv\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\pc\Desktop\qlnv_5\qlnv_5\qlnv\qlnv\qlnv\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\pc\Desktop\qlnv_5\qlnv_5\qlnv\qlnv\qlnv\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\pc\Desktop\qlnv_5\qlnv_5\qlnv\qlnv\qlnv\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\pc\Desktop\qlnv_5\qlnv_5\qlnv\qlnv\qlnv\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\pc\Desktop\qlnv_5\qlnv_5\qlnv\qlnv\qlnv\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\pc\Desktop\qlnv_5\qlnv_5\qlnv\qlnv\qlnv\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\pc\Desktop\qlnv_5\qlnv_5\qlnv\qlnv\qlnv\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\pc\Desktop\qlnv_5\qlnv_5\qlnv\qlnv\qlnv\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\pc\Desktop\qlnv_5\qlnv_5\qlnv\qlnv\qlnv\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\pc\Desktop\qlnv_5\qlnv_5\qlnv\qlnv\qlnv\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\pc\Desktop\qlnv_5\qlnv_5\qlnv\qlnv\qlnv\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\pc\Desktop\qlnv_5\qlnv_5\qlnv\qlnv\qlnv\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\pc\Desktop\qlnv_5\qlnv_5\qlnv\qlnv\qlnv\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\pc\Desktop\qlnv_5\qlnv_5\qlnv\qlnv\qlnv\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\pc\Desktop\qlnv_5\qlnv_5\qlnv\qlnv\qlnv\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\pc\Desktop\qlnv_5\qlnv_5\qlnv\qlnv\qlnv\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\pc\Desktop\qlnv_5\qlnv_5\qlnv\qlnv\qlnv\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\pc\Desktop\qlnv_5\qlnv_5\qlnv\qlnv\qlnv\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\pc\Desktop\qlnv_5\qlnv_5\qlnv\qlnv\qlnv\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\pc\Desktop\qlnv_5\qlnv_5\qlnv\qlnv\qlnv\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\pc\Desktop\qlnv_5\qlnv_5\qlnv\qlnv\qlnv\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\pc\Desktop\qlnv_5\qlnv_5\qlnv\qlnv\qlnv\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\pc\Desktop\qlnv_5\qlnv_5\qlnv\qlnv\qlnv\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\pc\Desktop\qlnv_5\qlnv_5\qlnv\qlnv\qlnv\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\pc\Desktop\qlnv_5\qlnv_5\qlnv\qlnv\qlnv\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\pc\Desktop\qlnv_5\qlnv_5\qlnv\qlnv\qlnv\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\pc\Desktop\qlnv_5\qlnv_5\qlnv\qlnv\qlnv\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\pc\Desktop\qlnv_5\qlnv_5\qlnv\qlnv\qlnv\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\pc\Desktop\qlnv_5\qlnv_5\qlnv\qlnv\qlnv\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\pc\Desktop\qlnv_5\qlnv_5\qlnv\qlnv\qlnv\bin\Debug\de\DevExpress.Pdf.v17.1.Core.resources.dll
+C:\Users\pc\Desktop\qlnv_5\qlnv_5\qlnv\qlnv\qlnv\bin\Debug\es\DevExpress.Pdf.v17.1.Core.resources.dll
+C:\Users\pc\Desktop\qlnv_5\qlnv_5\qlnv\qlnv\qlnv\bin\Debug\ja\DevExpress.Pdf.v17.1.Core.resources.dll
+C:\Users\pc\Desktop\qlnv_5\qlnv_5\qlnv\qlnv\qlnv\bin\Debug\ru\DevExpress.Pdf.v17.1.Core.resources.dll
+C:\Users\pc\Desktop\qlnv_5\qlnv_5\qlnv\qlnv\qlnv\obj\Debug\qlnv.csprojAssemblyReference.cache
+C:\Users\pc\Desktop\qlnv_5\qlnv_5\qlnv\qlnv\qlnv\obj\Debug\qlnv.Forms.ChamCong.resources
+C:\Users\pc\Desktop\qlnv_5\qlnv_5\qlnv\qlnv\qlnv\obj\Debug\qlnv.Forms.ChiTietChamCong.resources
+C:\Users\pc\Desktop\qlnv_5\qlnv_5\qlnv\qlnv\qlnv\obj\Debug\qlnv.Forms.EditDep.resources
+C:\Users\pc\Desktop\qlnv_5\qlnv_5\qlnv\qlnv\qlnv\obj\Debug\qlnv.EditEmp.resources
+C:\Users\pc\Desktop\qlnv_5\qlnv_5\qlnv\qlnv\qlnv\obj\Debug\qlnv.AddAndEditDept.resources
+C:\Users\pc\Desktop\qlnv_5\qlnv_5\qlnv\qlnv\qlnv\obj\Debug\qlnv.AddEmployee.resources
+C:\Users\pc\Desktop\qlnv_5\qlnv_5\qlnv\qlnv\qlnv\obj\Debug\qlnv.AssignEmp.resources
+C:\Users\pc\Desktop\qlnv_5\qlnv_5\qlnv\qlnv\qlnv\obj\Debug\qlnv.Forms.EditPro.resources
+C:\Users\pc\Desktop\qlnv_5\qlnv_5\qlnv\qlnv\qlnv\obj\Debug\qlnv.Forms.frmAssignProject.resources
+C:\Users\pc\Desktop\qlnv_5\qlnv_5\qlnv\qlnv\qlnv\obj\Debug\qlnv.Forms.frmLogin.resources
+C:\Users\pc\Desktop\qlnv_5\qlnv_5\qlnv\qlnv\qlnv\obj\Debug\qlnv.Forms.Luong.resources
+C:\Users\pc\Desktop\qlnv_5\qlnv_5\qlnv\qlnv\qlnv\obj\Debug\qlnv.ProjectAdd.resources
+C:\Users\pc\Desktop\qlnv_5\qlnv_5\qlnv\qlnv\qlnv\obj\Debug\qlnv.FormStart.resources
+C:\Users\pc\Desktop\qlnv_5\qlnv_5\qlnv\qlnv\qlnv\obj\Debug\qlnv.Properties.Resources.resources
+C:\Users\pc\Desktop\qlnv_5\qlnv_5\qlnv\qlnv\qlnv\obj\Debug\qlnv.User_Controls.Department.resources
+C:\Users\pc\Desktop\qlnv_5\qlnv_5\qlnv\qlnv\qlnv\obj\Debug\qlnv.User_Controls.Employee.resources
+C:\Users\pc\Desktop\qlnv_5\qlnv_5\qlnv\qlnv\qlnv\obj\Debug\qlnv.User_Controls.Login.resources
+C:\Users\pc\Desktop\qlnv_5\qlnv_5\qlnv\qlnv\qlnv\obj\Debug\qlnv.User_Controls.Project.resources
+C:\Users\pc\Desktop\qlnv_5\qlnv_5\qlnv\qlnv\qlnv\obj\Debug\qlnv.csproj.GenerateResource.cache
+C:\Users\pc\Desktop\qlnv_5\qlnv_5\qlnv\qlnv\qlnv\obj\Debug\RdlCompile.cache
+C:\Users\pc\Desktop\qlnv_5\qlnv_5\qlnv\qlnv\qlnv\obj\Debug\RdlCompile.compiled
+C:\Users\pc\Desktop\qlnv_5\qlnv_5\qlnv\qlnv\qlnv\obj\Debug\qlnv.csproj.CoreCompileInputs.cache
+C:\Users\pc\Desktop\qlnv_5\qlnv_5\qlnv\qlnv\qlnv\obj\Debug\qlnv.csproj.CopyComplete
+C:\Users\pc\Desktop\qlnv_5\qlnv_5\qlnv\qlnv\qlnv\obj\Debug\qlnv.exe
+C:\Users\pc\Desktop\qlnv_5\qlnv_5\qlnv\qlnv\qlnv\obj\Debug\qlnv.pdb
+C:\Users\pc\Desktop\qlndfjds\qlnv_5\qlnv_5\qlnv\qlnv\qlnv\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+C:\Users\pc\Desktop\qlndfjds\qlnv_5\qlnv_5\qlnv\qlnv\qlnv\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+C:\Users\pc\Desktop\qlndfjds\qlnv_5\qlnv_5\qlnv\qlnv\qlnv\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+C:\Users\pc\Desktop\qlndfjds\qlnv_5\qlnv_5\qlnv\qlnv\qlnv\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+C:\Users\pc\Desktop\qlndfjds\qlnv_5\qlnv_5\qlnv\qlnv\qlnv\bin\Debug\qlnv.exe.config
+C:\Users\pc\Desktop\qlndfjds\qlnv_5\qlnv_5\qlnv\qlnv\qlnv\bin\Debug\qlnv.exe
+C:\Users\pc\Desktop\qlndfjds\qlnv_5\qlnv_5\qlnv\qlnv\qlnv\bin\Debug\qlnv.pdb
+C:\Users\pc\Desktop\qlndfjds\qlnv_5\qlnv_5\qlnv\qlnv\qlnv\bin\Debug\EntityFramework.dll
+C:\Users\pc\Desktop\qlndfjds\qlnv_5\qlnv_5\qlnv\qlnv\qlnv\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\pc\Desktop\qlndfjds\qlnv_5\qlnv_5\qlnv\qlnv\qlnv\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\pc\Desktop\qlndfjds\qlnv_5\qlnv_5\qlnv\qlnv\qlnv\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\pc\Desktop\qlndfjds\qlnv_5\qlnv_5\qlnv\qlnv\qlnv\bin\Debug\Microsoft.ReportViewer.Design.dll
+C:\Users\pc\Desktop\qlndfjds\qlnv_5\qlnv_5\qlnv\qlnv\qlnv\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\pc\Desktop\qlndfjds\qlnv_5\qlnv_5\qlnv\qlnv\qlnv\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\pc\Desktop\qlndfjds\qlnv_5\qlnv_5\qlnv\qlnv\qlnv\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\pc\Desktop\qlndfjds\qlnv_5\qlnv_5\qlnv\qlnv\qlnv\bin\Debug\DevExpress.Pdf.v17.1.Core.dll
+C:\Users\pc\Desktop\qlndfjds\qlnv_5\qlnv_5\qlnv\qlnv\qlnv\bin\Debug\EnvDTE.dll
+C:\Users\pc\Desktop\qlndfjds\qlnv_5\qlnv_5\qlnv\qlnv\qlnv\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+C:\Users\pc\Desktop\qlndfjds\qlnv_5\qlnv_5\qlnv\qlnv\qlnv\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+C:\Users\pc\Desktop\qlndfjds\qlnv_5\qlnv_5\qlnv\qlnv\qlnv\bin\Debug\stdole.dll
+C:\Users\pc\Desktop\qlndfjds\qlnv_5\qlnv_5\qlnv\qlnv\qlnv\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+C:\Users\pc\Desktop\qlndfjds\qlnv_5\qlnv_5\qlnv\qlnv\qlnv\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+C:\Users\pc\Desktop\qlndfjds\qlnv_5\qlnv_5\qlnv\qlnv\qlnv\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+C:\Users\pc\Desktop\qlndfjds\qlnv_5\qlnv_5\qlnv\qlnv\qlnv\bin\Debug\Microsoft.MSXML.dll
+C:\Users\pc\Desktop\qlndfjds\qlnv_5\qlnv_5\qlnv\qlnv\qlnv\bin\Debug\DevExpress.Data.v17.1.xml
+C:\Users\pc\Desktop\qlndfjds\qlnv_5\qlnv_5\qlnv\qlnv\qlnv\bin\Debug\DevExpress.Printing.v17.1.Core.xml
+C:\Users\pc\Desktop\qlndfjds\qlnv_5\qlnv_5\qlnv\qlnv\qlnv\bin\Debug\DevExpress.Sparkline.v17.1.Core.xml
+C:\Users\pc\Desktop\qlndfjds\qlnv_5\qlnv_5\qlnv\qlnv\qlnv\bin\Debug\DevExpress.Utils.v17.1.xml
+C:\Users\pc\Desktop\qlndfjds\qlnv_5\qlnv_5\qlnv\qlnv\qlnv\bin\Debug\DevExpress.Xpo.v17.1.xml
+C:\Users\pc\Desktop\qlndfjds\qlnv_5\qlnv_5\qlnv\qlnv\qlnv\bin\Debug\DevExpress.XtraEditors.v17.1.xml
+C:\Users\pc\Desktop\qlndfjds\qlnv_5\qlnv_5\qlnv\qlnv\qlnv\bin\Debug\EntityFramework.xml
+C:\Users\pc\Desktop\qlndfjds\qlnv_5\qlnv_5\qlnv\qlnv\qlnv\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\pc\Desktop\qlndfjds\qlnv_5\qlnv_5\qlnv\qlnv\qlnv\bin\Debug\DevExpress.Pdf.v17.1.Core.xml
+C:\Users\pc\Desktop\qlndfjds\qlnv_5\qlnv_5\qlnv\qlnv\qlnv\bin\Debug\de\DevExpress.Data.v17.1.resources.dll
+C:\Users\pc\Desktop\qlndfjds\qlnv_5\qlnv_5\qlnv\qlnv\qlnv\bin\Debug\es\DevExpress.Data.v17.1.resources.dll
+C:\Users\pc\Desktop\qlndfjds\qlnv_5\qlnv_5\qlnv\qlnv\qlnv\bin\Debug\ja\DevExpress.Data.v17.1.resources.dll
+C:\Users\pc\Desktop\qlndfjds\qlnv_5\qlnv_5\qlnv\qlnv\qlnv\bin\Debug\ru\DevExpress.Data.v17.1.resources.dll
+C:\Users\pc\Desktop\qlndfjds\qlnv_5\qlnv_5\qlnv\qlnv\qlnv\bin\Debug\de\DevExpress.Printing.v17.1.Core.resources.dll
+C:\Users\pc\Desktop\qlndfjds\qlnv_5\qlnv_5\qlnv\qlnv\qlnv\bin\Debug\es\DevExpress.Printing.v17.1.Core.resources.dll
+C:\Users\pc\Desktop\qlndfjds\qlnv_5\qlnv_5\qlnv\qlnv\qlnv\bin\Debug\ja\DevExpress.Printing.v17.1.Core.resources.dll
+C:\Users\pc\Desktop\qlndfjds\qlnv_5\qlnv_5\qlnv\qlnv\qlnv\bin\Debug\ru\DevExpress.Printing.v17.1.Core.resources.dll
+C:\Users\pc\Desktop\qlndfjds\qlnv_5\qlnv_5\qlnv\qlnv\qlnv\bin\Debug\de\DevExpress.Sparkline.v17.1.Core.resources.dll
+C:\Users\pc\Desktop\qlndfjds\qlnv_5\qlnv_5\qlnv\qlnv\qlnv\bin\Debug\es\DevExpress.Sparkline.v17.1.Core.resources.dll
+C:\Users\pc\Desktop\qlndfjds\qlnv_5\qlnv_5\qlnv\qlnv\qlnv\bin\Debug\ja\DevExpress.Sparkline.v17.1.Core.resources.dll
+C:\Users\pc\Desktop\qlndfjds\qlnv_5\qlnv_5\qlnv\qlnv\qlnv\bin\Debug\ru\DevExpress.Sparkline.v17.1.Core.resources.dll
+C:\Users\pc\Desktop\qlndfjds\qlnv_5\qlnv_5\qlnv\qlnv\qlnv\bin\Debug\de\DevExpress.Utils.v17.1.resources.dll
+C:\Users\pc\Desktop\qlndfjds\qlnv_5\qlnv_5\qlnv\qlnv\qlnv\bin\Debug\es\DevExpress.Utils.v17.1.resources.dll
+C:\Users\pc\Desktop\qlndfjds\qlnv_5\qlnv_5\qlnv\qlnv\qlnv\bin\Debug\ja\DevExpress.Utils.v17.1.resources.dll
+C:\Users\pc\Desktop\qlndfjds\qlnv_5\qlnv_5\qlnv\qlnv\qlnv\bin\Debug\ru\DevExpress.Utils.v17.1.resources.dll
+C:\Users\pc\Desktop\qlndfjds\qlnv_5\qlnv_5\qlnv\qlnv\qlnv\bin\Debug\de\DevExpress.Xpo.v17.1.resources.dll
+C:\Users\pc\Desktop\qlndfjds\qlnv_5\qlnv_5\qlnv\qlnv\qlnv\bin\Debug\es\DevExpress.Xpo.v17.1.resources.dll
+C:\Users\pc\Desktop\qlndfjds\qlnv_5\qlnv_5\qlnv\qlnv\qlnv\bin\Debug\ja\DevExpress.Xpo.v17.1.resources.dll
+C:\Users\pc\Desktop\qlndfjds\qlnv_5\qlnv_5\qlnv\qlnv\qlnv\bin\Debug\ru\DevExpress.Xpo.v17.1.resources.dll
+C:\Users\pc\Desktop\qlndfjds\qlnv_5\qlnv_5\qlnv\qlnv\qlnv\bin\Debug\de\DevExpress.XtraEditors.v17.1.resources.dll
+C:\Users\pc\Desktop\qlndfjds\qlnv_5\qlnv_5\qlnv\qlnv\qlnv\bin\Debug\es\DevExpress.XtraEditors.v17.1.resources.dll
+C:\Users\pc\Desktop\qlndfjds\qlnv_5\qlnv_5\qlnv\qlnv\qlnv\bin\Debug\ja\DevExpress.XtraEditors.v17.1.resources.dll
+C:\Users\pc\Desktop\qlndfjds\qlnv_5\qlnv_5\qlnv\qlnv\qlnv\bin\Debug\ru\DevExpress.XtraEditors.v17.1.resources.dll
+C:\Users\pc\Desktop\qlndfjds\qlnv_5\qlnv_5\qlnv\qlnv\qlnv\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\pc\Desktop\qlndfjds\qlnv_5\qlnv_5\qlnv\qlnv\qlnv\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\pc\Desktop\qlndfjds\qlnv_5\qlnv_5\qlnv\qlnv\qlnv\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\pc\Desktop\qlndfjds\qlnv_5\qlnv_5\qlnv\qlnv\qlnv\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\pc\Desktop\qlndfjds\qlnv_5\qlnv_5\qlnv\qlnv\qlnv\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\pc\Desktop\qlndfjds\qlnv_5\qlnv_5\qlnv\qlnv\qlnv\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\pc\Desktop\qlndfjds\qlnv_5\qlnv_5\qlnv\qlnv\qlnv\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\pc\Desktop\qlndfjds\qlnv_5\qlnv_5\qlnv\qlnv\qlnv\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\pc\Desktop\qlndfjds\qlnv_5\qlnv_5\qlnv\qlnv\qlnv\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\pc\Desktop\qlndfjds\qlnv_5\qlnv_5\qlnv\qlnv\qlnv\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\pc\Desktop\qlndfjds\qlnv_5\qlnv_5\qlnv\qlnv\qlnv\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\pc\Desktop\qlndfjds\qlnv_5\qlnv_5\qlnv\qlnv\qlnv\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\pc\Desktop\qlndfjds\qlnv_5\qlnv_5\qlnv\qlnv\qlnv\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\pc\Desktop\qlndfjds\qlnv_5\qlnv_5\qlnv\qlnv\qlnv\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\pc\Desktop\qlndfjds\qlnv_5\qlnv_5\qlnv\qlnv\qlnv\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\pc\Desktop\qlndfjds\qlnv_5\qlnv_5\qlnv\qlnv\qlnv\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\pc\Desktop\qlndfjds\qlnv_5\qlnv_5\qlnv\qlnv\qlnv\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\pc\Desktop\qlndfjds\qlnv_5\qlnv_5\qlnv\qlnv\qlnv\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\pc\Desktop\qlndfjds\qlnv_5\qlnv_5\qlnv\qlnv\qlnv\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\pc\Desktop\qlndfjds\qlnv_5\qlnv_5\qlnv\qlnv\qlnv\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\pc\Desktop\qlndfjds\qlnv_5\qlnv_5\qlnv\qlnv\qlnv\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\pc\Desktop\qlndfjds\qlnv_5\qlnv_5\qlnv\qlnv\qlnv\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\pc\Desktop\qlndfjds\qlnv_5\qlnv_5\qlnv\qlnv\qlnv\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\pc\Desktop\qlndfjds\qlnv_5\qlnv_5\qlnv\qlnv\qlnv\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\pc\Desktop\qlndfjds\qlnv_5\qlnv_5\qlnv\qlnv\qlnv\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\pc\Desktop\qlndfjds\qlnv_5\qlnv_5\qlnv\qlnv\qlnv\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\pc\Desktop\qlndfjds\qlnv_5\qlnv_5\qlnv\qlnv\qlnv\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\pc\Desktop\qlndfjds\qlnv_5\qlnv_5\qlnv\qlnv\qlnv\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\pc\Desktop\qlndfjds\qlnv_5\qlnv_5\qlnv\qlnv\qlnv\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\pc\Desktop\qlndfjds\qlnv_5\qlnv_5\qlnv\qlnv\qlnv\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\pc\Desktop\qlndfjds\qlnv_5\qlnv_5\qlnv\qlnv\qlnv\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\pc\Desktop\qlndfjds\qlnv_5\qlnv_5\qlnv\qlnv\qlnv\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\pc\Desktop\qlndfjds\qlnv_5\qlnv_5\qlnv\qlnv\qlnv\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\pc\Desktop\qlndfjds\qlnv_5\qlnv_5\qlnv\qlnv\qlnv\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\pc\Desktop\qlndfjds\qlnv_5\qlnv_5\qlnv\qlnv\qlnv\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\pc\Desktop\qlndfjds\qlnv_5\qlnv_5\qlnv\qlnv\qlnv\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\pc\Desktop\qlndfjds\qlnv_5\qlnv_5\qlnv\qlnv\qlnv\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\pc\Desktop\qlndfjds\qlnv_5\qlnv_5\qlnv\qlnv\qlnv\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\pc\Desktop\qlndfjds\qlnv_5\qlnv_5\qlnv\qlnv\qlnv\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\pc\Desktop\qlndfjds\qlnv_5\qlnv_5\qlnv\qlnv\qlnv\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\pc\Desktop\qlndfjds\qlnv_5\qlnv_5\qlnv\qlnv\qlnv\bin\Debug\de\DevExpress.Pdf.v17.1.Core.resources.dll
+C:\Users\pc\Desktop\qlndfjds\qlnv_5\qlnv_5\qlnv\qlnv\qlnv\bin\Debug\es\DevExpress.Pdf.v17.1.Core.resources.dll
+C:\Users\pc\Desktop\qlndfjds\qlnv_5\qlnv_5\qlnv\qlnv\qlnv\bin\Debug\ja\DevExpress.Pdf.v17.1.Core.resources.dll
+C:\Users\pc\Desktop\qlndfjds\qlnv_5\qlnv_5\qlnv\qlnv\qlnv\bin\Debug\ru\DevExpress.Pdf.v17.1.Core.resources.dll
+C:\Users\pc\Desktop\qlndfjds\qlnv_5\qlnv_5\qlnv\qlnv\qlnv\obj\Debug\qlnv.csprojAssemblyReference.cache
+C:\Users\pc\Desktop\qlndfjds\qlnv_5\qlnv_5\qlnv\qlnv\qlnv\obj\Debug\qlnv.Forms.ChamCong.resources
+C:\Users\pc\Desktop\qlndfjds\qlnv_5\qlnv_5\qlnv\qlnv\qlnv\obj\Debug\qlnv.Forms.ChiTietChamCong.resources
+C:\Users\pc\Desktop\qlndfjds\qlnv_5\qlnv_5\qlnv\qlnv\qlnv\obj\Debug\qlnv.Forms.EditDep.resources
+C:\Users\pc\Desktop\qlndfjds\qlnv_5\qlnv_5\qlnv\qlnv\qlnv\obj\Debug\qlnv.EditEmp.resources
+C:\Users\pc\Desktop\qlndfjds\qlnv_5\qlnv_5\qlnv\qlnv\qlnv\obj\Debug\qlnv.AddAndEditDept.resources
+C:\Users\pc\Desktop\qlndfjds\qlnv_5\qlnv_5\qlnv\qlnv\qlnv\obj\Debug\qlnv.AddEmployee.resources
+C:\Users\pc\Desktop\qlndfjds\qlnv_5\qlnv_5\qlnv\qlnv\qlnv\obj\Debug\qlnv.AssignEmp.resources
+C:\Users\pc\Desktop\qlndfjds\qlnv_5\qlnv_5\qlnv\qlnv\qlnv\obj\Debug\qlnv.Forms.EditPro.resources
+C:\Users\pc\Desktop\qlndfjds\qlnv_5\qlnv_5\qlnv\qlnv\qlnv\obj\Debug\qlnv.Forms.frmAssignProject.resources
+C:\Users\pc\Desktop\qlndfjds\qlnv_5\qlnv_5\qlnv\qlnv\qlnv\obj\Debug\qlnv.Forms.frmLogin.resources
+C:\Users\pc\Desktop\qlndfjds\qlnv_5\qlnv_5\qlnv\qlnv\qlnv\obj\Debug\qlnv.Forms.Luong.resources
+C:\Users\pc\Desktop\qlndfjds\qlnv_5\qlnv_5\qlnv\qlnv\qlnv\obj\Debug\qlnv.ProjectAdd.resources
+C:\Users\pc\Desktop\qlndfjds\qlnv_5\qlnv_5\qlnv\qlnv\qlnv\obj\Debug\qlnv.FormStart.resources
+C:\Users\pc\Desktop\qlndfjds\qlnv_5\qlnv_5\qlnv\qlnv\qlnv\obj\Debug\qlnv.Properties.Resources.resources
+C:\Users\pc\Desktop\qlndfjds\qlnv_5\qlnv_5\qlnv\qlnv\qlnv\obj\Debug\qlnv.User_Controls.Department.resources
+C:\Users\pc\Desktop\qlndfjds\qlnv_5\qlnv_5\qlnv\qlnv\qlnv\obj\Debug\qlnv.User_Controls.Employee.resources
+C:\Users\pc\Desktop\qlndfjds\qlnv_5\qlnv_5\qlnv\qlnv\qlnv\obj\Debug\qlnv.User_Controls.Login.resources
+C:\Users\pc\Desktop\qlndfjds\qlnv_5\qlnv_5\qlnv\qlnv\qlnv\obj\Debug\qlnv.User_Controls.Project.resources
+C:\Users\pc\Desktop\qlndfjds\qlnv_5\qlnv_5\qlnv\qlnv\qlnv\obj\Debug\qlnv.csproj.GenerateResource.cache
+C:\Users\pc\Desktop\qlndfjds\qlnv_5\qlnv_5\qlnv\qlnv\qlnv\obj\Debug\RdlCompile.cache
+C:\Users\pc\Desktop\qlndfjds\qlnv_5\qlnv_5\qlnv\qlnv\qlnv\obj\Debug\RdlCompile.compiled
+C:\Users\pc\Desktop\qlndfjds\qlnv_5\qlnv_5\qlnv\qlnv\qlnv\obj\Debug\qlnv.csproj.CoreCompileInputs.cache
+C:\Users\pc\Desktop\qlndfjds\qlnv_5\qlnv_5\qlnv\qlnv\qlnv\obj\Debug\qlnv.csproj.CopyComplete
+C:\Users\pc\Desktop\qlndfjds\qlnv_5\qlnv_5\qlnv\qlnv\qlnv\obj\Debug\qlnv.exe
+C:\Users\pc\Desktop\qlndfjds\qlnv_5\qlnv_5\qlnv\qlnv\qlnv\obj\Debug\qlnv.pdb
+C:\Users\pc\Desktop\DACK\Entity\qlnv\qlnv\qlnv\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+C:\Users\pc\Desktop\DACK\Entity\qlnv\qlnv\qlnv\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+C:\Users\pc\Desktop\DACK\Entity\qlnv\qlnv\qlnv\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+C:\Users\pc\Desktop\DACK\Entity\qlnv\qlnv\qlnv\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+C:\Users\pc\Desktop\DACK\Entity\qlnv\qlnv\qlnv\bin\Debug\qlnv.exe.config
+C:\Users\pc\Desktop\DACK\Entity\qlnv\qlnv\qlnv\bin\Debug\qlnv.exe
+C:\Users\pc\Desktop\DACK\Entity\qlnv\qlnv\qlnv\bin\Debug\qlnv.pdb
+C:\Users\pc\Desktop\DACK\Entity\qlnv\qlnv\qlnv\bin\Debug\EntityFramework.dll
+C:\Users\pc\Desktop\DACK\Entity\qlnv\qlnv\qlnv\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\pc\Desktop\DACK\Entity\qlnv\qlnv\qlnv\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\pc\Desktop\DACK\Entity\qlnv\qlnv\qlnv\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\pc\Desktop\DACK\Entity\qlnv\qlnv\qlnv\bin\Debug\Microsoft.ReportViewer.Design.dll
+C:\Users\pc\Desktop\DACK\Entity\qlnv\qlnv\qlnv\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\pc\Desktop\DACK\Entity\qlnv\qlnv\qlnv\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\pc\Desktop\DACK\Entity\qlnv\qlnv\qlnv\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\pc\Desktop\DACK\Entity\qlnv\qlnv\qlnv\bin\Debug\DevExpress.Pdf.v17.1.Core.dll
+C:\Users\pc\Desktop\DACK\Entity\qlnv\qlnv\qlnv\bin\Debug\EnvDTE.dll
+C:\Users\pc\Desktop\DACK\Entity\qlnv\qlnv\qlnv\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+C:\Users\pc\Desktop\DACK\Entity\qlnv\qlnv\qlnv\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+C:\Users\pc\Desktop\DACK\Entity\qlnv\qlnv\qlnv\bin\Debug\stdole.dll
+C:\Users\pc\Desktop\DACK\Entity\qlnv\qlnv\qlnv\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+C:\Users\pc\Desktop\DACK\Entity\qlnv\qlnv\qlnv\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+C:\Users\pc\Desktop\DACK\Entity\qlnv\qlnv\qlnv\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+C:\Users\pc\Desktop\DACK\Entity\qlnv\qlnv\qlnv\bin\Debug\Microsoft.MSXML.dll
+C:\Users\pc\Desktop\DACK\Entity\qlnv\qlnv\qlnv\bin\Debug\DevExpress.Data.v17.1.xml
+C:\Users\pc\Desktop\DACK\Entity\qlnv\qlnv\qlnv\bin\Debug\DevExpress.Printing.v17.1.Core.xml
+C:\Users\pc\Desktop\DACK\Entity\qlnv\qlnv\qlnv\bin\Debug\DevExpress.Sparkline.v17.1.Core.xml
+C:\Users\pc\Desktop\DACK\Entity\qlnv\qlnv\qlnv\bin\Debug\DevExpress.Utils.v17.1.xml
+C:\Users\pc\Desktop\DACK\Entity\qlnv\qlnv\qlnv\bin\Debug\DevExpress.Xpo.v17.1.xml
+C:\Users\pc\Desktop\DACK\Entity\qlnv\qlnv\qlnv\bin\Debug\DevExpress.XtraEditors.v17.1.xml
+C:\Users\pc\Desktop\DACK\Entity\qlnv\qlnv\qlnv\bin\Debug\EntityFramework.xml
+C:\Users\pc\Desktop\DACK\Entity\qlnv\qlnv\qlnv\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\pc\Desktop\DACK\Entity\qlnv\qlnv\qlnv\bin\Debug\DevExpress.Pdf.v17.1.Core.xml
+C:\Users\pc\Desktop\DACK\Entity\qlnv\qlnv\qlnv\bin\Debug\de\DevExpress.Data.v17.1.resources.dll
+C:\Users\pc\Desktop\DACK\Entity\qlnv\qlnv\qlnv\bin\Debug\es\DevExpress.Data.v17.1.resources.dll
+C:\Users\pc\Desktop\DACK\Entity\qlnv\qlnv\qlnv\bin\Debug\ja\DevExpress.Data.v17.1.resources.dll
+C:\Users\pc\Desktop\DACK\Entity\qlnv\qlnv\qlnv\bin\Debug\ru\DevExpress.Data.v17.1.resources.dll
+C:\Users\pc\Desktop\DACK\Entity\qlnv\qlnv\qlnv\bin\Debug\de\DevExpress.Printing.v17.1.Core.resources.dll
+C:\Users\pc\Desktop\DACK\Entity\qlnv\qlnv\qlnv\bin\Debug\es\DevExpress.Printing.v17.1.Core.resources.dll
+C:\Users\pc\Desktop\DACK\Entity\qlnv\qlnv\qlnv\bin\Debug\ja\DevExpress.Printing.v17.1.Core.resources.dll
+C:\Users\pc\Desktop\DACK\Entity\qlnv\qlnv\qlnv\bin\Debug\ru\DevExpress.Printing.v17.1.Core.resources.dll
+C:\Users\pc\Desktop\DACK\Entity\qlnv\qlnv\qlnv\bin\Debug\de\DevExpress.Sparkline.v17.1.Core.resources.dll
+C:\Users\pc\Desktop\DACK\Entity\qlnv\qlnv\qlnv\bin\Debug\es\DevExpress.Sparkline.v17.1.Core.resources.dll
+C:\Users\pc\Desktop\DACK\Entity\qlnv\qlnv\qlnv\bin\Debug\ja\DevExpress.Sparkline.v17.1.Core.resources.dll
+C:\Users\pc\Desktop\DACK\Entity\qlnv\qlnv\qlnv\bin\Debug\ru\DevExpress.Sparkline.v17.1.Core.resources.dll
+C:\Users\pc\Desktop\DACK\Entity\qlnv\qlnv\qlnv\bin\Debug\de\DevExpress.Utils.v17.1.resources.dll
+C:\Users\pc\Desktop\DACK\Entity\qlnv\qlnv\qlnv\bin\Debug\es\DevExpress.Utils.v17.1.resources.dll
+C:\Users\pc\Desktop\DACK\Entity\qlnv\qlnv\qlnv\bin\Debug\ja\DevExpress.Utils.v17.1.resources.dll
+C:\Users\pc\Desktop\DACK\Entity\qlnv\qlnv\qlnv\bin\Debug\ru\DevExpress.Utils.v17.1.resources.dll
+C:\Users\pc\Desktop\DACK\Entity\qlnv\qlnv\qlnv\bin\Debug\de\DevExpress.Xpo.v17.1.resources.dll
+C:\Users\pc\Desktop\DACK\Entity\qlnv\qlnv\qlnv\bin\Debug\es\DevExpress.Xpo.v17.1.resources.dll
+C:\Users\pc\Desktop\DACK\Entity\qlnv\qlnv\qlnv\bin\Debug\ja\DevExpress.Xpo.v17.1.resources.dll
+C:\Users\pc\Desktop\DACK\Entity\qlnv\qlnv\qlnv\bin\Debug\ru\DevExpress.Xpo.v17.1.resources.dll
+C:\Users\pc\Desktop\DACK\Entity\qlnv\qlnv\qlnv\bin\Debug\de\DevExpress.XtraEditors.v17.1.resources.dll
+C:\Users\pc\Desktop\DACK\Entity\qlnv\qlnv\qlnv\bin\Debug\es\DevExpress.XtraEditors.v17.1.resources.dll
+C:\Users\pc\Desktop\DACK\Entity\qlnv\qlnv\qlnv\bin\Debug\ja\DevExpress.XtraEditors.v17.1.resources.dll
+C:\Users\pc\Desktop\DACK\Entity\qlnv\qlnv\qlnv\bin\Debug\ru\DevExpress.XtraEditors.v17.1.resources.dll
+C:\Users\pc\Desktop\DACK\Entity\qlnv\qlnv\qlnv\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\pc\Desktop\DACK\Entity\qlnv\qlnv\qlnv\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\pc\Desktop\DACK\Entity\qlnv\qlnv\qlnv\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\pc\Desktop\DACK\Entity\qlnv\qlnv\qlnv\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\pc\Desktop\DACK\Entity\qlnv\qlnv\qlnv\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\pc\Desktop\DACK\Entity\qlnv\qlnv\qlnv\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\pc\Desktop\DACK\Entity\qlnv\qlnv\qlnv\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\pc\Desktop\DACK\Entity\qlnv\qlnv\qlnv\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\pc\Desktop\DACK\Entity\qlnv\qlnv\qlnv\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\pc\Desktop\DACK\Entity\qlnv\qlnv\qlnv\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\pc\Desktop\DACK\Entity\qlnv\qlnv\qlnv\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\pc\Desktop\DACK\Entity\qlnv\qlnv\qlnv\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\pc\Desktop\DACK\Entity\qlnv\qlnv\qlnv\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\pc\Desktop\DACK\Entity\qlnv\qlnv\qlnv\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\pc\Desktop\DACK\Entity\qlnv\qlnv\qlnv\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\pc\Desktop\DACK\Entity\qlnv\qlnv\qlnv\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\pc\Desktop\DACK\Entity\qlnv\qlnv\qlnv\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\pc\Desktop\DACK\Entity\qlnv\qlnv\qlnv\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\pc\Desktop\DACK\Entity\qlnv\qlnv\qlnv\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\pc\Desktop\DACK\Entity\qlnv\qlnv\qlnv\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\pc\Desktop\DACK\Entity\qlnv\qlnv\qlnv\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\pc\Desktop\DACK\Entity\qlnv\qlnv\qlnv\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\pc\Desktop\DACK\Entity\qlnv\qlnv\qlnv\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\pc\Desktop\DACK\Entity\qlnv\qlnv\qlnv\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\pc\Desktop\DACK\Entity\qlnv\qlnv\qlnv\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\pc\Desktop\DACK\Entity\qlnv\qlnv\qlnv\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\pc\Desktop\DACK\Entity\qlnv\qlnv\qlnv\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\pc\Desktop\DACK\Entity\qlnv\qlnv\qlnv\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\pc\Desktop\DACK\Entity\qlnv\qlnv\qlnv\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\pc\Desktop\DACK\Entity\qlnv\qlnv\qlnv\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\pc\Desktop\DACK\Entity\qlnv\qlnv\qlnv\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\pc\Desktop\DACK\Entity\qlnv\qlnv\qlnv\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\pc\Desktop\DACK\Entity\qlnv\qlnv\qlnv\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\pc\Desktop\DACK\Entity\qlnv\qlnv\qlnv\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\pc\Desktop\DACK\Entity\qlnv\qlnv\qlnv\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\pc\Desktop\DACK\Entity\qlnv\qlnv\qlnv\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\pc\Desktop\DACK\Entity\qlnv\qlnv\qlnv\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\pc\Desktop\DACK\Entity\qlnv\qlnv\qlnv\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\pc\Desktop\DACK\Entity\qlnv\qlnv\qlnv\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\pc\Desktop\DACK\Entity\qlnv\qlnv\qlnv\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\pc\Desktop\DACK\Entity\qlnv\qlnv\qlnv\bin\Debug\de\DevExpress.Pdf.v17.1.Core.resources.dll
+C:\Users\pc\Desktop\DACK\Entity\qlnv\qlnv\qlnv\bin\Debug\es\DevExpress.Pdf.v17.1.Core.resources.dll
+C:\Users\pc\Desktop\DACK\Entity\qlnv\qlnv\qlnv\bin\Debug\ja\DevExpress.Pdf.v17.1.Core.resources.dll
+C:\Users\pc\Desktop\DACK\Entity\qlnv\qlnv\qlnv\bin\Debug\ru\DevExpress.Pdf.v17.1.Core.resources.dll
+C:\Users\pc\Desktop\DACK\Entity\qlnv\qlnv\qlnv\obj\Debug\qlnv.csprojAssemblyReference.cache
+C:\Users\pc\Desktop\DACK\Entity\qlnv\qlnv\qlnv\obj\Debug\qlnv.Forms.ChamCong.resources
+C:\Users\pc\Desktop\DACK\Entity\qlnv\qlnv\qlnv\obj\Debug\qlnv.Forms.ChiTietChamCong.resources
+C:\Users\pc\Desktop\DACK\Entity\qlnv\qlnv\qlnv\obj\Debug\qlnv.Forms.EditDep.resources
+C:\Users\pc\Desktop\DACK\Entity\qlnv\qlnv\qlnv\obj\Debug\qlnv.EditEmp.resources
+C:\Users\pc\Desktop\DACK\Entity\qlnv\qlnv\qlnv\obj\Debug\qlnv.AddAndEditDept.resources
+C:\Users\pc\Desktop\DACK\Entity\qlnv\qlnv\qlnv\obj\Debug\qlnv.AddEmployee.resources
+C:\Users\pc\Desktop\DACK\Entity\qlnv\qlnv\qlnv\obj\Debug\qlnv.AssignEmp.resources
+C:\Users\pc\Desktop\DACK\Entity\qlnv\qlnv\qlnv\obj\Debug\qlnv.Forms.EditPro.resources
+C:\Users\pc\Desktop\DACK\Entity\qlnv\qlnv\qlnv\obj\Debug\qlnv.Forms.frmAssignProject.resources
+C:\Users\pc\Desktop\DACK\Entity\qlnv\qlnv\qlnv\obj\Debug\qlnv.Forms.frmLogin.resources
+C:\Users\pc\Desktop\DACK\Entity\qlnv\qlnv\qlnv\obj\Debug\qlnv.Forms.Luong.resources
+C:\Users\pc\Desktop\DACK\Entity\qlnv\qlnv\qlnv\obj\Debug\qlnv.ProjectAdd.resources
+C:\Users\pc\Desktop\DACK\Entity\qlnv\qlnv\qlnv\obj\Debug\qlnv.FormStart.resources
+C:\Users\pc\Desktop\DACK\Entity\qlnv\qlnv\qlnv\obj\Debug\qlnv.Properties.Resources.resources
+C:\Users\pc\Desktop\DACK\Entity\qlnv\qlnv\qlnv\obj\Debug\qlnv.User_Controls.Department.resources
+C:\Users\pc\Desktop\DACK\Entity\qlnv\qlnv\qlnv\obj\Debug\qlnv.User_Controls.Employee.resources
+C:\Users\pc\Desktop\DACK\Entity\qlnv\qlnv\qlnv\obj\Debug\qlnv.User_Controls.Login.resources
+C:\Users\pc\Desktop\DACK\Entity\qlnv\qlnv\qlnv\obj\Debug\qlnv.User_Controls.Project.resources
+C:\Users\pc\Desktop\DACK\Entity\qlnv\qlnv\qlnv\obj\Debug\qlnv.csproj.GenerateResource.cache
+C:\Users\pc\Desktop\DACK\Entity\qlnv\qlnv\qlnv\obj\Debug\RdlCompile.cache
+C:\Users\pc\Desktop\DACK\Entity\qlnv\qlnv\qlnv\obj\Debug\RdlCompile.compiled
+C:\Users\pc\Desktop\DACK\Entity\qlnv\qlnv\qlnv\obj\Debug\qlnv.csproj.CoreCompileInputs.cache
+C:\Users\pc\Desktop\DACK\Entity\qlnv\qlnv\qlnv\obj\Debug\qlnv.csproj.CopyComplete
+C:\Users\pc\Desktop\DACK\Entity\qlnv\qlnv\qlnv\obj\Debug\qlnv.exe
+C:\Users\pc\Desktop\DACK\Entity\qlnv\qlnv\qlnv\obj\Debug\qlnv.pdb
+C:\Users\pc\Desktop\Đại Học\Tài liệu môn học\Môn chuyên ngành\Lập trình Win\Đồ án cuối kỳ\DACK Release\Entity\qlnv\qlnv\qlnv\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+C:\Users\pc\Desktop\Đại Học\Tài liệu môn học\Môn chuyên ngành\Lập trình Win\Đồ án cuối kỳ\DACK Release\Entity\qlnv\qlnv\qlnv\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+C:\Users\pc\Desktop\Đại Học\Tài liệu môn học\Môn chuyên ngành\Lập trình Win\Đồ án cuối kỳ\DACK Release\Entity\qlnv\qlnv\qlnv\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+C:\Users\pc\Desktop\Đại Học\Tài liệu môn học\Môn chuyên ngành\Lập trình Win\Đồ án cuối kỳ\DACK Release\Entity\qlnv\qlnv\qlnv\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+C:\Users\pc\Desktop\Đại Học\Tài liệu môn học\Môn chuyên ngành\Lập trình Win\Đồ án cuối kỳ\DACK Release\Entity\qlnv\qlnv\qlnv\bin\Debug\qlnv.exe.config
+C:\Users\pc\Desktop\Đại Học\Tài liệu môn học\Môn chuyên ngành\Lập trình Win\Đồ án cuối kỳ\DACK Release\Entity\qlnv\qlnv\qlnv\bin\Debug\qlnv.exe
+C:\Users\pc\Desktop\Đại Học\Tài liệu môn học\Môn chuyên ngành\Lập trình Win\Đồ án cuối kỳ\DACK Release\Entity\qlnv\qlnv\qlnv\bin\Debug\qlnv.pdb
+C:\Users\pc\Desktop\Đại Học\Tài liệu môn học\Môn chuyên ngành\Lập trình Win\Đồ án cuối kỳ\DACK Release\Entity\qlnv\qlnv\qlnv\bin\Debug\EntityFramework.dll
+C:\Users\pc\Desktop\Đại Học\Tài liệu môn học\Môn chuyên ngành\Lập trình Win\Đồ án cuối kỳ\DACK Release\Entity\qlnv\qlnv\qlnv\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\pc\Desktop\Đại Học\Tài liệu môn học\Môn chuyên ngành\Lập trình Win\Đồ án cuối kỳ\DACK Release\Entity\qlnv\qlnv\qlnv\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\pc\Desktop\Đại Học\Tài liệu môn học\Môn chuyên ngành\Lập trình Win\Đồ án cuối kỳ\DACK Release\Entity\qlnv\qlnv\qlnv\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\pc\Desktop\Đại Học\Tài liệu môn học\Môn chuyên ngành\Lập trình Win\Đồ án cuối kỳ\DACK Release\Entity\qlnv\qlnv\qlnv\bin\Debug\Microsoft.ReportViewer.Design.dll
+C:\Users\pc\Desktop\Đại Học\Tài liệu môn học\Môn chuyên ngành\Lập trình Win\Đồ án cuối kỳ\DACK Release\Entity\qlnv\qlnv\qlnv\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\pc\Desktop\Đại Học\Tài liệu môn học\Môn chuyên ngành\Lập trình Win\Đồ án cuối kỳ\DACK Release\Entity\qlnv\qlnv\qlnv\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\pc\Desktop\Đại Học\Tài liệu môn học\Môn chuyên ngành\Lập trình Win\Đồ án cuối kỳ\DACK Release\Entity\qlnv\qlnv\qlnv\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\pc\Desktop\Đại Học\Tài liệu môn học\Môn chuyên ngành\Lập trình Win\Đồ án cuối kỳ\DACK Release\Entity\qlnv\qlnv\qlnv\bin\Debug\EnvDTE.dll
+C:\Users\pc\Desktop\Đại Học\Tài liệu môn học\Môn chuyên ngành\Lập trình Win\Đồ án cuối kỳ\DACK Release\Entity\qlnv\qlnv\qlnv\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+C:\Users\pc\Desktop\Đại Học\Tài liệu môn học\Môn chuyên ngành\Lập trình Win\Đồ án cuối kỳ\DACK Release\Entity\qlnv\qlnv\qlnv\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+C:\Users\pc\Desktop\Đại Học\Tài liệu môn học\Môn chuyên ngành\Lập trình Win\Đồ án cuối kỳ\DACK Release\Entity\qlnv\qlnv\qlnv\bin\Debug\stdole.dll
+C:\Users\pc\Desktop\Đại Học\Tài liệu môn học\Môn chuyên ngành\Lập trình Win\Đồ án cuối kỳ\DACK Release\Entity\qlnv\qlnv\qlnv\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+C:\Users\pc\Desktop\Đại Học\Tài liệu môn học\Môn chuyên ngành\Lập trình Win\Đồ án cuối kỳ\DACK Release\Entity\qlnv\qlnv\qlnv\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+C:\Users\pc\Desktop\Đại Học\Tài liệu môn học\Môn chuyên ngành\Lập trình Win\Đồ án cuối kỳ\DACK Release\Entity\qlnv\qlnv\qlnv\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+C:\Users\pc\Desktop\Đại Học\Tài liệu môn học\Môn chuyên ngành\Lập trình Win\Đồ án cuối kỳ\DACK Release\Entity\qlnv\qlnv\qlnv\bin\Debug\Microsoft.MSXML.dll
+C:\Users\pc\Desktop\Đại Học\Tài liệu môn học\Môn chuyên ngành\Lập trình Win\Đồ án cuối kỳ\DACK Release\Entity\qlnv\qlnv\qlnv\bin\Debug\EntityFramework.xml
+C:\Users\pc\Desktop\Đại Học\Tài liệu môn học\Môn chuyên ngành\Lập trình Win\Đồ án cuối kỳ\DACK Release\Entity\qlnv\qlnv\qlnv\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\pc\Desktop\Đại Học\Tài liệu môn học\Môn chuyên ngành\Lập trình Win\Đồ án cuối kỳ\DACK Release\Entity\qlnv\qlnv\qlnv\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\pc\Desktop\Đại Học\Tài liệu môn học\Môn chuyên ngành\Lập trình Win\Đồ án cuối kỳ\DACK Release\Entity\qlnv\qlnv\qlnv\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\pc\Desktop\Đại Học\Tài liệu môn học\Môn chuyên ngành\Lập trình Win\Đồ án cuối kỳ\DACK Release\Entity\qlnv\qlnv\qlnv\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\pc\Desktop\Đại Học\Tài liệu môn học\Môn chuyên ngành\Lập trình Win\Đồ án cuối kỳ\DACK Release\Entity\qlnv\qlnv\qlnv\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\pc\Desktop\Đại Học\Tài liệu môn học\Môn chuyên ngành\Lập trình Win\Đồ án cuối kỳ\DACK Release\Entity\qlnv\qlnv\qlnv\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\pc\Desktop\Đại Học\Tài liệu môn học\Môn chuyên ngành\Lập trình Win\Đồ án cuối kỳ\DACK Release\Entity\qlnv\qlnv\qlnv\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\pc\Desktop\Đại Học\Tài liệu môn học\Môn chuyên ngành\Lập trình Win\Đồ án cuối kỳ\DACK Release\Entity\qlnv\qlnv\qlnv\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\pc\Desktop\Đại Học\Tài liệu môn học\Môn chuyên ngành\Lập trình Win\Đồ án cuối kỳ\DACK Release\Entity\qlnv\qlnv\qlnv\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\pc\Desktop\Đại Học\Tài liệu môn học\Môn chuyên ngành\Lập trình Win\Đồ án cuối kỳ\DACK Release\Entity\qlnv\qlnv\qlnv\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\pc\Desktop\Đại Học\Tài liệu môn học\Môn chuyên ngành\Lập trình Win\Đồ án cuối kỳ\DACK Release\Entity\qlnv\qlnv\qlnv\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\pc\Desktop\Đại Học\Tài liệu môn học\Môn chuyên ngành\Lập trình Win\Đồ án cuối kỳ\DACK Release\Entity\qlnv\qlnv\qlnv\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\pc\Desktop\Đại Học\Tài liệu môn học\Môn chuyên ngành\Lập trình Win\Đồ án cuối kỳ\DACK Release\Entity\qlnv\qlnv\qlnv\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\pc\Desktop\Đại Học\Tài liệu môn học\Môn chuyên ngành\Lập trình Win\Đồ án cuối kỳ\DACK Release\Entity\qlnv\qlnv\qlnv\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\pc\Desktop\Đại Học\Tài liệu môn học\Môn chuyên ngành\Lập trình Win\Đồ án cuối kỳ\DACK Release\Entity\qlnv\qlnv\qlnv\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\pc\Desktop\Đại Học\Tài liệu môn học\Môn chuyên ngành\Lập trình Win\Đồ án cuối kỳ\DACK Release\Entity\qlnv\qlnv\qlnv\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\pc\Desktop\Đại Học\Tài liệu môn học\Môn chuyên ngành\Lập trình Win\Đồ án cuối kỳ\DACK Release\Entity\qlnv\qlnv\qlnv\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\pc\Desktop\Đại Học\Tài liệu môn học\Môn chuyên ngành\Lập trình Win\Đồ án cuối kỳ\DACK Release\Entity\qlnv\qlnv\qlnv\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\pc\Desktop\Đại Học\Tài liệu môn học\Môn chuyên ngành\Lập trình Win\Đồ án cuối kỳ\DACK Release\Entity\qlnv\qlnv\qlnv\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\pc\Desktop\Đại Học\Tài liệu môn học\Môn chuyên ngành\Lập trình Win\Đồ án cuối kỳ\DACK Release\Entity\qlnv\qlnv\qlnv\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\pc\Desktop\Đại Học\Tài liệu môn học\Môn chuyên ngành\Lập trình Win\Đồ án cuối kỳ\DACK Release\Entity\qlnv\qlnv\qlnv\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\pc\Desktop\Đại Học\Tài liệu môn học\Môn chuyên ngành\Lập trình Win\Đồ án cuối kỳ\DACK Release\Entity\qlnv\qlnv\qlnv\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\pc\Desktop\Đại Học\Tài liệu môn học\Môn chuyên ngành\Lập trình Win\Đồ án cuối kỳ\DACK Release\Entity\qlnv\qlnv\qlnv\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\pc\Desktop\Đại Học\Tài liệu môn học\Môn chuyên ngành\Lập trình Win\Đồ án cuối kỳ\DACK Release\Entity\qlnv\qlnv\qlnv\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\pc\Desktop\Đại Học\Tài liệu môn học\Môn chuyên ngành\Lập trình Win\Đồ án cuối kỳ\DACK Release\Entity\qlnv\qlnv\qlnv\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\pc\Desktop\Đại Học\Tài liệu môn học\Môn chuyên ngành\Lập trình Win\Đồ án cuối kỳ\DACK Release\Entity\qlnv\qlnv\qlnv\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\pc\Desktop\Đại Học\Tài liệu môn học\Môn chuyên ngành\Lập trình Win\Đồ án cuối kỳ\DACK Release\Entity\qlnv\qlnv\qlnv\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\pc\Desktop\Đại Học\Tài liệu môn học\Môn chuyên ngành\Lập trình Win\Đồ án cuối kỳ\DACK Release\Entity\qlnv\qlnv\qlnv\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\pc\Desktop\Đại Học\Tài liệu môn học\Môn chuyên ngành\Lập trình Win\Đồ án cuối kỳ\DACK Release\Entity\qlnv\qlnv\qlnv\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\pc\Desktop\Đại Học\Tài liệu môn học\Môn chuyên ngành\Lập trình Win\Đồ án cuối kỳ\DACK Release\Entity\qlnv\qlnv\qlnv\obj\Debug\qlnv.csprojAssemblyReference.cache
+C:\Users\pc\Desktop\Đại Học\Tài liệu môn học\Môn chuyên ngành\Lập trình Win\Đồ án cuối kỳ\DACK Release\Entity\qlnv\qlnv\qlnv\obj\Debug\qlnv.Forms.ChamCong.resources
+C:\Users\pc\Desktop\Đại Học\Tài liệu môn học\Môn chuyên ngành\Lập trình Win\Đồ án cuối kỳ\DACK Release\Entity\qlnv\qlnv\qlnv\obj\Debug\qlnv.Forms.ChiTietChamCong.resources
+C:\Users\pc\Desktop\Đại Học\Tài liệu môn học\Môn chuyên ngành\Lập trình Win\Đồ án cuối kỳ\DACK Release\Entity\qlnv\qlnv\qlnv\obj\Debug\qlnv.Forms.EditDep.resources
+C:\Users\pc\Desktop\Đại Học\Tài liệu môn học\Môn chuyên ngành\Lập trình Win\Đồ án cuối kỳ\DACK Release\Entity\qlnv\qlnv\qlnv\obj\Debug\qlnv.EditEmp.resources
+C:\Users\pc\Desktop\Đại Học\Tài liệu môn học\Môn chuyên ngành\Lập trình Win\Đồ án cuối kỳ\DACK Release\Entity\qlnv\qlnv\qlnv\obj\Debug\qlnv.AddAndEditDept.resources
+C:\Users\pc\Desktop\Đại Học\Tài liệu môn học\Môn chuyên ngành\Lập trình Win\Đồ án cuối kỳ\DACK Release\Entity\qlnv\qlnv\qlnv\obj\Debug\qlnv.AddEmployee.resources
+C:\Users\pc\Desktop\Đại Học\Tài liệu môn học\Môn chuyên ngành\Lập trình Win\Đồ án cuối kỳ\DACK Release\Entity\qlnv\qlnv\qlnv\obj\Debug\qlnv.AssignEmp.resources
+C:\Users\pc\Desktop\Đại Học\Tài liệu môn học\Môn chuyên ngành\Lập trình Win\Đồ án cuối kỳ\DACK Release\Entity\qlnv\qlnv\qlnv\obj\Debug\qlnv.Forms.EditPro.resources
+C:\Users\pc\Desktop\Đại Học\Tài liệu môn học\Môn chuyên ngành\Lập trình Win\Đồ án cuối kỳ\DACK Release\Entity\qlnv\qlnv\qlnv\obj\Debug\qlnv.Forms.frmAssignProject.resources
+C:\Users\pc\Desktop\Đại Học\Tài liệu môn học\Môn chuyên ngành\Lập trình Win\Đồ án cuối kỳ\DACK Release\Entity\qlnv\qlnv\qlnv\obj\Debug\qlnv.Forms.frmLogin.resources
+C:\Users\pc\Desktop\Đại Học\Tài liệu môn học\Môn chuyên ngành\Lập trình Win\Đồ án cuối kỳ\DACK Release\Entity\qlnv\qlnv\qlnv\obj\Debug\qlnv.Forms.Luong.resources
+C:\Users\pc\Desktop\Đại Học\Tài liệu môn học\Môn chuyên ngành\Lập trình Win\Đồ án cuối kỳ\DACK Release\Entity\qlnv\qlnv\qlnv\obj\Debug\qlnv.ProjectAdd.resources
+C:\Users\pc\Desktop\Đại Học\Tài liệu môn học\Môn chuyên ngành\Lập trình Win\Đồ án cuối kỳ\DACK Release\Entity\qlnv\qlnv\qlnv\obj\Debug\qlnv.FormStart.resources
+C:\Users\pc\Desktop\Đại Học\Tài liệu môn học\Môn chuyên ngành\Lập trình Win\Đồ án cuối kỳ\DACK Release\Entity\qlnv\qlnv\qlnv\obj\Debug\qlnv.Properties.Resources.resources
+C:\Users\pc\Desktop\Đại Học\Tài liệu môn học\Môn chuyên ngành\Lập trình Win\Đồ án cuối kỳ\DACK Release\Entity\qlnv\qlnv\qlnv\obj\Debug\qlnv.User_Controls.Department.resources
+C:\Users\pc\Desktop\Đại Học\Tài liệu môn học\Môn chuyên ngành\Lập trình Win\Đồ án cuối kỳ\DACK Release\Entity\qlnv\qlnv\qlnv\obj\Debug\qlnv.User_Controls.Employee.resources
+C:\Users\pc\Desktop\Đại Học\Tài liệu môn học\Môn chuyên ngành\Lập trình Win\Đồ án cuối kỳ\DACK Release\Entity\qlnv\qlnv\qlnv\obj\Debug\qlnv.User_Controls.Login.resources
+C:\Users\pc\Desktop\Đại Học\Tài liệu môn học\Môn chuyên ngành\Lập trình Win\Đồ án cuối kỳ\DACK Release\Entity\qlnv\qlnv\qlnv\obj\Debug\qlnv.User_Controls.Project.resources
+C:\Users\pc\Desktop\Đại Học\Tài liệu môn học\Môn chuyên ngành\Lập trình Win\Đồ án cuối kỳ\DACK Release\Entity\qlnv\qlnv\qlnv\obj\Debug\qlnv.csproj.GenerateResource.cache
+C:\Users\pc\Desktop\Đại Học\Tài liệu môn học\Môn chuyên ngành\Lập trình Win\Đồ án cuối kỳ\DACK Release\Entity\qlnv\qlnv\qlnv\obj\Debug\RdlCompile.cache
+C:\Users\pc\Desktop\Đại Học\Tài liệu môn học\Môn chuyên ngành\Lập trình Win\Đồ án cuối kỳ\DACK Release\Entity\qlnv\qlnv\qlnv\obj\Debug\RdlCompile.compiled
+C:\Users\pc\Desktop\Đại Học\Tài liệu môn học\Môn chuyên ngành\Lập trình Win\Đồ án cuối kỳ\DACK Release\Entity\qlnv\qlnv\qlnv\obj\Debug\qlnv.csproj.CoreCompileInputs.cache
+C:\Users\pc\Desktop\Đại Học\Tài liệu môn học\Môn chuyên ngành\Lập trình Win\Đồ án cuối kỳ\DACK Release\Entity\qlnv\qlnv\qlnv\obj\Debug\qlnv.csproj.CopyComplete
+C:\Users\pc\Desktop\Đại Học\Tài liệu môn học\Môn chuyên ngành\Lập trình Win\Đồ án cuối kỳ\DACK Release\Entity\qlnv\qlnv\qlnv\obj\Debug\qlnv.exe
+C:\Users\pc\Desktop\Đại Học\Tài liệu môn học\Môn chuyên ngành\Lập trình Win\Đồ án cuối kỳ\DACK Release\Entity\qlnv\qlnv\qlnv\obj\Debug\qlnv.pdb
+C:\Users\pc\Desktop\Đại Học\Tài liệu môn học\Môn chuyên ngành\Lập trình Win\Đồ án cuối kỳ\DACK Release\Entity\qlnv\qlnv\qlnv\qlnv\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+C:\Users\pc\Desktop\Đại Học\Tài liệu môn học\Môn chuyên ngành\Lập trình Win\Đồ án cuối kỳ\DACK Release\Entity\qlnv\qlnv\qlnv\qlnv\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+C:\Users\pc\Desktop\Đại Học\Tài liệu môn học\Môn chuyên ngành\Lập trình Win\Đồ án cuối kỳ\DACK Release\Entity\qlnv\qlnv\qlnv\qlnv\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+C:\Users\pc\Desktop\Đại Học\Tài liệu môn học\Môn chuyên ngành\Lập trình Win\Đồ án cuối kỳ\DACK Release\Entity\qlnv\qlnv\qlnv\qlnv\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+C:\Users\pc\Desktop\Đại Học\Tài liệu môn học\Môn chuyên ngành\Lập trình Win\Đồ án cuối kỳ\DACK Release\Entity\qlnv\qlnv\qlnv\qlnv\bin\Debug\qlnv.exe.config
+C:\Users\pc\Desktop\Đại Học\Tài liệu môn học\Môn chuyên ngành\Lập trình Win\Đồ án cuối kỳ\DACK Release\Entity\qlnv\qlnv\qlnv\qlnv\bin\Debug\qlnv.exe
+C:\Users\pc\Desktop\Đại Học\Tài liệu môn học\Môn chuyên ngành\Lập trình Win\Đồ án cuối kỳ\DACK Release\Entity\qlnv\qlnv\qlnv\qlnv\bin\Debug\qlnv.pdb
+C:\Users\pc\Desktop\Đại Học\Tài liệu môn học\Môn chuyên ngành\Lập trình Win\Đồ án cuối kỳ\DACK Release\Entity\qlnv\qlnv\qlnv\qlnv\bin\Debug\EntityFramework.dll
+C:\Users\pc\Desktop\Đại Học\Tài liệu môn học\Môn chuyên ngành\Lập trình Win\Đồ án cuối kỳ\DACK Release\Entity\qlnv\qlnv\qlnv\qlnv\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\pc\Desktop\Đại Học\Tài liệu môn học\Môn chuyên ngành\Lập trình Win\Đồ án cuối kỳ\DACK Release\Entity\qlnv\qlnv\qlnv\qlnv\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\pc\Desktop\Đại Học\Tài liệu môn học\Môn chuyên ngành\Lập trình Win\Đồ án cuối kỳ\DACK Release\Entity\qlnv\qlnv\qlnv\qlnv\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\pc\Desktop\Đại Học\Tài liệu môn học\Môn chuyên ngành\Lập trình Win\Đồ án cuối kỳ\DACK Release\Entity\qlnv\qlnv\qlnv\qlnv\bin\Debug\Microsoft.ReportViewer.Design.dll
+C:\Users\pc\Desktop\Đại Học\Tài liệu môn học\Môn chuyên ngành\Lập trình Win\Đồ án cuối kỳ\DACK Release\Entity\qlnv\qlnv\qlnv\qlnv\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\pc\Desktop\Đại Học\Tài liệu môn học\Môn chuyên ngành\Lập trình Win\Đồ án cuối kỳ\DACK Release\Entity\qlnv\qlnv\qlnv\qlnv\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\pc\Desktop\Đại Học\Tài liệu môn học\Môn chuyên ngành\Lập trình Win\Đồ án cuối kỳ\DACK Release\Entity\qlnv\qlnv\qlnv\qlnv\bin\Debug\EnvDTE.dll
+C:\Users\pc\Desktop\Đại Học\Tài liệu môn học\Môn chuyên ngành\Lập trình Win\Đồ án cuối kỳ\DACK Release\Entity\qlnv\qlnv\qlnv\qlnv\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+C:\Users\pc\Desktop\Đại Học\Tài liệu môn học\Môn chuyên ngành\Lập trình Win\Đồ án cuối kỳ\DACK Release\Entity\qlnv\qlnv\qlnv\qlnv\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+C:\Users\pc\Desktop\Đại Học\Tài liệu môn học\Môn chuyên ngành\Lập trình Win\Đồ án cuối kỳ\DACK Release\Entity\qlnv\qlnv\qlnv\qlnv\bin\Debug\stdole.dll
+C:\Users\pc\Desktop\Đại Học\Tài liệu môn học\Môn chuyên ngành\Lập trình Win\Đồ án cuối kỳ\DACK Release\Entity\qlnv\qlnv\qlnv\qlnv\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+C:\Users\pc\Desktop\Đại Học\Tài liệu môn học\Môn chuyên ngành\Lập trình Win\Đồ án cuối kỳ\DACK Release\Entity\qlnv\qlnv\qlnv\qlnv\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+C:\Users\pc\Desktop\Đại Học\Tài liệu môn học\Môn chuyên ngành\Lập trình Win\Đồ án cuối kỳ\DACK Release\Entity\qlnv\qlnv\qlnv\qlnv\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+C:\Users\pc\Desktop\Đại Học\Tài liệu môn học\Môn chuyên ngành\Lập trình Win\Đồ án cuối kỳ\DACK Release\Entity\qlnv\qlnv\qlnv\qlnv\bin\Debug\Microsoft.MSXML.dll
+C:\Users\pc\Desktop\Đại Học\Tài liệu môn học\Môn chuyên ngành\Lập trình Win\Đồ án cuối kỳ\DACK Release\Entity\qlnv\qlnv\qlnv\qlnv\bin\Debug\EntityFramework.xml
+C:\Users\pc\Desktop\Đại Học\Tài liệu môn học\Môn chuyên ngành\Lập trình Win\Đồ án cuối kỳ\DACK Release\Entity\qlnv\qlnv\qlnv\qlnv\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\pc\Desktop\Đại Học\Tài liệu môn học\Môn chuyên ngành\Lập trình Win\Đồ án cuối kỳ\DACK Release\Entity\qlnv\qlnv\qlnv\qlnv\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\pc\Desktop\Đại Học\Tài liệu môn học\Môn chuyên ngành\Lập trình Win\Đồ án cuối kỳ\DACK Release\Entity\qlnv\qlnv\qlnv\qlnv\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\pc\Desktop\Đại Học\Tài liệu môn học\Môn chuyên ngành\Lập trình Win\Đồ án cuối kỳ\DACK Release\Entity\qlnv\qlnv\qlnv\qlnv\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\pc\Desktop\Đại Học\Tài liệu môn học\Môn chuyên ngành\Lập trình Win\Đồ án cuối kỳ\DACK Release\Entity\qlnv\qlnv\qlnv\qlnv\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\pc\Desktop\Đại Học\Tài liệu môn học\Môn chuyên ngành\Lập trình Win\Đồ án cuối kỳ\DACK Release\Entity\qlnv\qlnv\qlnv\qlnv\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\pc\Desktop\Đại Học\Tài liệu môn học\Môn chuyên ngành\Lập trình Win\Đồ án cuối kỳ\DACK Release\Entity\qlnv\qlnv\qlnv\qlnv\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\pc\Desktop\Đại Học\Tài liệu môn học\Môn chuyên ngành\Lập trình Win\Đồ án cuối kỳ\DACK Release\Entity\qlnv\qlnv\qlnv\qlnv\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\pc\Desktop\Đại Học\Tài liệu môn học\Môn chuyên ngành\Lập trình Win\Đồ án cuối kỳ\DACK Release\Entity\qlnv\qlnv\qlnv\qlnv\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\pc\Desktop\Đại Học\Tài liệu môn học\Môn chuyên ngành\Lập trình Win\Đồ án cuối kỳ\DACK Release\Entity\qlnv\qlnv\qlnv\qlnv\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\pc\Desktop\Đại Học\Tài liệu môn học\Môn chuyên ngành\Lập trình Win\Đồ án cuối kỳ\DACK Release\Entity\qlnv\qlnv\qlnv\qlnv\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\pc\Desktop\Đại Học\Tài liệu môn học\Môn chuyên ngành\Lập trình Win\Đồ án cuối kỳ\DACK Release\Entity\qlnv\qlnv\qlnv\qlnv\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\pc\Desktop\Đại Học\Tài liệu môn học\Môn chuyên ngành\Lập trình Win\Đồ án cuối kỳ\DACK Release\Entity\qlnv\qlnv\qlnv\qlnv\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\pc\Desktop\Đại Học\Tài liệu môn học\Môn chuyên ngành\Lập trình Win\Đồ án cuối kỳ\DACK Release\Entity\qlnv\qlnv\qlnv\qlnv\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\pc\Desktop\Đại Học\Tài liệu môn học\Môn chuyên ngành\Lập trình Win\Đồ án cuối kỳ\DACK Release\Entity\qlnv\qlnv\qlnv\qlnv\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\pc\Desktop\Đại Học\Tài liệu môn học\Môn chuyên ngành\Lập trình Win\Đồ án cuối kỳ\DACK Release\Entity\qlnv\qlnv\qlnv\qlnv\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\pc\Desktop\Đại Học\Tài liệu môn học\Môn chuyên ngành\Lập trình Win\Đồ án cuối kỳ\DACK Release\Entity\qlnv\qlnv\qlnv\qlnv\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\pc\Desktop\Đại Học\Tài liệu môn học\Môn chuyên ngành\Lập trình Win\Đồ án cuối kỳ\DACK Release\Entity\qlnv\qlnv\qlnv\qlnv\obj\Debug\qlnv.csprojAssemblyReference.cache
+C:\Users\pc\Desktop\Đại Học\Tài liệu môn học\Môn chuyên ngành\Lập trình Win\Đồ án cuối kỳ\DACK Release\Entity\qlnv\qlnv\qlnv\qlnv\obj\Debug\qlnv.Forms.ChamCong.resources
+C:\Users\pc\Desktop\Đại Học\Tài liệu môn học\Môn chuyên ngành\Lập trình Win\Đồ án cuối kỳ\DACK Release\Entity\qlnv\qlnv\qlnv\qlnv\obj\Debug\qlnv.Forms.ChiTietChamCong.resources
+C:\Users\pc\Desktop\Đại Học\Tài liệu môn học\Môn chuyên ngành\Lập trình Win\Đồ án cuối kỳ\DACK Release\Entity\qlnv\qlnv\qlnv\qlnv\obj\Debug\qlnv.Forms.EditDep.resources
+C:\Users\pc\Desktop\Đại Học\Tài liệu môn học\Môn chuyên ngành\Lập trình Win\Đồ án cuối kỳ\DACK Release\Entity\qlnv\qlnv\qlnv\qlnv\obj\Debug\qlnv.EditEmp.resources
+C:\Users\pc\Desktop\Đại Học\Tài liệu môn học\Môn chuyên ngành\Lập trình Win\Đồ án cuối kỳ\DACK Release\Entity\qlnv\qlnv\qlnv\qlnv\obj\Debug\qlnv.AddAndEditDept.resources
+C:\Users\pc\Desktop\Đại Học\Tài liệu môn học\Môn chuyên ngành\Lập trình Win\Đồ án cuối kỳ\DACK Release\Entity\qlnv\qlnv\qlnv\qlnv\obj\Debug\qlnv.AddEmployee.resources
+C:\Users\pc\Desktop\Đại Học\Tài liệu môn học\Môn chuyên ngành\Lập trình Win\Đồ án cuối kỳ\DACK Release\Entity\qlnv\qlnv\qlnv\qlnv\obj\Debug\qlnv.AssignEmp.resources
+C:\Users\pc\Desktop\Đại Học\Tài liệu môn học\Môn chuyên ngành\Lập trình Win\Đồ án cuối kỳ\DACK Release\Entity\qlnv\qlnv\qlnv\qlnv\obj\Debug\qlnv.Forms.EditPro.resources
+C:\Users\pc\Desktop\Đại Học\Tài liệu môn học\Môn chuyên ngành\Lập trình Win\Đồ án cuối kỳ\DACK Release\Entity\qlnv\qlnv\qlnv\qlnv\obj\Debug\qlnv.Forms.frmAssignProject.resources
+C:\Users\pc\Desktop\Đại Học\Tài liệu môn học\Môn chuyên ngành\Lập trình Win\Đồ án cuối kỳ\DACK Release\Entity\qlnv\qlnv\qlnv\qlnv\obj\Debug\qlnv.Forms.frmLogin.resources
+C:\Users\pc\Desktop\Đại Học\Tài liệu môn học\Môn chuyên ngành\Lập trình Win\Đồ án cuối kỳ\DACK Release\Entity\qlnv\qlnv\qlnv\qlnv\obj\Debug\qlnv.Forms.Luong.resources
+C:\Users\pc\Desktop\Đại Học\Tài liệu môn học\Môn chuyên ngành\Lập trình Win\Đồ án cuối kỳ\DACK Release\Entity\qlnv\qlnv\qlnv\qlnv\obj\Debug\qlnv.ProjectAdd.resources
+C:\Users\pc\Desktop\Đại Học\Tài liệu môn học\Môn chuyên ngành\Lập trình Win\Đồ án cuối kỳ\DACK Release\Entity\qlnv\qlnv\qlnv\qlnv\obj\Debug\qlnv.FormStart.resources
+C:\Users\pc\Desktop\Đại Học\Tài liệu môn học\Môn chuyên ngành\Lập trình Win\Đồ án cuối kỳ\DACK Release\Entity\qlnv\qlnv\qlnv\qlnv\obj\Debug\qlnv.Properties.Resources.resources
+C:\Users\pc\Desktop\Đại Học\Tài liệu môn học\Môn chuyên ngành\Lập trình Win\Đồ án cuối kỳ\DACK Release\Entity\qlnv\qlnv\qlnv\qlnv\obj\Debug\qlnv.User_Controls.Department.resources
+C:\Users\pc\Desktop\Đại Học\Tài liệu môn học\Môn chuyên ngành\Lập trình Win\Đồ án cuối kỳ\DACK Release\Entity\qlnv\qlnv\qlnv\qlnv\obj\Debug\qlnv.User_Controls.Employee.resources
+C:\Users\pc\Desktop\Đại Học\Tài liệu môn học\Môn chuyên ngành\Lập trình Win\Đồ án cuối kỳ\DACK Release\Entity\qlnv\qlnv\qlnv\qlnv\obj\Debug\qlnv.User_Controls.Login.resources
+C:\Users\pc\Desktop\Đại Học\Tài liệu môn học\Môn chuyên ngành\Lập trình Win\Đồ án cuối kỳ\DACK Release\Entity\qlnv\qlnv\qlnv\qlnv\obj\Debug\qlnv.User_Controls.Project.resources
+C:\Users\pc\Desktop\Đại Học\Tài liệu môn học\Môn chuyên ngành\Lập trình Win\Đồ án cuối kỳ\DACK Release\Entity\qlnv\qlnv\qlnv\qlnv\obj\Debug\qlnv.csproj.GenerateResource.cache
+C:\Users\pc\Desktop\Đại Học\Tài liệu môn học\Môn chuyên ngành\Lập trình Win\Đồ án cuối kỳ\DACK Release\Entity\qlnv\qlnv\qlnv\qlnv\obj\Debug\RdlCompile.cache
+C:\Users\pc\Desktop\Đại Học\Tài liệu môn học\Môn chuyên ngành\Lập trình Win\Đồ án cuối kỳ\DACK Release\Entity\qlnv\qlnv\qlnv\qlnv\obj\Debug\RdlCompile.compiled
+C:\Users\pc\Desktop\Đại Học\Tài liệu môn học\Môn chuyên ngành\Lập trình Win\Đồ án cuối kỳ\DACK Release\Entity\qlnv\qlnv\qlnv\qlnv\obj\Debug\qlnv.csproj.CoreCompileInputs.cache
+C:\Users\pc\Desktop\Đại Học\Tài liệu môn học\Môn chuyên ngành\Lập trình Win\Đồ án cuối kỳ\DACK Release\Entity\qlnv\qlnv\qlnv\qlnv\obj\Debug\qlnv.csproj.CopyComplete
+C:\Users\pc\Desktop\Đại Học\Tài liệu môn học\Môn chuyên ngành\Lập trình Win\Đồ án cuối kỳ\DACK Release\Entity\qlnv\qlnv\qlnv\qlnv\obj\Debug\qlnv.exe
+C:\Users\pc\Desktop\Đại Học\Tài liệu môn học\Môn chuyên ngành\Lập trình Win\Đồ án cuối kỳ\DACK Release\Entity\qlnv\qlnv\qlnv\qlnv\obj\Debug\qlnv.pdb
+C:\Users\pc\Desktop\Đại Học\Tài liệu môn học\Môn chuyên ngành\Lập trình Win\Đồ án cuối kỳ\qlnv\qlnv\qlnv\bin\Debug\qlnv.exe.config
+C:\Users\pc\Desktop\Đại Học\Tài liệu môn học\Môn chuyên ngành\Lập trình Win\Đồ án cuối kỳ\qlnv\qlnv\qlnv\bin\Debug\qlnv.exe
+C:\Users\pc\Desktop\Đại Học\Tài liệu môn học\Môn chuyên ngành\Lập trình Win\Đồ án cuối kỳ\qlnv\qlnv\qlnv\bin\Debug\qlnv.pdb
+C:\Users\pc\Desktop\Đại Học\Tài liệu môn học\Môn chuyên ngành\Lập trình Win\Đồ án cuối kỳ\qlnv\qlnv\qlnv\bin\Debug\EntityFramework.dll
+C:\Users\pc\Desktop\Đại Học\Tài liệu môn học\Môn chuyên ngành\Lập trình Win\Đồ án cuối kỳ\qlnv\qlnv\qlnv\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\pc\Desktop\Đại Học\Tài liệu môn học\Môn chuyên ngành\Lập trình Win\Đồ án cuối kỳ\qlnv\qlnv\qlnv\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\pc\Desktop\Đại Học\Tài liệu môn học\Môn chuyên ngành\Lập trình Win\Đồ án cuối kỳ\qlnv\qlnv\qlnv\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\pc\Desktop\Đại Học\Tài liệu môn học\Môn chuyên ngành\Lập trình Win\Đồ án cuối kỳ\qlnv\qlnv\qlnv\bin\Debug\Microsoft.ReportViewer.Design.dll
+C:\Users\pc\Desktop\Đại Học\Tài liệu môn học\Môn chuyên ngành\Lập trình Win\Đồ án cuối kỳ\qlnv\qlnv\qlnv\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\pc\Desktop\Đại Học\Tài liệu môn học\Môn chuyên ngành\Lập trình Win\Đồ án cuối kỳ\qlnv\qlnv\qlnv\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\pc\Desktop\Đại Học\Tài liệu môn học\Môn chuyên ngành\Lập trình Win\Đồ án cuối kỳ\qlnv\qlnv\qlnv\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\pc\Desktop\Đại Học\Tài liệu môn học\Môn chuyên ngành\Lập trình Win\Đồ án cuối kỳ\qlnv\qlnv\qlnv\bin\Debug\EnvDTE.dll
+C:\Users\pc\Desktop\Đại Học\Tài liệu môn học\Môn chuyên ngành\Lập trình Win\Đồ án cuối kỳ\qlnv\qlnv\qlnv\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+C:\Users\pc\Desktop\Đại Học\Tài liệu môn học\Môn chuyên ngành\Lập trình Win\Đồ án cuối kỳ\qlnv\qlnv\qlnv\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+C:\Users\pc\Desktop\Đại Học\Tài liệu môn học\Môn chuyên ngành\Lập trình Win\Đồ án cuối kỳ\qlnv\qlnv\qlnv\bin\Debug\stdole.dll
+C:\Users\pc\Desktop\Đại Học\Tài liệu môn học\Môn chuyên ngành\Lập trình Win\Đồ án cuối kỳ\qlnv\qlnv\qlnv\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+C:\Users\pc\Desktop\Đại Học\Tài liệu môn học\Môn chuyên ngành\Lập trình Win\Đồ án cuối kỳ\qlnv\qlnv\qlnv\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+C:\Users\pc\Desktop\Đại Học\Tài liệu môn học\Môn chuyên ngành\Lập trình Win\Đồ án cuối kỳ\qlnv\qlnv\qlnv\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+C:\Users\pc\Desktop\Đại Học\Tài liệu môn học\Môn chuyên ngành\Lập trình Win\Đồ án cuối kỳ\qlnv\qlnv\qlnv\bin\Debug\Microsoft.MSXML.dll
+C:\Users\pc\Desktop\Đại Học\Tài liệu môn học\Môn chuyên ngành\Lập trình Win\Đồ án cuối kỳ\qlnv\qlnv\qlnv\bin\Debug\EntityFramework.xml
+C:\Users\pc\Desktop\Đại Học\Tài liệu môn học\Môn chuyên ngành\Lập trình Win\Đồ án cuối kỳ\qlnv\qlnv\qlnv\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\pc\Desktop\Đại Học\Tài liệu môn học\Môn chuyên ngành\Lập trình Win\Đồ án cuối kỳ\qlnv\qlnv\qlnv\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\pc\Desktop\Đại Học\Tài liệu môn học\Môn chuyên ngành\Lập trình Win\Đồ án cuối kỳ\qlnv\qlnv\qlnv\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\pc\Desktop\Đại Học\Tài liệu môn học\Môn chuyên ngành\Lập trình Win\Đồ án cuối kỳ\qlnv\qlnv\qlnv\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\pc\Desktop\Đại Học\Tài liệu môn học\Môn chuyên ngành\Lập trình Win\Đồ án cuối kỳ\qlnv\qlnv\qlnv\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\pc\Desktop\Đại Học\Tài liệu môn học\Môn chuyên ngành\Lập trình Win\Đồ án cuối kỳ\qlnv\qlnv\qlnv\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\pc\Desktop\Đại Học\Tài liệu môn học\Môn chuyên ngành\Lập trình Win\Đồ án cuối kỳ\qlnv\qlnv\qlnv\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\pc\Desktop\Đại Học\Tài liệu môn học\Môn chuyên ngành\Lập trình Win\Đồ án cuối kỳ\qlnv\qlnv\qlnv\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\pc\Desktop\Đại Học\Tài liệu môn học\Môn chuyên ngành\Lập trình Win\Đồ án cuối kỳ\qlnv\qlnv\qlnv\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\pc\Desktop\Đại Học\Tài liệu môn học\Môn chuyên ngành\Lập trình Win\Đồ án cuối kỳ\qlnv\qlnv\qlnv\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\pc\Desktop\Đại Học\Tài liệu môn học\Môn chuyên ngành\Lập trình Win\Đồ án cuối kỳ\qlnv\qlnv\qlnv\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\pc\Desktop\Đại Học\Tài liệu môn học\Môn chuyên ngành\Lập trình Win\Đồ án cuối kỳ\qlnv\qlnv\qlnv\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\pc\Desktop\Đại Học\Tài liệu môn học\Môn chuyên ngành\Lập trình Win\Đồ án cuối kỳ\qlnv\qlnv\qlnv\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\pc\Desktop\Đại Học\Tài liệu môn học\Môn chuyên ngành\Lập trình Win\Đồ án cuối kỳ\qlnv\qlnv\qlnv\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\pc\Desktop\Đại Học\Tài liệu môn học\Môn chuyên ngành\Lập trình Win\Đồ án cuối kỳ\qlnv\qlnv\qlnv\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\pc\Desktop\Đại Học\Tài liệu môn học\Môn chuyên ngành\Lập trình Win\Đồ án cuối kỳ\qlnv\qlnv\qlnv\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\pc\Desktop\Đại Học\Tài liệu môn học\Môn chuyên ngành\Lập trình Win\Đồ án cuối kỳ\qlnv\qlnv\qlnv\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\pc\Desktop\Đại Học\Tài liệu môn học\Môn chuyên ngành\Lập trình Win\Đồ án cuối kỳ\qlnv\qlnv\qlnv\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\pc\Desktop\Đại Học\Tài liệu môn học\Môn chuyên ngành\Lập trình Win\Đồ án cuối kỳ\qlnv\qlnv\qlnv\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\pc\Desktop\Đại Học\Tài liệu môn học\Môn chuyên ngành\Lập trình Win\Đồ án cuối kỳ\qlnv\qlnv\qlnv\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\pc\Desktop\Đại Học\Tài liệu môn học\Môn chuyên ngành\Lập trình Win\Đồ án cuối kỳ\qlnv\qlnv\qlnv\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\pc\Desktop\Đại Học\Tài liệu môn học\Môn chuyên ngành\Lập trình Win\Đồ án cuối kỳ\qlnv\qlnv\qlnv\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\pc\Desktop\Đại Học\Tài liệu môn học\Môn chuyên ngành\Lập trình Win\Đồ án cuối kỳ\qlnv\qlnv\qlnv\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\pc\Desktop\Đại Học\Tài liệu môn học\Môn chuyên ngành\Lập trình Win\Đồ án cuối kỳ\qlnv\qlnv\qlnv\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\pc\Desktop\Đại Học\Tài liệu môn học\Môn chuyên ngành\Lập trình Win\Đồ án cuối kỳ\qlnv\qlnv\qlnv\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\pc\Desktop\Đại Học\Tài liệu môn học\Môn chuyên ngành\Lập trình Win\Đồ án cuối kỳ\qlnv\qlnv\qlnv\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\pc\Desktop\Đại Học\Tài liệu môn học\Môn chuyên ngành\Lập trình Win\Đồ án cuối kỳ\qlnv\qlnv\qlnv\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\pc\Desktop\Đại Học\Tài liệu môn học\Môn chuyên ngành\Lập trình Win\Đồ án cuối kỳ\qlnv\qlnv\qlnv\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\pc\Desktop\Đại Học\Tài liệu môn học\Môn chuyên ngành\Lập trình Win\Đồ án cuối kỳ\qlnv\qlnv\qlnv\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\pc\Desktop\Đại Học\Tài liệu môn học\Môn chuyên ngành\Lập trình Win\Đồ án cuối kỳ\qlnv\qlnv\qlnv\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\pc\Desktop\Đại Học\Tài liệu môn học\Môn chuyên ngành\Lập trình Win\Đồ án cuối kỳ\qlnv\qlnv\qlnv\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\pc\Desktop\Đại Học\Tài liệu môn học\Môn chuyên ngành\Lập trình Win\Đồ án cuối kỳ\qlnv\qlnv\qlnv\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\pc\Desktop\Đại Học\Tài liệu môn học\Môn chuyên ngành\Lập trình Win\Đồ án cuối kỳ\qlnv\qlnv\qlnv\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\pc\Desktop\Đại Học\Tài liệu môn học\Môn chuyên ngành\Lập trình Win\Đồ án cuối kỳ\qlnv\qlnv\qlnv\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\pc\Desktop\Đại Học\Tài liệu môn học\Môn chuyên ngành\Lập trình Win\Đồ án cuối kỳ\qlnv\qlnv\qlnv\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\pc\Desktop\Đại Học\Tài liệu môn học\Môn chuyên ngành\Lập trình Win\Đồ án cuối kỳ\qlnv\qlnv\qlnv\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\pc\Desktop\Đại Học\Tài liệu môn học\Môn chuyên ngành\Lập trình Win\Đồ án cuối kỳ\qlnv\qlnv\qlnv\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\pc\Desktop\Đại Học\Tài liệu môn học\Môn chuyên ngành\Lập trình Win\Đồ án cuối kỳ\qlnv\qlnv\qlnv\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\pc\Desktop\Đại Học\Tài liệu môn học\Môn chuyên ngành\Lập trình Win\Đồ án cuối kỳ\qlnv\qlnv\qlnv\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\pc\Desktop\Đại Học\Tài liệu môn học\Môn chuyên ngành\Lập trình Win\Đồ án cuối kỳ\qlnv\qlnv\qlnv\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\pc\Desktop\Đại Học\Tài liệu môn học\Môn chuyên ngành\Lập trình Win\Đồ án cuối kỳ\qlnv\qlnv\qlnv\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\pc\Desktop\Đại Học\Tài liệu môn học\Môn chuyên ngành\Lập trình Win\Đồ án cuối kỳ\qlnv\qlnv\qlnv\obj\Debug\qlnv.csprojAssemblyReference.cache
+C:\Users\pc\Desktop\Đại Học\Tài liệu môn học\Môn chuyên ngành\Lập trình Win\Đồ án cuối kỳ\qlnv\qlnv\qlnv\obj\Debug\qlnv.Forms.ChamCong.resources
+C:\Users\pc\Desktop\Đại Học\Tài liệu môn học\Môn chuyên ngành\Lập trình Win\Đồ án cuối kỳ\qlnv\qlnv\qlnv\obj\Debug\qlnv.Forms.ChiTietChamCong.resources
+C:\Users\pc\Desktop\Đại Học\Tài liệu môn học\Môn chuyên ngành\Lập trình Win\Đồ án cuối kỳ\qlnv\qlnv\qlnv\obj\Debug\qlnv.Forms.EditDep.resources
+C:\Users\pc\Desktop\Đại Học\Tài liệu môn học\Môn chuyên ngành\Lập trình Win\Đồ án cuối kỳ\qlnv\qlnv\qlnv\obj\Debug\qlnv.EditEmp.resources
+C:\Users\pc\Desktop\Đại Học\Tài liệu môn học\Môn chuyên ngành\Lập trình Win\Đồ án cuối kỳ\qlnv\qlnv\qlnv\obj\Debug\qlnv.AddAndEditDept.resources
+C:\Users\pc\Desktop\Đại Học\Tài liệu môn học\Môn chuyên ngành\Lập trình Win\Đồ án cuối kỳ\qlnv\qlnv\qlnv\obj\Debug\qlnv.AddEmployee.resources
+C:\Users\pc\Desktop\Đại Học\Tài liệu môn học\Môn chuyên ngành\Lập trình Win\Đồ án cuối kỳ\qlnv\qlnv\qlnv\obj\Debug\qlnv.AssignEmp.resources
+C:\Users\pc\Desktop\Đại Học\Tài liệu môn học\Môn chuyên ngành\Lập trình Win\Đồ án cuối kỳ\qlnv\qlnv\qlnv\obj\Debug\qlnv.Forms.EditPro.resources
+C:\Users\pc\Desktop\Đại Học\Tài liệu môn học\Môn chuyên ngành\Lập trình Win\Đồ án cuối kỳ\qlnv\qlnv\qlnv\obj\Debug\qlnv.Forms.frmAssignProject.resources
+C:\Users\pc\Desktop\Đại Học\Tài liệu môn học\Môn chuyên ngành\Lập trình Win\Đồ án cuối kỳ\qlnv\qlnv\qlnv\obj\Debug\qlnv.Forms.frmLogin.resources
+C:\Users\pc\Desktop\Đại Học\Tài liệu môn học\Môn chuyên ngành\Lập trình Win\Đồ án cuối kỳ\qlnv\qlnv\qlnv\obj\Debug\qlnv.Forms.Luong.resources
+C:\Users\pc\Desktop\Đại Học\Tài liệu môn học\Môn chuyên ngành\Lập trình Win\Đồ án cuối kỳ\qlnv\qlnv\qlnv\obj\Debug\qlnv.ProjectAdd.resources
+C:\Users\pc\Desktop\Đại Học\Tài liệu môn học\Môn chuyên ngành\Lập trình Win\Đồ án cuối kỳ\qlnv\qlnv\qlnv\obj\Debug\qlnv.FormStart.resources
+C:\Users\pc\Desktop\Đại Học\Tài liệu môn học\Môn chuyên ngành\Lập trình Win\Đồ án cuối kỳ\qlnv\qlnv\qlnv\obj\Debug\qlnv.Properties.Resources.resources
+C:\Users\pc\Desktop\Đại Học\Tài liệu môn học\Môn chuyên ngành\Lập trình Win\Đồ án cuối kỳ\qlnv\qlnv\qlnv\obj\Debug\qlnv.User_Controls.Department.resources
+C:\Users\pc\Desktop\Đại Học\Tài liệu môn học\Môn chuyên ngành\Lập trình Win\Đồ án cuối kỳ\qlnv\qlnv\qlnv\obj\Debug\qlnv.User_Controls.Employee.resources
+C:\Users\pc\Desktop\Đại Học\Tài liệu môn học\Môn chuyên ngành\Lập trình Win\Đồ án cuối kỳ\qlnv\qlnv\qlnv\obj\Debug\qlnv.User_Controls.Login.resources
+C:\Users\pc\Desktop\Đại Học\Tài liệu môn học\Môn chuyên ngành\Lập trình Win\Đồ án cuối kỳ\qlnv\qlnv\qlnv\obj\Debug\qlnv.User_Controls.Project.resources
+C:\Users\pc\Desktop\Đại Học\Tài liệu môn học\Môn chuyên ngành\Lập trình Win\Đồ án cuối kỳ\qlnv\qlnv\qlnv\obj\Debug\qlnv.csproj.GenerateResource.cache
+C:\Users\pc\Desktop\Đại Học\Tài liệu môn học\Môn chuyên ngành\Lập trình Win\Đồ án cuối kỳ\qlnv\qlnv\qlnv\obj\Debug\qlnv.csproj.CoreCompileInputs.cache
+C:\Users\pc\Desktop\Đại Học\Tài liệu môn học\Môn chuyên ngành\Lập trình Win\Đồ án cuối kỳ\qlnv\qlnv\qlnv\obj\Debug\qlnv.csproj.CopyComplete
+C:\Users\pc\Desktop\Đại Học\Tài liệu môn học\Môn chuyên ngành\Lập trình Win\Đồ án cuối kỳ\qlnv\qlnv\qlnv\obj\Debug\qlnv.exe
+C:\Users\pc\Desktop\Đại Học\Tài liệu môn học\Môn chuyên ngành\Lập trình Win\Đồ án cuối kỳ\qlnv\qlnv\qlnv\obj\Debug\qlnv.pdb
+C:\Users\pc\Desktop\Đại Học\Tài liệu môn học\Môn chuyên ngành\Lập trình Win\Đồ án cuối kỳ\qlnv\qlnv\qlnv\obj\Debug\RdlCompile.cache
+C:\Users\pc\Desktop\Đại Học\Tài liệu môn học\Môn chuyên ngành\Lập trình Win\Đồ án cuối kỳ\qlnv\qlnv\qlnv\obj\Debug\RdlCompile.compiled
